@@ -1,0 +1,2001 @@
+Ship_Type,DWT,Engine_Power_kW,Design_Speed,Avg_Speed_Knots,Distance_NM,Draft_Percentage,Wind_Beaufort,Wave_Height_m,Current_Speed_Knots,Current_Direction,Season,Fuel_Consumption_Tons
+Container,111381,44005,20.4,14.1,1089,67.9,4,3.67,1.14,Beam,Northeast Monsoon,192.64
+Bulker,62874,9189,12.1,7.4,1024,67.7,5,2.96,1.74,Head,Southwest Monsoon,52.13
+Bulker,55114,7775,15.1,11.0,1505,57.4,8,4.46,0.8,Following,Southwest Monsoon,66.27
+Bulker,52720,7801,15.9,12.5,1645,65.6,7,4.21,1.27,Following,Southwest Monsoon,89.49
+Tanker,55251,10227,16.5,11.4,2317,52.8,6,4.38,1.26,Beam,Southwest Monsoon,110.39
+Container,53427,20021,18.6,11.9,3733,78.0,4,5.51,1.27,Head,Southwest Monsoon,339.64
+Container,148379,59429,19.7,16.7,4648,91.8,4,3.44,0.56,Following,Northeast Monsoon,1975.62
+Container,119848,47570,19.6,13.2,1181,65.2,3,0.7,0.61,Beam,Inter-Monsoon,190.03
+Bulker,48020,7413,13.7,9.2,935,97.8,4,3.71,2.44,Beam,Southwest Monsoon,48.29
+Container,20149,8407,21.9,14.2,4861,84.5,1,1.45,0.43,Head,Inter-Monsoon,136.89
+Tanker,203421,36680,14.0,11.8,4672,58.1,2,0.97,0.61,Head,Inter-Monsoon,1147.18
+Bulker,140725,21282,12.4,7.9,4489,51.3,5,2.51,0.54,Following,Northeast Monsoon,399.8
+Bulker,163153,24958,13.5,12.3,3416,93.8,2,0.6,0.34,Following,Inter-Monsoon,967.63
+Tanker,61986,10767,16.9,14.6,1116,75.8,3,1.74,0.97,Beam,Inter-Monsoon,86.74
+Bulker,54780,7316,13.9,9.4,4392,84.7,4,3.65,0.78,Head,Southwest Monsoon,216.0
+Bulker,91147,13813,13.8,8.8,3875,64.9,3,1.4,0.65,Following,Inter-Monsoon,215.78
+Bulker,184275,27525,14.8,11.1,2019,60.1,3,2.39,1.25,Beam,Northeast Monsoon,287.54
+Tanker,153926,27966,13.1,11.1,2609,67.1,3,2.79,0.82,Following,Northeast Monsoon,655.32
+Bulker,85000,12243,12.3,9.6,1493,62.4,8,3.09,1.75,Beam,Southwest Monsoon,155.85
+Bulker,149199,23384,14.8,12.8,2517,72.6,5,3.54,1.11,Beam,Northeast Monsoon,539.41
+Container,63073,25162,19.2,16.1,4398,74.2,8,3.4,1.59,Beam,Southwest Monsoon,771.07
+Tanker,146598,26529,16.8,15.8,3092,88.6,1,0.61,0.65,Head,Inter-Monsoon,792.76
+Tanker,249897,44938,15.5,13.1,3626,83.0,3,1.17,0.18,Following,Inter-Monsoon,1390.91
+Container,129969,52283,19.4,15.0,3332,60.3,2,1.99,0.79,Beam,Inter-Monsoon,777.13
+Container,111549,44210,19.2,13.8,3840,62.4,3,1.66,0.76,Beam,Inter-Monsoon,692.96
+Bulker,181379,27594,13.5,12.5,3701,52.4,6,1.85,0.58,Following,Northeast Monsoon,882.37
+Container,82960,32393,22.8,14.7,4427,66.2,5,2.06,1.26,Head,Northeast Monsoon,440.05
+Tanker,153235,27623,17.0,10.7,4481,80.8,3,2.32,0.67,Head,Northeast Monsoon,520.53
+Tanker,259670,46978,16.8,15.3,2691,97.1,5,3.03,1.45,Beam,Northeast Monsoon,1304.14
+Tanker,201098,36027,15.3,14.4,3680,52.1,1,1.9,0.96,Following,Inter-Monsoon,967.58
+Bulker,139727,21260,15.5,9.6,1809,72.3,3,1.89,0.99,Beam,Inter-Monsoon,150.91
+Container,88923,35530,19.5,15.5,1061,58.0,5,2.78,1.22,Following,Northeast Monsoon,175.51
+Container,70434,28311,21.3,15.1,3790,65.6,3,0.67,0.13,Beam,Inter-Monsoon,338.42
+Container,96092,38358,20.4,13.5,3118,74.7,7,3.25,1.69,Head,Southwest Monsoon,479.01
+Bulker,188325,28838,12.9,11.3,4238,91.3,1,1.9,0.81,Beam,Inter-Monsoon,1339.76
+Bulker,198896,30044,12.5,7.7,4459,85.0,3,2.53,0.99,Following,Northeast Monsoon,748.28
+Container,125660,51632,20.2,14.0,4788,90.5,3,1.56,0.5,Head,Inter-Monsoon,1017.04
+Bulker,83075,12558,12.5,8.0,3989,97.5,1,1.99,0.79,Head,Inter-Monsoon,324.18
+Bulker,140887,21247,15.0,10.2,2439,92.3,7,5.84,2.45,Beam,Southwest Monsoon,354.86
+Bulker,81170,12795,15.2,12.7,3196,50.7,3,1.02,0.32,Following,Inter-Monsoon,227.31
+Bulker,112381,16398,14.3,10.4,1633,69.5,4,2.46,1.41,Following,Northeast Monsoon,156.27
+Bulker,84313,12525,13.2,10.9,3314,98.6,4,2.92,0.5,Following,Northeast Monsoon,479.79
+Tanker,105995,19544,14.3,13.0,1755,84.5,3,2.67,0.59,Head,Northeast Monsoon,358.66
+Tanker,53126,9754,14.0,12.5,3711,77.5,3,1.7,0.51,Head,Inter-Monsoon,357.81
+Bulker,106489,15406,12.3,11.0,1630,55.3,8,5.64,0.55,Following,Southwest Monsoon,278.09
+Bulker,195826,29742,15.1,9.6,3773,50.0,5,3.31,0.6,Beam,Northeast Monsoon,422.96
+Bulker,132709,19928,15.2,10.5,2770,71.7,4,1.8,1.34,Head,Northeast Monsoon,288.21
+Bulker,82181,11883,15.0,10.8,1733,88.8,3,1.54,1.27,Following,Northeast Monsoon,124.97
+Tanker,228645,41257,15.6,10.1,3175,57.9,4,2.5,0.71,Head,Northeast Monsoon,507.72
+Tanker,275417,49357,15.5,10.8,3528,65.7,3,2.53,1.09,Head,Northeast Monsoon,895.96
+Tanker,224862,40476,13.2,8.2,2565,84.6,2,0.94,0.39,Following,Inter-Monsoon,494.03
+Container,32616,13470,22.8,18.8,626,65.3,6,3.31,1.34,Head,Southwest Monsoon,45.48
+Tanker,290574,51617,16.1,11.2,4200,90.2,1,0.62,0.26,Beam,Inter-Monsoon,1246.89
+Container,109194,44126,21.4,18.1,3314,99.4,6,1.88,0.67,Head,Northeast Monsoon,928.7
+Bulker,74171,11022,12.7,11.8,3989,65.0,1,1.46,0.6,Head,Inter-Monsoon,433.69
+Container,26267,9952,23.1,14.8,4469,85.4,5,3.49,2.45,Following,Southwest Monsoon,161.25
+Container,120599,48107,24.0,18.2,3755,87.5,3,1.52,0.37,Following,Inter-Monsoon,766.48
+Tanker,214185,37484,16.1,14.1,1895,64.8,3,1.16,0.44,Following,Inter-Monsoon,474.19
+Tanker,288055,51000,13.2,8.5,3653,94.3,5,4.62,1.78,Beam,Southwest Monsoon,1320.82
+Tanker,130045,23776,14.1,12.0,3903,78.1,1,1.94,0.22,Following,Inter-Monsoon,807.48
+Container,91051,36249,20.9,15.6,1147,79.5,5,5.09,1.03,Following,Southwest Monsoon,218.53
+Bulker,143606,22318,12.1,7.9,2706,89.3,3,1.77,0.99,Following,Inter-Monsoon,391.48
+Container,147376,59526,20.4,14.9,3491,65.2,3,1.12,0.57,Following,Inter-Monsoon,738.03
+Bulker,161536,24481,14.2,9.6,2212,56.3,7,4.23,2.48,Head,Southwest Monsoon,278.42
+Bulker,145503,21450,12.9,11.9,2010,58.6,1,0.69,0.43,Beam,Inter-Monsoon,360.41
+Bulker,50624,7291,12.1,10.9,2305,98.3,3,2.09,0.96,Head,Northeast Monsoon,225.36
+Container,133615,53427,23.2,14.6,3354,60.9,3,1.66,0.7,Beam,Inter-Monsoon,415.17
+Bulker,198197,28556,13.4,11.2,3475,92.0,1,1.1,0.83,Following,Inter-Monsoon,920.66
+Bulker,99339,14784,13.7,9.1,2284,76.4,4,4.56,0.97,Head,Southwest Monsoon,209.59
+Tanker,196208,36085,13.1,12.1,3503,64.2,1,1.54,0.98,Head,Inter-Monsoon,1274.76
+Container,136903,54494,23.9,22.7,4397,64.4,2,0.61,0.68,Beam,Inter-Monsoon,1282.44
+Tanker,292992,52879,17.0,11.6,1528,52.6,7,5.67,1.61,Head,Southwest Monsoon,356.53
+Container,128050,51526,21.4,18.8,1845,56.3,3,3.01,1.41,Beam,Northeast Monsoon,448.09
+Bulker,60206,8562,12.3,7.9,746,97.7,2,1.84,0.64,Head,Inter-Monsoon,43.68
+Tanker,258507,46617,15.6,11.4,1138,77.5,2,1.09,0.28,Beam,Inter-Monsoon,269.98
+Container,120444,48088,19.1,18.1,1322,70.1,5,3.69,1.44,Beam,Southwest Monsoon,505.76
+Tanker,65289,12793,14.3,9.7,1262,83.3,5,3.74,1.72,Beam,Southwest Monsoon,98.29
+Container,127450,51316,18.9,14.6,2124,73.4,3,0.78,0.4,Head,Inter-Monsoon,565.6
+Bulker,35852,5265,14.5,9.6,1753,93.1,8,3.69,1.8,Following,Southwest Monsoon,57.83
+Container,134012,53899,21.1,18.1,3682,62.5,8,4.67,1.0,Following,Southwest Monsoon,1222.69
+Container,93587,37265,22.3,18.7,1982,74.1,3,1.28,0.69,Beam,Inter-Monsoon,348.73
+Tanker,183678,32566,13.9,8.5,3177,59.2,5,4.62,2.21,Head,Southwest Monsoon,486.91
+Bulker,177691,27435,14.2,8.6,3507,70.9,2,0.6,0.44,Beam,Inter-Monsoon,382.75
+Container,94508,37408,22.1,14.6,1013,57.3,3,1.03,0.64,Following,Inter-Monsoon,95.85
+Tanker,298612,54170,14.2,13.0,4878,76.7,8,5.22,0.69,Head,Southwest Monsoon,3405.07
+Container,31224,12655,18.2,16.6,538,50.5,8,3.38,2.32,Following,Southwest Monsoon,42.31
+Tanker,197822,35865,15.8,10.8,4458,69.9,3,1.52,0.98,Following,Inter-Monsoon,728.58
+Container,51545,19933,19.7,13.1,4883,94.5,1,1.82,0.46,Head,Inter-Monsoon,417.46
+Tanker,166384,30102,14.7,9.7,4861,95.4,3,1.31,0.85,Beam,Inter-Monsoon,824.53
+Container,128586,51251,21.2,18.1,3192,84.3,3,1.3,0.98,Beam,Inter-Monsoon,1014.93
+Bulker,84640,12890,12.3,9.3,4940,50.5,4,1.67,0.78,Beam,Northeast Monsoon,341.65
+Tanker,100308,17675,14.5,9.1,4993,58.0,6,2.53,0.78,Beam,Southwest Monsoon,362.41
+Container,76274,29952,19.3,13.0,2967,66.9,1,0.79,0.45,Head,Inter-Monsoon,317.35
+Container,39017,16092,20.1,14.4,2823,65.8,6,3.63,1.55,Following,Southwest Monsoon,193.74
+Container,94669,38193,20.4,12.5,3264,66.9,1,1.19,0.3,Following,Inter-Monsoon,343.59
+Bulker,58348,7772,14.2,12.9,4526,56.7,6,3.87,0.9,Following,Southwest Monsoon,302.45
+Container,29151,12130,18.9,13.4,4090,74.0,6,3.16,1.43,Beam,Southwest Monsoon,249.99
+Tanker,282259,52077,14.3,12.8,4857,77.6,5,5.82,1.13,Head,Southwest Monsoon,2839.19
+Container,94029,38243,20.0,14.0,4712,90.4,4,3.21,1.04,Beam,Northeast Monsoon,846.03
+Bulker,183124,28502,15.4,13.8,2078,76.7,7,4.06,1.59,Beam,Southwest Monsoon,613.34
+Bulker,169094,25186,15.7,10.4,3077,73.5,2,0.76,0.73,Following,Inter-Monsoon,338.65
+Bulker,155247,22621,13.2,11.0,4778,75.1,3,3.75,0.99,Beam,Northeast Monsoon,1001.06
+Bulker,190771,28277,14.2,11.1,2295,57.1,3,3.49,0.75,Beam,Northeast Monsoon,447.65
+Bulker,85045,13601,15.4,14.3,3628,52.6,3,3.18,0.54,Beam,Northeast Monsoon,375.42
+Bulker,134534,20323,13.8,13.0,886,89.8,7,5.06,1.07,Following,Southwest Monsoon,258.45
+Bulker,35178,5177,13.5,9.6,1478,92.3,5,3.53,2.09,Following,Southwest Monsoon,52.6
+Container,77058,30823,23.9,16.6,3900,90.2,1,1.8,0.27,Following,Inter-Monsoon,494.38
+Bulker,159744,23244,13.1,10.7,3107,75.4,3,1.1,0.65,Beam,Inter-Monsoon,579.25
+Container,56068,22388,18.7,13.0,3439,70.9,4,2.68,2.43,Beam,Southwest Monsoon,324.14
+Container,57347,23235,18.1,15.7,2691,93.0,6,2.02,0.72,Beam,Northeast Monsoon,572.29
+Bulker,77162,11587,14.4,10.1,1919,96.8,7,3.02,1.49,Head,Southwest Monsoon,169.75
+Container,117713,47196,22.5,14.9,1569,62.1,1,1.19,0.63,Beam,Inter-Monsoon,199.87
+Bulker,36564,6116,15.7,10.1,1813,91.1,2,1.15,0.42,Beam,Inter-Monsoon,55.45
+Bulker,94757,14016,12.8,8.4,679,72.8,5,2.83,1.19,Head,Northeast Monsoon,60.14
+Container,106934,42125,21.0,19.8,1514,74.4,4,2.8,2.27,Head,Southwest Monsoon,506.24
+Tanker,81501,14857,15.2,9.1,560,92.6,6,5.36,1.83,Head,Southwest Monsoon,46.18
+Bulker,172827,25944,12.8,11.4,4975,62.6,4,5.08,0.87,Following,Southwest Monsoon,1340.02
+Bulker,68334,10952,15.1,14.3,1188,59.0,1,1.22,0.83,Beam,Inter-Monsoon,107.03
+Bulker,69524,10847,12.6,11.6,1535,72.3,5,3.37,0.69,Beam,Northeast Monsoon,191.26
+Tanker,71940,13828,13.9,9.1,4120,55.1,6,4.79,1.58,Head,Southwest Monsoon,280.33
+Container,107985,42903,19.0,16.0,3367,69.3,3,2.68,1.11,Beam,Northeast Monsoon,900.25
+Tanker,241422,43504,13.5,9.6,2866,75.4,5,2.67,1.42,Beam,Northeast Monsoon,829.23
+Bulker,97052,14274,12.7,8.6,4357,93.2,5,2.04,0.92,Beam,Northeast Monsoon,446.69
+Bulker,59084,9087,12.2,10.1,2487,63.7,6,2.52,1.11,Following,Northeast Monsoon,185.8
+Bulker,159661,23749,15.9,10.5,4479,79.4,3,3.45,1.24,Head,Northeast Monsoon,564.47
+Container,35681,14043,18.4,12.7,629,72.8,3,0.95,0.64,Following,Inter-Monsoon,34.74
+Tanker,65655,12116,14.5,11.4,4911,80.4,4,2.86,1.11,Following,Northeast Monsoon,464.42
+Bulker,76081,11881,15.8,10.6,825,50.8,5,3.31,2.32,Beam,Southwest Monsoon,40.64
+Tanker,170492,31093,15.3,12.2,3013,91.8,6,2.63,2.34,Beam,Southwest Monsoon,816.33
+Bulker,163875,23394,12.3,8.7,2508,89.0,3,3.99,0.85,Beam,Northeast Monsoon,484.93
+Bulker,164322,24940,14.3,8.7,4739,57.1,3,0.55,0.93,Following,Inter-Monsoon,385.17
+Container,23357,9985,23.6,17.7,1201,58.6,1,0.68,0.56,Following,Inter-Monsoon,37.1
+Tanker,116445,21112,15.1,14.1,2363,88.6,6,4.62,2.36,Following,Southwest Monsoon,555.01
+Container,107771,43208,20.2,12.3,3447,60.8,1,1.57,0.56,Following,Inter-Monsoon,400.38
+Tanker,248548,44662,16.6,15.5,919,80.4,2,1.27,0.21,Beam,Inter-Monsoon,378.21
+Container,73299,29113,23.1,20.3,1572,87.1,2,0.75,0.91,Head,Inter-Monsoon,265.61
+Bulker,153159,22428,14.7,9.2,1227,89.9,5,5.16,2.25,Following,Southwest Monsoon,155.49
+Container,146814,58693,18.9,11.6,628,73.7,5,1.72,1.23,Beam,Northeast Monsoon,120.24
+Tanker,265840,47900,15.3,10.3,1750,98.4,7,2.89,2.17,Following,Southwest Monsoon,534.57
+Bulker,170843,25104,12.9,8.8,1541,72.1,4,3.55,1.45,Following,Northeast Monsoon,229.94
+Bulker,40343,6382,16.0,11.3,886,80.9,1,0.82,0.74,Beam,Inter-Monsoon,27.19
+Tanker,90628,15548,14.1,12.8,3808,63.8,1,1.28,0.61,Following,Inter-Monsoon,456.8
+Tanker,233888,41789,13.7,10.6,940,76.6,1,1.74,0.81,Following,Inter-Monsoon,278.83
+Bulker,158401,24184,15.9,11.8,3927,83.9,6,1.78,1.15,Beam,Northeast Monsoon,626.78
+Bulker,93366,14266,15.0,10.3,1602,97.9,2,0.89,0.54,Head,Inter-Monsoon,133.07
+Tanker,275035,49068,14.1,8.7,1913,97.1,6,1.93,1.25,Beam,Northeast Monsoon,518.25
+Bulker,37304,5935,15.2,11.5,4102,55.1,3,3.09,0.75,Following,Northeast Monsoon,127.08
+Bulker,176693,26051,13.5,9.7,1082,63.1,7,4.8,1.96,Following,Southwest Monsoon,193.67
+Container,88506,35901,19.8,18.7,1179,94.0,8,3.97,0.51,Following,Southwest Monsoon,458.85
+Bulker,110161,16907,15.6,11.8,3282,70.7,2,1.75,0.28,Beam,Inter-Monsoon,321.74
+Bulker,61641,8687,12.2,10.4,2831,54.6,2,1.21,0.84,Following,Inter-Monsoon,198.54
+Tanker,128991,23293,14.2,13.4,4779,94.9,5,5.65,0.76,Head,Southwest Monsoon,1647.38
+Bulker,179583,26928,12.2,10.0,2269,85.7,2,0.56,0.63,Beam,Inter-Monsoon,509.83
+Bulker,72370,10872,15.7,13.3,3692,64.0,6,3.44,1.89,Following,Southwest Monsoon,308.61
+Bulker,67113,9654,15.1,9.8,691,71.0,3,1.07,0.2,Head,Inter-Monsoon,28.19
+Container,93765,37436,23.5,16.1,3201,59.2,1,1.61,0.84,Beam,Inter-Monsoon,328.22
+Container,28297,10733,23.7,15.5,1949,97.2,1,1.88,0.44,Head,Inter-Monsoon,77.62
+Bulker,130689,19095,14.3,11.2,4686,88.6,2,1.11,0.64,Head,Inter-Monsoon,745.51
+Bulker,148157,22207,14.0,8.6,2757,81.0,2,0.8,0.57,Beam,Inter-Monsoon,251.48
+Bulker,141559,20772,15.5,12.9,4623,66.8,4,4.94,1.24,Following,Southwest Monsoon,690.9
+Tanker,188802,33980,14.4,12.3,2387,53.8,3,2.16,1.48,Head,Northeast Monsoon,547.85
+Bulker,198917,29698,15.4,14.6,2256,93.7,7,5.53,2.12,Beam,Southwest Monsoon,824.32
+Tanker,157783,28170,14.1,9.4,3941,82.9,3,0.65,0.32,Beam,Inter-Monsoon,556.88
+Tanker,114558,20974,13.2,11.2,3604,91.3,5,5.31,1.36,Following,Southwest Monsoon,967.91
+Container,97083,39372,18.2,12.8,4469,84.0,3,1.87,0.78,Beam,Inter-Monsoon,866.21
+Tanker,79581,14350,16.3,15.3,4000,95.5,2,0.65,0.18,Head,Inter-Monsoon,580.11
+Bulker,160070,22981,12.4,8.2,2807,57.5,7,5.96,0.53,Head,Southwest Monsoon,387.7
+Bulker,32675,4828,15.6,11.3,4466,75.0,4,3.64,1.39,Head,Northeast Monsoon,134.55
+Bulker,192330,29440,12.9,8.3,504,97.2,1,1.21,0.99,Head,Inter-Monsoon,96.39
+Tanker,295266,53726,16.7,10.9,2191,91.4,4,1.57,1.42,Head,Northeast Monsoon,631.11
+Tanker,174456,30678,14.1,12.5,1163,97.7,7,2.83,1.94,Following,Southwest Monsoon,428.67
+Bulker,125734,19229,15.0,14.0,4244,50.5,6,3.64,2.09,Following,Southwest Monsoon,652.11
+Bulker,139848,19648,13.3,12.7,2400,95.3,3,1.96,1.17,Head,Northeast Monsoon,614.75
+Container,103849,41329,20.7,19.2,2142,53.1,6,1.73,0.7,Beam,Northeast Monsoon,470.18
+Container,28211,11068,18.8,15.0,1572,92.3,8,2.56,1.69,Head,Southwest Monsoon,141.82
+Container,146507,58994,21.3,13.7,1556,74.7,2,1.68,0.79,Head,Inter-Monsoon,295.29
+Container,66472,26979,20.1,14.7,599,98.9,2,0.98,0.73,Head,Inter-Monsoon,84.6
+Container,32295,13005,18.6,12.4,2622,68.5,4,4.06,1.45,Following,Southwest Monsoon,136.71
+Tanker,250469,44971,14.5,12.5,3440,64.9,3,2.04,0.59,Following,Northeast Monsoon,1130.09
+Tanker,133362,23715,16.2,10.6,4951,69.6,8,5.52,2.11,Beam,Southwest Monsoon,623.04
+Bulker,161822,24172,12.2,10.5,4834,82.5,5,3.65,0.98,Head,Northeast Monsoon,1519.4
+Container,97655,38293,20.6,18.4,4695,57.1,3,2.66,1.48,Beam,Northeast Monsoon,944.58
+Container,81154,32028,18.8,14.4,4364,69.9,5,5.12,1.64,Beam,Southwest Monsoon,791.66
+Bulker,145934,21884,13.3,11.0,2598,60.1,3,0.98,0.62,Head,Inter-Monsoon,407.55
+Tanker,208919,37896,13.3,11.9,3730,97.3,1,0.89,0.16,Beam,Inter-Monsoon,1602.23
+Container,131691,53450,20.6,18.8,1381,86.4,5,4.12,1.36,Beam,Southwest Monsoon,608.86
+Tanker,223294,39502,14.0,9.6,1240,66.9,4,5.81,1.52,Following,Southwest Monsoon,278.33
+Container,84906,34164,20.0,17.0,2718,95.1,6,4.68,0.51,Following,Southwest Monsoon,763.09
+Container,81874,32988,22.0,20.2,1004,50.8,3,0.53,0.19,Beam,Inter-Monsoon,153.3
+Tanker,96582,17713,14.2,12.9,2325,55.5,2,0.58,0.16,Following,Inter-Monsoon,280.09
+Tanker,297260,53724,15.5,9.9,942,98.5,2,1.82,0.88,Following,Inter-Monsoon,267.48
+Bulker,153970,22615,15.8,10.0,3876,86.5,7,4.28,1.04,Beam,Southwest Monsoon,431.06
+Tanker,97565,17341,16.3,14.1,4337,88.9,3,1.85,0.83,Head,Inter-Monsoon,700.18
+Tanker,108416,19051,13.8,11.6,675,78.0,7,3.65,2.05,Following,Southwest Monsoon,129.43
+Container,50675,20604,18.2,15.1,1582,62.8,4,2.83,1.42,Head,Southwest Monsoon,199.54
+Tanker,292098,53149,15.7,11.5,1280,88.3,6,5.51,2.17,Head,Southwest Monsoon,536.14
+Container,79383,31584,18.3,15.7,3488,80.8,1,1.91,0.37,Head,Inter-Monsoon,753.98
+Bulker,130564,19072,12.5,9.6,1705,76.2,5,5.81,1.19,Head,Southwest Monsoon,313.41
+Tanker,245921,42972,14.7,9.3,2890,77.8,1,1.54,0.39,Beam,Inter-Monsoon,557.04
+Container,46471,18146,23.6,20.1,3836,77.6,6,2.87,0.77,Beam,Northeast Monsoon,400.35
+Bulker,64348,9821,12.7,9.8,3377,67.0,8,4.09,1.71,Following,Southwest Monsoon,288.49
+Tanker,158008,27895,15.6,10.7,1461,54.2,2,1.2,0.13,Following,Inter-Monsoon,163.18
+Bulker,85248,13077,15.0,10.9,4428,51.9,5,2.17,1.13,Beam,Northeast Monsoon,268.42
+Bulker,55499,8007,13.0,9.5,4371,52.7,3,0.76,0.69,Head,Inter-Monsoon,175.92
+Bulker,76376,11295,13.4,10.8,908,65.8,5,3.89,1.04,Beam,Southwest Monsoon,81.18
+Tanker,83455,14911,16.9,13.4,4423,55.9,6,1.87,0.96,Beam,Northeast Monsoon,309.03
+Bulker,119043,18497,12.2,9.9,4966,89.2,3,1.51,0.94,Head,Inter-Monsoon,926.07
+Tanker,118315,21010,16.2,10.5,1074,97.1,7,5.78,0.81,Head,Southwest Monsoon,162.28
+Bulker,40416,6859,13.7,10.9,3221,53.1,4,1.52,0.82,Beam,Northeast Monsoon,138.12
+Tanker,69207,11942,16.8,12.7,4908,60.3,4,4.7,1.65,Head,Southwest Monsoon,312.2
+Container,126522,50344,19.4,11.9,1764,58.3,3,1.8,0.78,Beam,Inter-Monsoon,251.48
+Container,57094,23313,19.7,18.3,3316,90.9,4,4.23,2.17,Following,Southwest Monsoon,712.51
+Container,30220,12236,24.0,16.6,3881,96.0,6,2.42,0.76,Head,Northeast Monsoon,197.53
+Container,70578,28695,20.7,14.5,3333,90.6,4,5.14,2.16,Following,Southwest Monsoon,459.1
+Bulker,111693,17701,16.0,12.8,999,79.9,6,2.57,1.44,Beam,Northeast Monsoon,130.17
+Bulker,199194,29568,13.4,11.2,4109,98.4,1,1.33,0.82,Following,Inter-Monsoon,1189.83
+Bulker,194216,29898,14.4,12.1,3392,72.2,7,3.5,0.9,Beam,Southwest Monsoon,951.0
+Bulker,73780,10582,13.2,9.8,3168,86.3,6,2.45,0.63,Head,Northeast Monsoon,275.57
+Bulker,148058,21892,12.6,11.1,4107,87.3,2,0.54,0.5,Following,Inter-Monsoon,898.19
+Container,108946,44076,18.8,15.9,2260,62.9,5,3.92,0.82,Beam,Northeast Monsoon,645.04
+Tanker,165592,30147,13.6,9.0,3825,66.7,4,3.12,1.04,Head,Northeast Monsoon,591.0
+Bulker,102849,15585,12.8,10.1,2855,62.9,3,1.75,0.31,Beam,Inter-Monsoon,314.38
+Container,43489,17760,21.7,16.7,2455,53.0,7,2.58,0.92,Following,Southwest Monsoon,169.96
+Tanker,226536,40076,15.1,12.0,2689,96.9,8,3.96,1.67,Head,Southwest Monsoon,1179.73
+Tanker,69420,12304,16.1,14.2,3538,58.0,6,4.23,0.98,Following,Southwest Monsoon,313.97
+Container,140132,56085,21.7,14.2,4563,69.6,7,5.91,2.37,Head,Southwest Monsoon,1056.54
+Tanker,170793,31002,14.2,12.7,1772,81.0,1,1.33,0.32,Beam,Inter-Monsoon,512.59
+Bulker,55245,8075,12.5,10.0,2546,55.5,6,4.0,0.95,Following,Northeast Monsoon,161.11
+Container,41147,15543,22.3,18.1,1889,72.4,3,3.92,0.51,Following,Northeast Monsoon,150.25
+Tanker,97855,17203,14.6,13.3,4203,78.1,8,4.52,0.86,Head,Southwest Monsoon,866.34
+Bulker,106533,15891,15.7,12.6,1219,90.5,1,1.12,0.6,Beam,Inter-Monsoon,150.43
+Container,28079,11376,22.6,18.0,1547,62.2,1,0.54,0.21,Beam,Inter-Monsoon,66.3
+Bulker,153026,23774,13.5,11.4,4734,61.8,4,2.72,0.67,Beam,Northeast Monsoon,857.99
+Bulker,71596,10902,15.7,14.7,2161,55.9,6,3.51,0.91,Beam,Northeast Monsoon,189.26
+Tanker,66749,10887,16.0,10.3,1503,83.9,7,4.5,2.39,Head,Southwest Monsoon,91.64
+Bulker,130852,19251,15.9,14.1,3958,88.0,1,1.09,0.11,Following,Inter-Monsoon,656.74
+Tanker,175081,31387,16.8,14.1,771,94.1,6,2.69,0.53,Beam,Southwest Monsoon,198.43
+Container,55842,22362,23.1,17.7,2779,68.8,6,5.82,2.37,Beam,Southwest Monsoon,293.11
+Tanker,250405,45359,14.1,8.6,4265,85.9,1,1.42,0.36,Beam,Inter-Monsoon,832.56
+Bulker,186251,27944,12.4,9.0,3161,72.7,7,3.59,2.2,Beam,Southwest Monsoon,706.23
+Tanker,299842,53850,15.8,13.5,4101,50.5,5,2.86,1.49,Beam,Northeast Monsoon,1350.15
+Container,94124,37528,21.9,17.8,4685,85.8,6,2.9,1.05,Following,Southwest Monsoon,1004.66
+Container,74796,29995,23.7,16.7,3834,85.6,2,0.81,0.16,Head,Inter-Monsoon,428.31
+Bulker,172404,26122,12.8,8.6,3780,93.1,3,1.99,0.15,Head,Inter-Monsoon,665.63
+Bulker,84434,13524,14.6,10.3,742,57.7,3,0.93,0.38,Following,Inter-Monsoon,46.86
+Tanker,217614,38792,16.9,11.3,2879,57.3,4,1.62,0.82,Head,Northeast Monsoon,376.85
+Container,92183,37002,20.4,17.8,2228,60.6,7,4.92,1.02,Head,Southwest Monsoon,554.3
+Container,122763,49346,18.4,17.3,4278,83.1,3,1.1,0.46,Head,Inter-Monsoon,1755.55
+Container,39023,15030,18.2,15.5,1400,81.8,4,4.96,1.28,Head,Southwest Monsoon,163.08
+Bulker,41270,6711,14.0,12.9,2049,79.3,4,3.08,1.0,Following,Northeast Monsoon,145.67
+Tanker,294945,52445,14.5,12.1,2167,82.2,7,2.89,0.7,Following,Southwest Monsoon,1054.23
+Container,43145,17428,20.7,13.5,1264,88.6,3,3.29,0.89,Following,Northeast Monsoon,92.67
+Tanker,90185,16597,15.5,10.6,2149,75.1,2,1.31,0.31,Following,Inter-Monsoon,160.24
+Bulker,189660,29164,12.3,9.0,4332,98.7,7,3.13,2.03,Following,Southwest Monsoon,1267.05
+Tanker,232119,42176,16.5,14.4,4778,52.4,3,0.78,0.57,Following,Inter-Monsoon,1124.24
+Container,25124,10023,22.2,14.3,2045,54.5,5,4.8,2.41,Beam,Southwest Monsoon,61.9
+Bulker,148136,21881,14.3,12.6,3635,81.4,6,1.71,1.08,Head,Northeast Monsoon,794.87
+Tanker,218252,38750,15.5,9.4,4186,92.7,2,0.87,0.97,Following,Inter-Monsoon,629.5
+Container,42996,16724,21.0,15.7,4248,83.1,7,3.46,2.22,Head,Southwest Monsoon,430.64
+Bulker,183526,27910,12.8,12.0,1486,79.1,7,3.27,0.77,Head,Southwest Monsoon,557.93
+Bulker,183525,28499,15.6,11.3,2721,67.0,1,0.53,0.28,Beam,Inter-Monsoon,377.18
+Container,114967,45691,18.1,17.0,1936,99.6,1,1.18,0.75,Beam,Inter-Monsoon,827.18
+Tanker,231786,40742,15.1,14.1,1799,65.5,6,2.92,1.06,Head,Northeast Monsoon,705.85
+Container,46036,18651,19.3,17.9,1691,74.6,6,5.41,0.76,Following,Southwest Monsoon,261.92
+Container,104152,41438,18.7,16.9,2304,57.7,5,1.78,1.1,Head,Northeast Monsoon,624.62
+Container,27271,10514,22.0,15.9,4266,84.1,7,5.87,0.93,Head,Southwest Monsoon,237.99
+Bulker,100753,15270,12.2,8.2,1092,98.6,5,4.18,2.14,Following,Southwest Monsoon,123.79
+Container,75637,30178,22.9,14.6,4513,58.4,4,3.81,2.41,Beam,Southwest Monsoon,372.03
+Tanker,69044,12836,14.4,10.6,4848,50.9,6,2.79,0.57,Beam,Southwest Monsoon,320.1
+Bulker,62322,8734,15.9,11.5,1030,68.5,3,0.71,0.19,Beam,Inter-Monsoon,45.15
+Container,26648,11574,19.6,17.6,4873,56.6,1,1.96,0.96,Head,Inter-Monsoon,314.87
+Bulker,130776,19813,13.8,8.7,4648,57.1,5,1.65,1.3,Head,Northeast Monsoon,379.18
+Bulker,144704,21641,15.8,13.6,1042,84.1,6,2.11,1.34,Following,Northeast Monsoon,191.47
+Tanker,181303,33205,14.8,11.3,605,66.0,5,2.09,0.83,Head,Northeast Monsoon,126.02
+Bulker,137707,20262,14.3,13.0,899,89.0,1,1.41,0.87,Head,Inter-Monsoon,196.86
+Bulker,145811,22019,12.0,9.4,4897,77.7,2,0.9,0.16,Following,Inter-Monsoon,841.05
+Bulker,57542,8105,12.1,7.6,543,51.4,6,5.73,1.11,Following,Southwest Monsoon,22.69
+Bulker,168213,25007,14.3,11.1,887,98.8,1,1.98,0.74,Following,Inter-Monsoon,179.2
+Tanker,159820,27544,13.8,13.0,3661,84.8,6,3.37,0.63,Head,Northeast Monsoon,1284.52
+Bulker,42883,6717,12.8,9.7,4771,60.8,4,1.72,1.04,Following,Northeast Monsoon,189.94
+Bulker,193074,29354,14.6,13.7,4362,81.9,7,3.29,0.66,Following,Southwest Monsoon,1532.48
+Bulker,191093,29125,14.1,10.6,858,59.4,5,3.57,1.13,Following,Southwest Monsoon,165.61
+Container,26447,10164,22.1,17.3,3348,89.8,2,1.12,0.1,Following,Inter-Monsoon,169.81
+Tanker,212231,38141,13.7,9.0,1735,83.0,4,4.57,1.34,Following,Southwest Monsoon,415.92
+Container,136173,54306,21.0,18.1,2062,68.4,5,2.39,0.6,Following,Northeast Monsoon,591.12
+Tanker,87639,16072,16.2,14.2,1613,64.7,7,2.93,2.08,Beam,Southwest Monsoon,199.17
+Container,43505,16988,23.0,18.1,4428,70.7,2,1.52,0.74,Head,Inter-Monsoon,325.02
+Container,109391,44798,19.4,18.0,2866,70.3,4,4.21,1.5,Beam,Southwest Monsoon,1030.99
+Tanker,168565,30478,14.7,13.3,2158,57.5,5,3.7,1.56,Beam,Southwest Monsoon,540.57
+Tanker,189142,33617,13.9,8.8,3650,51.0,5,4.75,0.85,Head,Southwest Monsoon,502.54
+Tanker,283727,50595,13.8,12.2,3360,87.0,5,1.99,0.73,Following,Northeast Monsoon,1687.4
+Tanker,59775,10902,14.5,10.7,1909,71.8,3,1.28,0.16,Beam,Inter-Monsoon,123.01
+Tanker,269103,48279,16.4,15.0,981,90.3,2,0.88,0.91,Following,Inter-Monsoon,404.57
+Bulker,114914,17460,14.9,10.6,2985,83.3,4,2.98,1.59,Beam,Southwest Monsoon,338.01
+Tanker,86356,15804,13.4,9.1,1845,95.7,3,1.72,0.74,Head,Northeast Monsoon,188.43
+Container,52493,21307,23.9,15.5,2466,88.4,3,1.41,0.86,Following,Inter-Monsoon,161.17
+Container,147747,59089,19.2,16.8,3780,73.1,7,3.56,1.81,Following,Southwest Monsoon,1598.8
+Bulker,49839,7438,12.5,9.7,3793,82.8,2,1.71,0.37,Beam,Inter-Monsoon,233.77
+Tanker,154902,28201,15.8,14.3,3780,66.9,4,4.68,1.47,Beam,Southwest Monsoon,1019.09
+Container,125423,49834,20.5,12.4,1159,85.0,5,3.35,1.75,Following,Southwest Monsoon,207.43
+Tanker,96083,17554,13.2,9.7,535,61.1,1,1.6,0.76,Head,Inter-Monsoon,58.59
+Tanker,191719,34985,13.4,12.3,2224,56.7,4,1.88,1.07,Following,Northeast Monsoon,680.62
+Tanker,85531,14674,14.0,12.6,4515,84.3,8,4.42,1.89,Following,Southwest Monsoon,754.09
+Bulker,31061,5245,12.1,9.5,3103,83.4,1,0.67,0.75,Beam,Inter-Monsoon,131.84
+Bulker,78120,11753,12.5,9.0,2847,79.6,2,1.67,0.67,Following,Inter-Monsoon,223.59
+Tanker,50278,8585,14.9,9.5,1285,60.1,8,4.48,1.58,Following,Southwest Monsoon,49.79
+Container,73200,29112,21.0,17.1,2321,56.9,2,0.77,0.45,Beam,Inter-Monsoon,273.95
+Bulker,54715,7708,15.3,12.2,2330,80.7,4,5.23,1.17,Following,Southwest Monsoon,152.13
+Container,117129,46654,21.7,15.6,3650,96.9,6,4.15,1.32,Following,Southwest Monsoon,897.96
+Bulker,102561,14323,14.4,9.3,4889,66.8,6,4.17,1.86,Following,Southwest Monsoon,334.61
+Container,32821,13878,19.8,14.6,4109,63.8,3,2.05,1.0,Following,Northeast Monsoon,213.81
+Bulker,74697,11236,14.6,9.0,3824,63.5,7,4.01,1.79,Beam,Southwest Monsoon,194.17
+Container,142268,56332,20.8,15.1,2671,82.4,7,2.74,0.74,Following,Southwest Monsoon,746.06
+Tanker,94981,18035,16.2,14.1,4588,68.0,6,5.54,1.97,Head,Southwest Monsoon,692.9
+Tanker,76378,13890,16.8,13.5,4834,94.6,4,3.99,0.86,Following,Northeast Monsoon,522.41
+Tanker,261962,47525,13.6,8.3,3264,56.5,4,5.61,1.85,Following,Southwest Monsoon,633.49
+Bulker,169433,26017,14.2,12.7,3042,87.7,3,1.09,0.93,Beam,Inter-Monsoon,804.77
+Container,31471,12750,23.0,20.8,4973,83.3,1,1.0,0.56,Following,Inter-Monsoon,366.54
+Container,93575,37676,22.7,18.7,3877,84.7,6,2.92,0.61,Following,Northeast Monsoon,786.35
+Bulker,158700,22726,15.2,11.3,2001,71.0,1,1.46,0.87,Head,Inter-Monsoon,243.16
+Container,25633,9604,22.2,20.1,4555,78.6,6,4.75,1.14,Beam,Southwest Monsoon,332.13
+Bulker,33331,5076,15.9,11.0,1370,91.9,1,1.69,0.61,Head,Inter-Monsoon,40.18
+Container,71274,28559,19.9,12.5,2675,60.1,2,1.83,0.74,Following,Inter-Monsoon,201.86
+Bulker,172175,25807,14.5,9.7,2400,96.5,1,1.34,0.89,Following,Inter-Monsoon,375.9
+Tanker,238830,43271,13.1,12.0,660,65.5,4,5.35,0.85,Head,Southwest Monsoon,314.7
+Container,76497,30531,20.8,16.7,2195,58.8,3,1.23,0.87,Following,Inter-Monsoon,278.72
+Bulker,77188,10954,12.6,8.7,3140,92.5,7,4.2,1.13,Head,Southwest Monsoon,317.43
+Tanker,197861,35777,14.0,9.9,3625,66.2,5,4.4,1.61,Head,Southwest Monsoon,786.53
+Tanker,222538,39409,14.6,12.7,2813,81.7,1,1.76,0.51,Beam,Inter-Monsoon,1002.77
+Container,143827,57269,21.8,20.3,4232,58.0,1,0.77,0.35,Following,Inter-Monsoon,1280.14
+Tanker,72463,13594,16.1,14.0,3270,52.5,1,0.72,0.71,Head,Inter-Monsoon,250.58
+Container,131036,51341,23.2,21.3,2235,63.3,2,1.76,0.88,Beam,Inter-Monsoon,601.69
+Bulker,117186,18575,12.2,7.8,2232,82.5,3,2.07,1.29,Following,Northeast Monsoon,236.52
+Bulker,171635,25434,14.0,11.1,4778,75.3,4,3.63,1.94,Following,Southwest Monsoon,896.44
+Tanker,202496,36351,16.6,14.8,1347,90.7,8,3.0,0.92,Beam,Southwest Monsoon,531.14
+Container,60811,25217,19.9,18.2,2845,67.2,8,5.42,1.74,Head,Southwest Monsoon,603.9
+Tanker,295854,52985,14.1,9.3,754,66.2,2,1.21,0.47,Beam,Inter-Monsoon,167.97
+Tanker,286368,50812,14.7,13.6,2845,78.4,4,4.49,1.27,Head,Southwest Monsoon,1728.24
+Tanker,253234,45550,15.7,13.3,1997,97.6,3,1.7,1.28,Beam,Northeast Monsoon,841.44
+Tanker,166138,29850,13.3,8.6,1518,89.5,7,4.23,1.97,Following,Southwest Monsoon,297.44
+Bulker,180226,28170,12.7,8.3,2732,88.9,7,3.89,1.66,Head,Southwest Monsoon,547.08
+Container,117000,47760,18.6,15.1,3870,60.8,5,5.92,1.26,Beam,Southwest Monsoon,1029.33
+Bulker,152555,23121,14.9,9.6,3959,60.3,5,5.95,2.5,Head,Southwest Monsoon,502.32
+Bulker,127904,19345,14.0,10.4,2650,52.0,3,2.86,0.75,Following,Northeast Monsoon,267.16
+Tanker,276964,49700,16.6,14.5,4383,73.0,3,1.7,0.3,Following,Inter-Monsoon,1656.74
+Tanker,158472,28727,13.2,10.1,4901,77.6,6,4.31,0.83,Beam,Southwest Monsoon,1210.76
+Container,23305,9823,20.3,12.5,1735,76.6,6,3.7,1.25,Beam,Southwest Monsoon,64.75
+Bulker,184743,28759,15.6,12.5,1233,77.7,1,1.07,0.79,Head,Inter-Monsoon,238.66
+Tanker,79970,14113,14.0,12.6,4239,84.4,3,0.63,0.51,Beam,Inter-Monsoon,543.04
+Bulker,106934,15631,15.2,13.6,4533,83.8,8,3.0,1.34,Following,Southwest Monsoon,742.65
+Bulker,33227,4737,14.9,11.7,2211,89.8,5,1.55,0.94,Head,Northeast Monsoon,86.4
+Tanker,122289,22016,15.3,11.4,2596,92.0,4,1.94,0.63,Beam,Northeast Monsoon,421.88
+Tanker,211890,38840,15.2,11.0,859,98.8,3,2.62,1.06,Following,Northeast Monsoon,217.5
+Bulker,121940,17683,13.9,10.7,648,87.2,1,1.64,0.91,Following,Inter-Monsoon,88.46
+Tanker,92079,16735,15.1,13.2,3100,55.1,8,4.83,1.53,Following,Southwest Monsoon,449.58
+Bulker,82425,12132,12.2,8.4,3894,95.6,2,1.88,0.47,Following,Inter-Monsoon,331.65
+Bulker,95996,14696,12.7,10.4,1297,64.6,5,3.07,0.6,Head,Southwest Monsoon,156.42
+Container,78882,30647,19.7,13.8,3037,58.9,2,0.78,0.7,Beam,Inter-Monsoon,308.42
+Bulker,124036,18979,13.5,8.2,2258,75.4,3,1.12,0.31,Head,Inter-Monsoon,180.34
+Container,89762,35944,20.9,19.2,3592,70.2,2,1.65,0.62,Head,Inter-Monsoon,870.29
+Bulker,124166,17416,14.7,11.0,3375,88.5,3,1.16,0.34,Head,Inter-Monsoon,395.17
+Container,68664,27320,21.3,14.8,748,57.5,2,1.68,0.72,Beam,Inter-Monsoon,57.61
+Bulker,119055,18497,15.9,13.3,4741,71.0,3,2.11,1.33,Head,Northeast Monsoon,679.29
+Tanker,189310,33999,13.7,12.8,4362,83.5,7,4.66,1.23,Beam,Southwest Monsoon,1938.96
+Bulker,189997,28454,14.0,9.5,1859,96.4,8,2.85,0.86,Beam,Southwest Monsoon,392.33
+Tanker,274677,49663,14.5,8.8,2401,52.8,3,3.49,0.9,Beam,Northeast Monsoon,420.26
+Tanker,203328,37651,14.3,11.7,4786,65.6,3,0.68,0.5,Head,Inter-Monsoon,1284.47
+Container,127348,52235,20.5,19.0,1817,96.7,6,4.87,2.14,Beam,Southwest Monsoon,968.09
+Tanker,149680,26236,15.2,9.2,3312,58.6,4,5.89,1.44,Head,Southwest Monsoon,367.44
+Bulker,79521,11335,12.1,8.5,4669,94.7,2,0.67,0.27,Following,Inter-Monsoon,381.03
+Container,131125,51832,20.8,18.6,987,77.1,8,5.36,1.26,Beam,Southwest Monsoon,426.0
+Bulker,166394,25183,12.6,8.5,1611,50.5,2,1.58,0.84,Beam,Inter-Monsoon,181.33
+Tanker,281063,50878,13.0,10.6,592,50.1,3,1.77,0.72,Beam,Northeast Monsoon,188.29
+Bulker,184012,27963,13.9,12.1,3044,53.5,7,4.36,0.69,Following,Southwest Monsoon,753.61
+Bulker,106547,16507,15.8,11.2,1744,85.9,4,3.49,0.86,Following,Southwest Monsoon,179.45
+Container,29159,11759,19.9,14.2,642,75.5,3,2.74,0.58,Head,Northeast Monsoon,33.91
+Container,106992,43082,19.6,12.2,2879,94.8,6,2.53,1.18,Following,Northeast Monsoon,474.62
+Bulker,193666,29044,15.2,10.3,3544,85.5,3,1.45,0.37,Following,Inter-Monsoon,528.36
+Tanker,204688,36500,13.6,11.0,2759,86.9,6,5.25,0.78,Head,Southwest Monsoon,1047.08
+Container,146101,59047,23.7,18.1,4701,50.4,7,3.2,1.12,Beam,Southwest Monsoon,992.38
+Bulker,112674,17003,15.8,10.5,625,92.6,1,1.69,0.46,Head,Inter-Monsoon,53.98
+Container,28068,10482,21.1,18.0,4642,59.1,2,1.28,0.21,Head,Inter-Monsoon,223.48
+Container,91951,36757,19.4,11.9,4055,62.7,1,0.56,0.5,Head,Inter-Monsoon,386.24
+Tanker,214017,38596,16.6,13.5,1286,85.4,4,3.38,1.86,Beam,Southwest Monsoon,395.57
+Tanker,109633,20423,15.4,12.1,2267,89.6,3,1.75,0.81,Beam,Inter-Monsoon,328.32
+Bulker,184660,27318,15.6,9.6,1002,92.2,3,0.58,0.87,Beam,Inter-Monsoon,113.97
+Bulker,99339,14277,12.4,9.2,2706,80.8,5,2.89,0.57,Head,Northeast Monsoon,338.96
+Bulker,61919,8442,15.0,10.1,2974,80.5,7,4.4,1.38,Following,Southwest Monsoon,159.36
+Bulker,147232,22060,13.5,11.6,4321,88.1,1,0.62,0.37,Following,Inter-Monsoon,863.56
+Container,142304,56750,19.4,13.9,1729,63.1,4,2.39,1.38,Following,Northeast Monsoon,379.49
+Tanker,286885,52008,15.8,13.1,1488,57.3,8,2.96,1.18,Head,Southwest Monsoon,523.95
+Bulker,50083,7687,15.0,12.1,2566,88.5,1,1.68,0.37,Head,Inter-Monsoon,154.24
+Bulker,153926,23666,14.9,12.4,976,74.5,7,5.94,1.96,Head,Southwest Monsoon,229.51
+Tanker,166615,30112,13.3,10.6,1968,76.9,1,1.82,0.66,Following,Inter-Monsoon,453.44
+Container,54694,21120,19.8,14.2,4369,57.8,1,1.28,0.71,Following,Inter-Monsoon,287.85
+Container,149483,59848,23.9,16.1,4397,55.4,3,1.62,0.25,Beam,Inter-Monsoon,664.38
+Bulker,128916,19005,15.4,11.1,641,80.0,1,1.83,0.81,Head,Inter-Monsoon,67.25
+Container,99731,39783,22.9,14.0,1563,95.6,8,4.4,2.18,Beam,Southwest Monsoon,232.37
+Tanker,185665,32912,13.7,10.7,4667,67.7,2,0.97,0.18,Head,Inter-Monsoon,990.59
+Tanker,220491,39768,14.5,9.4,2239,52.8,3,1.92,0.91,Following,Inter-Monsoon,335.35
+Bulker,134292,19735,14.1,10.4,2220,66.0,6,2.53,0.67,Following,Northeast Monsoon,258.95
+Container,88675,35371,20.5,16.9,3271,79.5,4,2.44,1.38,Beam,Northeast Monsoon,707.43
+Bulker,87028,12151,12.9,12.1,4409,61.6,4,2.79,1.32,Head,Southwest Monsoon,562.19
+Tanker,54098,9776,15.0,13.7,2977,85.4,6,4.19,0.87,Head,Southwest Monsoon,351.14
+Container,62313,25792,21.5,17.8,3453,94.6,2,1.55,0.1,Head,Inter-Monsoon,512.39
+Bulker,50115,6948,15.3,12.2,1919,92.1,8,5.47,1.45,Beam,Southwest Monsoon,136.05
+Bulker,190632,28953,13.6,12.3,2520,90.6,5,3.86,1.18,Beam,Northeast Monsoon,882.12
+Container,53493,21330,21.5,15.0,1459,88.4,2,1.33,0.39,Beam,Inter-Monsoon,133.18
+Bulker,53833,9090,12.5,11.9,4633,99.5,3,1.72,0.89,Beam,Inter-Monsoon,540.55
+Container,134679,54084,21.7,17.9,1613,82.1,7,3.26,1.89,Beam,Southwest Monsoon,542.65
+Bulker,81418,12161,12.4,10.6,1758,95.2,4,4.89,1.39,Head,Southwest Monsoon,275.34
+Bulker,78747,11790,15.2,13.6,3827,54.2,6,3.41,2.04,Beam,Southwest Monsoon,341.91
+Container,104034,40648,20.1,12.3,1367,83.1,3,2.71,0.75,Head,Northeast Monsoon,197.25
+Container,82467,32297,21.3,19.7,1397,50.2,1,1.59,0.44,Head,Inter-Monsoon,228.72
+Bulker,91650,13038,13.3,10.5,4433,69.9,4,2.61,1.25,Beam,Northeast Monsoon,457.61
+Container,124563,49787,21.5,19.1,3913,79.3,6,5.59,2.12,Beam,Southwest Monsoon,1550.12
+Tanker,73536,13398,16.0,9.9,1914,56.6,5,3.83,2.17,Beam,Southwest Monsoon,87.39
+Tanker,66950,12167,15.7,14.5,1307,94.7,3,2.5,0.9,Beam,Northeast Monsoon,177.8
+Container,128485,51562,22.7,15.1,2841,84.8,4,3.98,2.41,Beam,Southwest Monsoon,528.24
+Container,147452,59029,21.0,14.2,547,52.7,3,0.76,0.15,Following,Inter-Monsoon,84.9
+Tanker,291439,51963,13.9,9.6,3739,94.8,4,2.93,1.17,Following,Northeast Monsoon,1317.14
+Bulker,70054,10197,14.1,9.1,1126,75.3,2,1.8,0.93,Beam,Inter-Monsoon,59.73
+Container,91463,37040,18.7,16.8,4154,72.5,2,0.68,0.9,Head,Inter-Monsoon,1080.27
+Tanker,233249,42098,16.1,12.2,974,84.3,1,1.7,0.35,Head,Inter-Monsoon,258.68
+Container,44060,16927,22.9,19.9,1311,84.6,4,5.94,2.35,Following,Southwest Monsoon,148.66
+Tanker,296319,53356,15.1,10.7,2291,99.3,4,2.86,1.36,Following,Northeast Monsoon,812.45
+Container,24733,10339,22.5,20.5,1882,69.3,1,0.55,0.82,Beam,Inter-Monsoon,106.99
+Bulker,114568,16879,13.7,8.4,4444,59.2,6,2.02,0.51,Following,Northeast Monsoon,305.92
+Bulker,40193,5758,15.9,9.7,2988,53.6,8,3.61,0.96,Head,Southwest Monsoon,68.36
+Tanker,220836,39677,16.0,12.5,2596,96.7,4,1.59,1.33,Head,Northeast Monsoon,716.27
+Tanker,155483,28508,14.3,11.2,3833,65.5,3,1.08,0.81,Beam,Inter-Monsoon,676.93
+Bulker,111916,17176,13.4,8.8,3452,77.5,6,4.76,2.42,Head,Southwest Monsoon,419.2
+Container,38245,15122,21.4,15.1,558,88.9,3,0.86,0.61,Head,Inter-Monsoon,35.25
+Bulker,114239,16642,13.3,8.6,3882,95.4,3,1.97,0.71,Following,Inter-Monsoon,375.19
+Container,68868,27002,19.4,14.7,2826,94.2,5,2.2,1.38,Following,Northeast Monsoon,442.1
+Container,112548,44796,19.9,17.4,4373,72.2,6,2.53,0.56,Head,Northeast Monsoon,1282.38
+Container,142893,57347,19.5,17.0,2377,68.2,4,3.53,2.28,Following,Southwest Monsoon,881.52
+Tanker,291096,52007,13.0,8.9,4636,86.2,5,2.62,0.59,Following,Northeast Monsoon,1602.09
+Bulker,36980,5499,12.7,9.1,4249,60.9,6,2.95,1.99,Beam,Southwest Monsoon,148.79
+Tanker,156917,28109,14.7,9.8,3330,64.5,3,1.26,0.59,Following,Inter-Monsoon,397.59
+Tanker,218548,39448,14.4,12.4,664,79.3,1,1.08,0.21,Following,Inter-Monsoon,220.99
+Container,45517,19405,23.2,17.3,2091,77.2,1,0.88,0.5,Head,Inter-Monsoon,161.28
+Bulker,91267,14175,15.8,13.4,671,60.5,1,1.79,0.78,Head,Inter-Monsoon,63.2
+Bulker,53517,8280,12.8,11.0,1475,89.2,5,3.52,1.17,Head,Northeast Monsoon,160.4
+Container,123593,49540,21.5,14.9,4578,52.4,2,1.81,0.68,Beam,Inter-Monsoon,676.24
+Container,115158,45724,19.8,14.3,567,87.6,1,0.79,0.16,Beam,Inter-Monsoon,110.67
+Tanker,200224,35704,14.2,12.4,4275,84.5,5,3.99,0.87,Head,Southwest Monsoon,1736.67
+Tanker,127614,23908,15.0,13.2,1250,94.0,2,1.4,0.17,Head,Inter-Monsoon,275.52
+Tanker,247960,45350,15.1,12.7,2854,80.3,2,1.09,0.91,Head,Inter-Monsoon,1068.22
+Container,102923,41252,22.9,13.9,682,88.5,6,4.35,2.49,Beam,Southwest Monsoon,95.83
+Tanker,246784,44843,16.7,14.8,3851,78.3,3,0.76,0.94,Head,Inter-Monsoon,1477.29
+Tanker,252362,45097,13.0,9.1,2112,97.9,2,0.86,0.12,Head,Inter-Monsoon,675.67
+Tanker,59671,10762,13.2,10.6,3747,96.0,1,0.82,0.38,Beam,Inter-Monsoon,367.56
+Container,42565,16788,20.4,14.0,4771,56.3,4,3.87,0.61,Following,Northeast Monsoon,276.37
+Bulker,166578,26329,15.9,14.0,3820,81.2,2,1.96,0.26,Head,Inter-Monsoon,849.27
+Container,72338,28614,19.7,18.3,559,94.2,4,3.96,0.52,Following,Northeast Monsoon,143.74
+Container,57624,22403,23.1,17.4,4225,65.2,1,1.73,0.48,Beam,Inter-Monsoon,351.47
+Container,69840,28068,22.7,17.0,953,95.4,2,1.67,0.91,Head,Inter-Monsoon,122.0
+Bulker,63893,10122,13.1,9.2,3768,85.9,3,1.08,0.55,Following,Inter-Monsoon,244.41
+Bulker,174015,25454,14.1,11.7,4144,63.5,4,4.35,0.84,Beam,Southwest Monsoon,833.33
+Tanker,153929,28064,14.6,9.3,1328,52.8,3,2.47,1.1,Head,Northeast Monsoon,132.24
+Tanker,243851,43882,14.2,10.3,4687,95.7,5,5.98,0.98,Head,Southwest Monsoon,1851.24
+Tanker,234547,42302,17.0,14.9,1852,90.0,7,4.52,1.67,Beam,Southwest Monsoon,731.52
+Container,28731,12021,18.1,17.1,566,52.0,1,1.92,0.33,Beam,Inter-Monsoon,44.15
+Container,117503,47233,20.6,19.4,1872,69.7,2,0.97,0.38,Following,Inter-Monsoon,567.46
+Bulker,65577,10188,14.9,11.8,1413,85.4,3,0.6,0.21,Head,Inter-Monsoon,99.9
+Bulker,83512,12176,13.3,9.4,3648,88.0,5,2.23,1.21,Following,Northeast Monsoon,320.1
+Container,103866,41336,23.1,16.5,962,63.5,5,1.93,1.29,Head,Northeast Monsoon,136.88
+Bulker,108131,16902,15.7,11.3,3597,98.1,5,1.96,0.94,Beam,Northeast Monsoon,406.02
+Container,43173,17638,23.4,14.6,3033,87.1,5,2.75,0.94,Beam,Northeast Monsoon,170.15
+Bulker,193278,28533,13.6,9.9,3322,73.6,5,3.7,1.03,Head,Northeast Monsoon,708.23
+Container,74021,29858,20.6,14.6,1904,98.1,3,0.7,0.89,Beam,Inter-Monsoon,261.52
+Bulker,137916,20638,14.5,9.6,4529,75.9,6,5.55,1.02,Beam,Southwest Monsoon,606.42
+Container,35902,14408,22.6,19.6,3198,86.7,3,1.49,0.85,Head,Inter-Monsoon,277.5
+Tanker,157880,27967,13.3,9.3,880,82.9,5,3.87,2.15,Following,Southwest Monsoon,164.98
+Tanker,231344,41323,15.3,12.6,4214,90.5,3,3.35,0.68,Beam,Northeast Monsoon,1495.15
+Container,91642,36848,21.7,19.4,4979,72.6,2,1.99,0.55,Beam,Inter-Monsoon,1123.8
+Container,35047,13945,23.5,19.5,1426,82.7,3,1.68,0.31,Head,Inter-Monsoon,96.14
+Tanker,114858,20464,13.7,10.7,2400,77.4,7,5.29,1.61,Following,Southwest Monsoon,429.73
+Bulker,125488,18705,13.5,11.4,2810,63.6,5,2.23,1.1,Following,Northeast Monsoon,425.17
+Container,51897,21098,20.6,13.8,4931,87.9,4,4.29,0.55,Beam,Southwest Monsoon,476.7
+Container,43246,17653,19.8,17.1,1380,84.0,2,0.59,0.2,Beam,Inter-Monsoon,145.92
+Tanker,252291,45925,14.5,9.1,2859,60.8,1,1.87,0.53,Head,Inter-Monsoon,448.65
+Tanker,221788,38953,14.9,13.4,2183,53.6,5,2.99,1.24,Beam,Northeast Monsoon,676.54
+Bulker,146683,22239,14.3,12.4,3821,78.9,5,5.4,0.65,Beam,Southwest Monsoon,949.99
+Container,109669,43762,20.5,16.9,4898,88.5,5,1.54,1.17,Head,Northeast Monsoon,1356.61
+Tanker,155127,27989,14.2,9.7,785,68.8,4,5.23,1.32,Head,Southwest Monsoon,121.26
+Bulker,152414,22794,13.3,11.7,3239,84.6,4,1.79,1.04,Head,Northeast Monsoon,789.73
+Bulker,199262,30281,12.6,11.6,1895,50.0,6,3.19,0.93,Following,Northeast Monsoon,536.69
+Bulker,33389,4652,15.6,11.3,1174,67.8,1,1.16,0.96,Beam,Inter-Monsoon,29.57
+Tanker,121094,20468,13.8,11.6,3548,77.2,3,1.2,0.45,Following,Inter-Monsoon,603.41
+Container,70943,28019,20.0,12.8,1062,81.7,5,4.84,0.65,Beam,Southwest Monsoon,123.45
+Tanker,283161,50810,14.7,13.9,4850,55.7,4,4.2,0.99,Head,Southwest Monsoon,2203.19
+Tanker,157754,28284,16.5,13.3,4328,54.8,6,5.89,1.36,Following,Southwest Monsoon,761.13
+Container,65901,26239,21.2,17.2,2134,92.5,4,1.6,1.38,Head,Northeast Monsoon,338.08
+Tanker,81178,14675,13.6,10.2,1080,87.1,5,5.14,0.8,Head,Southwest Monsoon,141.59
+Tanker,214500,37741,16.9,14.1,4714,69.6,1,0.84,0.49,Following,Inter-Monsoon,1110.06
+Container,62298,25501,18.1,16.4,3736,50.7,7,4.77,1.57,Beam,Southwest Monsoon,635.77
+Tanker,139464,25570,15.4,11.5,1726,64.6,5,1.65,0.63,Following,Northeast Monsoon,223.16
+Bulker,69849,10591,12.3,8.1,1436,56.0,6,1.87,0.54,Beam,Northeast Monsoon,75.12
+Tanker,68882,12430,13.9,12.5,1854,60.6,2,1.55,0.83,Head,Inter-Monsoon,185.4
+Bulker,91668,14053,12.9,8.7,4313,77.0,2,0.94,0.24,Head,Inter-Monsoon,355.94
+Tanker,143083,26191,14.5,13.3,2087,96.0,2,1.69,0.47,Head,Inter-Monsoon,574.44
+Container,94540,37414,20.5,14.7,3756,97.0,6,1.65,1.21,Beam,Northeast Monsoon,677.24
+Tanker,171245,30927,15.8,10.2,2290,94.4,5,3.87,0.82,Beam,Northeast Monsoon,394.22
+Tanker,265377,47925,15.5,10.4,2420,82.0,2,1.29,0.96,Beam,Inter-Monsoon,552.06
+Container,70998,28081,22.7,13.8,600,81.2,1,1.69,0.35,Beam,Inter-Monsoon,49.61
+Bulker,117424,16956,14.8,12.3,3422,66.5,4,3.84,0.87,Beam,Northeast Monsoon,461.94
+Tanker,95142,17344,15.3,12.0,1625,94.4,2,1.85,0.48,Following,Inter-Monsoon,212.16
+Tanker,234555,42077,16.9,11.9,2827,64.5,3,1.75,0.12,Beam,Inter-Monsoon,509.83
+Container,133261,53174,22.0,14.5,788,90.1,6,2.52,0.88,Following,Northeast Monsoon,153.65
+Tanker,83456,15183,15.3,14.1,2528,64.2,1,0.99,0.44,Following,Inter-Monsoon,290.48
+Container,33577,14047,23.4,17.3,4683,64.8,1,1.11,0.29,Following,Inter-Monsoon,214.25
+Bulker,108762,16371,13.6,9.3,1346,68.3,1,0.52,0.23,Beam,Inter-Monsoon,109.97
+Bulker,107719,15906,13.2,10.6,1554,82.2,5,2.26,1.01,Following,Northeast Monsoon,198.2
+Bulker,99092,14720,12.9,8.3,2907,62.2,4,5.74,1.6,Beam,Southwest Monsoon,237.59
+Bulker,144655,21972,13.5,9.9,4583,96.2,4,3.82,0.95,Following,Southwest Monsoon,864.71
+Container,54288,22249,20.4,12.7,2452,84.7,3,1.68,0.47,Beam,Inter-Monsoon,189.4
+Bulker,187768,29525,14.0,9.3,2749,79.6,5,3.56,1.49,Beam,Northeast Monsoon,482.99
+Bulker,149501,22397,14.2,12.9,1464,87.3,3,1.75,0.37,Beam,Inter-Monsoon,349.82
+Bulker,119776,18180,12.5,8.7,2013,80.2,6,3.84,1.01,Following,Northeast Monsoon,285.29
+Bulker,137095,20379,13.7,11.1,3055,99.0,5,1.57,1.35,Head,Northeast Monsoon,642.11
+Tanker,190095,34302,14.5,10.7,578,60.5,3,0.56,0.69,Head,Inter-Monsoon,96.46
+Tanker,249762,45118,16.6,10.6,3388,96.3,1,1.35,0.22,Beam,Inter-Monsoon,681.19
+Container,109997,43678,19.3,14.6,4709,67.2,3,1.1,0.57,Beam,Inter-Monsoon,830.85
+Container,134883,54896,19.2,12.2,1812,52.5,7,4.64,2.0,Beam,Southwest Monsoon,336.92
+Container,100573,39725,22.4,17.6,4966,55.2,3,1.36,0.99,Head,Inter-Monsoon,748.26
+Tanker,188238,33947,16.7,10.8,961,98.8,2,1.97,0.34,Following,Inter-Monsoon,156.63
+Bulker,124549,18562,12.5,9.6,1852,55.8,3,2.73,0.82,Following,Northeast Monsoon,235.98
+Bulker,196382,29341,15.2,10.7,1437,64.9,7,3.01,1.53,Following,Southwest Monsoon,232.88
+Container,115182,46403,19.7,14.5,3914,98.4,3,3.99,0.85,Following,Northeast Monsoon,1090.54
+Tanker,213802,38135,16.0,12.6,4791,65.0,4,5.78,0.76,Following,Southwest Monsoon,1264.26
+Bulker,52668,7785,14.3,13.4,1956,81.4,3,2.0,0.91,Head,Northeast Monsoon,157.24
+Tanker,186775,32898,16.3,12.1,3623,65.8,6,3.31,2.16,Head,Southwest Monsoon,743.96
+Bulker,110263,17135,15.0,11.5,2726,94.9,4,5.54,1.18,Head,Southwest Monsoon,414.58
+Bulker,74861,10431,15.2,13.4,4642,82.9,7,4.17,0.61,Beam,Southwest Monsoon,515.88
+Bulker,103007,15073,13.7,10.2,1769,95.9,3,0.87,0.19,Head,Inter-Monsoon,191.63
+Tanker,163909,29241,16.9,15.7,3123,50.4,3,1.62,0.61,Head,Inter-Monsoon,587.27
+Bulker,119327,18552,15.2,12.8,3765,66.6,1,0.98,0.88,Following,Inter-Monsoon,460.09
+Container,142527,56012,22.8,14.1,1345,91.6,5,2.3,0.71,Head,Northeast Monsoon,242.85
+Tanker,175905,32272,17.0,10.3,514,75.0,1,0.99,0.3,Beam,Inter-Monsoon,59.35
+Container,125782,50879,18.5,11.3,1581,90.0,2,1.6,0.65,Following,Inter-Monsoon,283.81
+Container,31090,12416,18.1,15.2,793,81.5,3,1.68,0.19,Following,Inter-Monsoon,63.87
+Tanker,88516,16089,13.3,8.1,938,68.3,1,0.66,0.81,Following,Inter-Monsoon,59.82
+Bulker,46925,7234,12.4,10.0,4874,52.3,1,0.97,0.73,Head,Inter-Monsoon,229.19
+Container,57716,24007,19.7,16.8,3731,51.4,4,5.49,2.32,Following,Southwest Monsoon,469.57
+Bulker,130750,19669,15.0,12.3,1562,56.2,3,0.75,0.39,Following,Inter-Monsoon,166.06
+Bulker,130744,19709,13.7,9.7,3909,58.8,5,3.9,0.98,Beam,Southwest Monsoon,453.85
+Bulker,180114,27168,14.4,12.2,1389,57.1,5,3.91,0.85,Beam,Northeast Monsoon,289.77
+Bulker,190215,29020,14.8,13.0,3539,84.3,5,3.95,1.0,Head,Northeast Monsoon,1066.59
+Tanker,99163,18190,14.2,10.2,4348,51.4,1,1.35,0.63,Beam,Inter-Monsoon,337.15
+Tanker,110827,19559,14.5,11.2,4548,63.7,6,4.82,1.18,Head,Southwest Monsoon,688.08
+Container,132051,53331,18.9,15.3,3302,84.3,4,5.73,2.39,Following,Southwest Monsoon,1223.71
+Container,90626,36309,22.0,19.3,2632,63.3,2,1.42,0.61,Head,Inter-Monsoon,472.79
+Tanker,122115,21930,15.0,11.6,1115,66.0,3,3.54,0.95,Beam,Northeast Monsoon,152.54
+Container,98290,38944,23.7,14.6,4996,97.8,1,0.53,0.79,Head,Inter-Monsoon,538.37
+Bulker,194314,29211,12.1,7.5,1889,87.6,2,1.11,0.37,Following,Inter-Monsoon,296.98
+Tanker,104764,19782,14.2,12.6,3300,64.2,5,3.51,0.87,Beam,Northeast Monsoon,554.88
+Tanker,135309,24541,15.8,14.8,547,88.8,4,5.01,1.7,Head,Southwest Monsoon,154.98
+Bulker,94646,14520,12.1,9.6,3970,61.7,3,1.75,0.52,Head,Inter-Monsoon,412.92
+Bulker,65993,10793,12.9,9.1,1645,97.4,7,5.07,2.41,Head,Southwest Monsoon,175.27
+Container,66606,26436,18.6,16.7,3442,90.8,3,0.97,0.14,Following,Inter-Monsoon,692.93
+Bulker,98111,14765,12.4,8.9,2527,55.1,2,1.02,0.79,Beam,Inter-Monsoon,203.47
+Bulker,134411,18722,13.9,11.6,701,87.3,1,1.42,0.11,Beam,Inter-Monsoon,113.02
+Container,111423,44642,19.7,18.2,4773,56.9,3,0.85,0.93,Beam,Inter-Monsoon,1150.49
+Tanker,220448,39677,15.8,11.4,3857,95.6,6,2.54,0.9,Following,Northeast Monsoon,1050.8
+Tanker,290545,53054,17.0,14.5,4117,96.7,2,1.85,0.83,Following,Inter-Monsoon,1698.7
+Tanker,190474,34369,14.0,12.2,2511,96.7,5,3.86,0.86,Following,Northeast Monsoon,917.73
+Tanker,285303,51164,14.6,11.4,1699,66.4,3,0.52,0.81,Beam,Inter-Monsoon,528.88
+Container,114789,45766,23.5,17.0,4786,72.7,5,2.07,1.13,Head,Northeast Monsoon,785.69
+Bulker,53347,8197,12.1,7.6,3455,95.6,5,3.39,1.21,Beam,Southwest Monsoon,197.92
+Tanker,274001,48560,13.0,10.5,2268,57.0,1,0.71,0.83,Following,Inter-Monsoon,688.96
+Bulker,73993,11382,14.9,12.9,1184,67.5,2,1.87,0.94,Head,Inter-Monsoon,104.88
+Tanker,213244,39266,14.7,13.9,1963,64.7,5,2.06,1.26,Head,Northeast Monsoon,755.07
+Bulker,43728,7179,13.6,8.6,1407,56.9,7,5.95,2.35,Head,Southwest Monsoon,50.65
+Tanker,247540,45016,13.4,8.8,3318,62.0,3,1.2,0.67,Head,Inter-Monsoon,667.45
+Tanker,121759,22332,16.0,11.5,2755,72.9,7,4.57,0.8,Following,Southwest Monsoon,376.08
+Bulker,48462,7820,15.1,10.7,676,82.0,8,3.53,2.24,Head,Southwest Monsoon,39.07
+Bulker,43574,6013,12.8,8.0,1210,60.5,2,1.05,0.95,Head,Inter-Monsoon,30.68
+Container,22907,9447,19.8,17.9,4823,60.0,6,1.92,1.27,Head,Northeast Monsoon,300.64
+Bulker,40883,6423,13.7,8.3,2996,56.7,5,4.58,1.75,Head,Southwest Monsoon,85.47
+Container,103968,41263,19.1,16.9,1684,84.8,5,4.46,1.8,Head,Southwest Monsoon,567.44
+Tanker,198195,36260,14.5,13.1,2583,75.2,1,1.41,0.8,Beam,Inter-Monsoon,841.34
+Bulker,51704,8708,16.0,11.7,2836,96.2,1,1.11,0.99,Following,Inter-Monsoon,147.35
+Bulker,186473,28202,15.6,13.7,4389,51.0,3,0.54,0.91,Head,Inter-Monsoon,761.09
+Bulker,116577,17213,13.8,9.1,2612,91.3,3,0.68,0.39,Following,Inter-Monsoon,269.41
+Bulker,163793,24261,13.6,12.6,1718,68.5,1,0.89,0.5,Following,Inter-Monsoon,397.36
+Bulker,79078,11846,12.3,8.2,2250,57.6,5,3.51,0.71,Head,Northeast Monsoon,140.49
+Tanker,191968,34800,15.5,10.1,882,99.3,7,5.77,2.28,Beam,Southwest Monsoon,215.95
+Tanker,158443,28950,16.4,15.4,3752,66.5,1,1.75,0.7,Beam,Inter-Monsoon,865.27
+Tanker,206889,37635,16.7,12.0,2982,83.2,7,5.99,0.57,Head,Southwest Monsoon,755.69
+Bulker,112758,16680,13.0,11.8,1268,77.6,7,2.71,1.8,Following,Southwest Monsoon,234.51
+Bulker,142139,21717,15.3,10.1,4946,96.7,6,1.91,1.19,Beam,Northeast Monsoon,652.88
+Bulker,94438,14138,13.5,11.0,3732,79.1,5,3.02,0.65,Following,Northeast Monsoon,466.06
+Container,87372,34585,20.1,14.4,3875,77.6,8,5.33,2.32,Beam,Southwest Monsoon,689.69
+Tanker,136200,24654,13.3,11.9,3621,61.8,2,1.36,0.35,Beam,Inter-Monsoon,791.39
+Bulker,174396,26780,13.4,8.2,1448,82.0,4,4.66,0.74,Head,Southwest Monsoon,211.0
+Bulker,80241,12245,15.1,9.1,2887,76.9,5,4.58,1.77,Following,Southwest Monsoon,165.72
+Tanker,79497,14455,16.1,9.8,1158,58.1,1,1.47,0.73,Following,Inter-Monsoon,51.97
+Bulker,126200,19102,12.8,9.7,844,55.1,3,0.58,0.27,Following,Inter-Monsoon,90.09
+Container,81476,32529,20.8,16.3,3320,56.9,2,1.15,0.28,Head,Inter-Monsoon,422.24
+Container,89214,34944,18.2,16.7,1071,55.9,7,5.48,1.23,Head,Southwest Monsoon,311.09
+Tanker,156455,28110,13.5,9.1,4537,89.5,4,2.31,1.12,Following,Northeast Monsoon,779.83
+Container,102194,40510,23.2,22.0,4111,69.5,2,1.34,0.29,Head,Inter-Monsoon,946.05
+Tanker,190047,34213,15.4,13.7,4929,61.1,2,1.01,0.87,Beam,Inter-Monsoon,1282.42
+Bulker,52791,8172,13.8,10.9,892,75.7,3,1.8,0.75,Beam,Inter-Monsoon,52.36
+Bulker,135303,19625,15.9,14.2,2546,74.1,3,2.53,1.23,Following,Northeast Monsoon,411.66
+Bulker,114693,18374,15.2,11.1,711,70.7,4,2.47,0.64,Head,Northeast Monsoon,77.84
+Tanker,218208,39283,16.3,13.9,813,84.1,4,3.93,1.14,Head,Northeast Monsoon,283.1
+Bulker,175248,26748,14.9,10.1,2281,65.9,7,2.79,2.04,Head,Southwest Monsoon,357.03
+Container,137943,55843,21.0,17.1,1012,78.1,4,3.85,1.16,Beam,Northeast Monsoon,316.91
+Bulker,81523,12320,12.0,7.6,3253,90.9,5,1.55,1.07,Following,Northeast Monsoon,253.82
+Tanker,294394,52548,15.4,14.0,2475,66.2,1,1.1,0.47,Head,Inter-Monsoon,947.76
+Container,80290,32387,21.4,12.9,2261,66.5,1,1.82,0.64,Head,Inter-Monsoon,198.89
+Container,77790,30949,22.6,14.4,613,82.7,2,1.24,0.2,Following,Inter-Monsoon,56.22
+Container,55244,22058,23.5,20.8,2193,98.2,3,1.85,0.49,Beam,Inter-Monsoon,316.92
+Container,73128,29272,22.8,16.7,3430,57.1,4,1.8,0.58,Head,Northeast Monsoon,321.75
+Tanker,112039,20964,15.1,10.0,1875,62.3,5,3.56,1.48,Following,Northeast Monsoon,183.82
+Bulker,161520,23414,12.7,9.3,3004,53.8,1,0.55,0.12,Head,Inter-Monsoon,378.36
+Bulker,101715,15088,14.6,11.8,1876,53.2,2,0.78,0.41,Beam,Inter-Monsoon,146.4
+Tanker,150237,26629,14.7,11.6,3868,76.7,5,3.28,0.6,Head,Southwest Monsoon,789.34
+Tanker,102729,18125,14.1,9.3,3866,81.7,5,3.93,0.7,Beam,Northeast Monsoon,415.17
+Tanker,159283,28837,14.5,8.9,3291,58.0,1,0.73,0.21,Head,Inter-Monsoon,321.44
+Tanker,98562,17898,13.6,10.5,1706,80.3,4,2.59,1.14,Following,Southwest Monsoon,228.69
+Bulker,51714,7921,14.0,8.5,1544,74.0,2,0.86,0.1,Head,Inter-Monsoon,47.67
+Tanker,275882,49388,14.5,11.8,4828,53.7,3,1.04,0.51,Following,Inter-Monsoon,1288.63
+Container,141898,57337,19.2,17.5,4797,53.3,3,1.5,0.38,Beam,Inter-Monsoon,1488.99
+Bulker,157886,23962,14.5,12.6,1970,70.6,6,3.2,2.12,Beam,Southwest Monsoon,437.38
+Bulker,43107,6170,13.4,9.6,935,84.0,7,5.4,1.11,Beam,Southwest Monsoon,49.54
+Bulker,156585,23461,15.1,11.8,3143,87.5,6,5.02,2.38,Beam,Southwest Monsoon,682.9
+Tanker,242831,43726,14.8,12.1,1875,82.6,6,1.66,0.77,Head,Northeast Monsoon,688.86
+Container,102762,40207,18.3,12.9,4876,73.4,2,0.94,0.59,Following,Inter-Monsoon,781.16
+Bulker,43197,6067,13.2,10.4,2998,65.8,1,1.2,0.85,Head,Inter-Monsoon,135.81
+Tanker,281399,50709,16.3,14.7,956,83.9,2,0.7,0.98,Head,Inter-Monsoon,414.77
+Bulker,165815,24627,13.2,11.4,1534,90.1,2,1.66,0.13,Beam,Inter-Monsoon,382.43
+Bulker,162941,24747,13.7,10.1,1547,88.8,3,0.52,0.9,Beam,Inter-Monsoon,277.95
+Tanker,50806,9545,13.4,10.1,4132,70.1,7,4.72,0.54,Head,Southwest Monsoon,312.23
+Container,32254,13243,21.5,16.8,2139,79.3,3,3.96,1.44,Beam,Northeast Monsoon,149.98
+Container,68034,26356,21.1,18.5,2427,71.5,3,1.74,0.19,Following,Inter-Monsoon,345.4
+Bulker,165000,24769,13.3,12.4,2828,61.6,3,1.1,0.34,Beam,Inter-Monsoon,627.71
+Tanker,266098,48119,13.0,10.4,3206,57.6,1,1.87,0.81,Following,Inter-Monsoon,1030.53
+Tanker,177338,31822,15.0,10.2,1082,85.7,4,3.15,1.06,Head,Northeast Monsoon,210.1
+Tanker,99011,17774,13.3,9.7,4746,77.3,8,4.33,1.07,Head,Southwest Monsoon,707.53
+Bulker,184239,27976,15.8,9.8,1980,82.6,4,3.45,1.29,Head,Northeast Monsoon,265.12
+Container,126392,51073,20.3,15.4,2524,76.5,6,1.52,0.85,Beam,Northeast Monsoon,609.54
+Bulker,86747,13936,15.4,10.8,1780,64.0,7,4.42,2.16,Following,Southwest Monsoon,128.05
+Tanker,201959,35736,16.1,11.9,1397,64.7,3,0.91,0.77,Following,Inter-Monsoon,228.21
+Bulker,136871,20861,15.0,12.9,725,72.4,2,1.56,0.9,Following,Inter-Monsoon,109.45
+Bulker,95467,13681,12.3,8.5,3475,72.3,5,3.35,1.63,Following,Southwest Monsoon,311.98
+Container,32372,13510,23.9,15.5,3564,54.6,5,1.9,1.14,Head,Northeast Monsoon,120.5
+Tanker,58092,11427,16.4,15.1,1675,55.9,3,1.92,0.54,Following,Inter-Monsoon,129.93
+Container,32520,12854,20.7,15.1,2638,60.8,4,4.79,0.66,Beam,Southwest Monsoon,137.01
+Tanker,59783,10074,13.8,9.6,4788,84.7,2,0.82,0.6,Following,Inter-Monsoon,274.87
+Tanker,123675,22957,16.5,13.7,1162,69.4,6,3.01,1.38,Beam,Northeast Monsoon,180.75
+Bulker,107344,15543,15.1,10.2,3658,62.3,3,1.89,0.92,Beam,Inter-Monsoon,227.58
+Container,112243,44660,19.1,11.7,4357,55.6,2,1.14,0.3,Head,Inter-Monsoon,528.56
+Tanker,279464,49985,14.0,11.6,1226,89.7,1,1.36,0.56,Following,Inter-Monsoon,555.76
+Bulker,103937,15325,13.1,8.5,3711,50.8,5,1.85,1.15,Following,Northeast Monsoon,217.36
+Container,95031,38051,23.6,15.4,4812,54.6,1,1.38,0.67,Following,Inter-Monsoon,441.28
+Container,87378,34898,22.6,16.8,1354,50.1,6,3.58,2.13,Head,Southwest Monsoon,174.59
+Bulker,70284,9598,15.2,12.1,3390,79.6,3,0.79,0.25,Head,Inter-Monsoon,222.12
+Bulker,57841,8739,15.8,13.8,2144,85.7,1,1.53,0.22,Head,Inter-Monsoon,163.2
+Tanker,129768,23662,14.8,14.0,4885,57.5,4,4.13,1.02,Head,Southwest Monsoon,1094.13
+Tanker,108359,18909,14.8,10.6,3543,57.3,3,1.18,0.16,Following,Inter-Monsoon,299.5
+Bulker,188523,28260,16.0,14.8,1320,78.2,1,0.94,0.66,Following,Inter-Monsoon,331.95
+Container,71208,28379,21.5,13.7,1571,89.2,1,0.66,0.26,Head,Inter-Monsoon,132.0
+Bulker,182770,28506,12.3,10.8,1601,67.0,8,3.9,1.65,Beam,Southwest Monsoon,550.85
+Tanker,59485,9881,16.4,13.7,2735,93.8,4,3.11,1.51,Following,Southwest Monsoon,215.05
+Bulker,157404,22340,12.6,10.0,1305,69.7,2,1.8,0.72,Head,Inter-Monsoon,221.81
+Container,43280,17267,20.7,18.7,1100,90.6,3,1.01,0.75,Following,Inter-Monsoon,134.42
+Tanker,71482,12578,14.5,12.8,2607,65.0,3,2.48,0.63,Head,Northeast Monsoon,283.11
+Bulker,156707,24010,14.7,12.6,754,58.7,7,3.47,2.45,Head,Southwest Monsoon,156.84
+Container,62432,25503,19.6,12.1,4741,61.7,5,2.96,0.79,Head,Northeast Monsoon,382.41
+Tanker,267929,48435,17.0,12.1,1590,81.8,7,3.49,1.69,Beam,Southwest Monsoon,456.68
+Bulker,189827,28839,12.4,11.5,1947,51.9,3,1.74,0.68,Following,Northeast Monsoon,452.14
+Bulker,44273,6209,12.9,7.8,4365,51.4,5,2.33,0.92,Head,Northeast Monsoon,107.03
+Bulker,33270,4807,15.0,13.4,2891,76.2,4,3.54,0.52,Beam,Northeast Monsoon,137.86
+Tanker,127670,23754,14.4,11.8,4708,67.8,4,3.24,0.78,Head,Northeast Monsoon,815.78
+Container,32255,13625,21.0,14.3,1217,95.8,3,1.78,0.66,Beam,Inter-Monsoon,68.33
+Container,127830,49740,18.2,12.4,2177,51.4,6,3.38,1.57,Following,Southwest Monsoon,396.91
+Container,90527,36393,23.0,21.7,2580,74.2,3,1.8,0.55,Following,Inter-Monsoon,583.91
+Bulker,82326,11812,15.7,10.6,1888,97.2,6,4.48,2.17,Following,Southwest Monsoon,144.16
+Bulker,57137,8475,14.1,13.3,3059,55.4,5,3.31,1.66,Beam,Southwest Monsoon,239.1
+Tanker,63359,11520,15.7,10.5,4469,99.9,2,1.86,0.36,Beam,Inter-Monsoon,313.8
+Container,107536,42441,21.6,18.8,4376,83.8,5,3.58,1.56,Head,Southwest Monsoon,1357.68
+Bulker,55179,8354,14.5,12.7,4870,84.2,5,2.43,1.22,Beam,Northeast Monsoon,399.01
+Bulker,45170,6763,14.4,9.8,1353,58.0,1,1.91,0.71,Beam,Inter-Monsoon,43.11
+Tanker,281486,51223,16.4,14.4,4587,95.1,8,5.28,1.42,Beam,Southwest Monsoon,2637.47
+Bulker,112411,16737,15.3,13.9,2137,75.3,6,3.88,1.4,Beam,Southwest Monsoon,349.32
+Container,85734,34705,23.4,17.9,1733,56.6,1,1.04,0.89,Following,Inter-Monsoon,204.99
+Tanker,263554,47446,13.6,12.2,3085,90.1,2,0.69,0.94,Head,Inter-Monsoon,1533.95
+Bulker,196410,29486,13.7,12.0,4190,87.9,2,1.07,0.62,Following,Inter-Monsoon,1137.02
+Tanker,292666,52268,14.0,10.9,1824,66.5,3,1.22,0.26,Following,Inter-Monsoon,627.02
+Bulker,38942,5266,12.3,10.9,500,85.7,1,1.11,0.2,Head,Inter-Monsoon,28.87
+Bulker,164610,24947,14.2,9.0,1065,82.8,1,1.01,0.63,Following,Inter-Monsoon,122.68
+Container,113895,46252,22.3,20.3,3930,67.1,3,0.71,0.85,Head,Inter-Monsoon,996.69
+Tanker,204449,37647,16.8,11.1,4095,79.6,5,5.02,2.39,Beam,Southwest Monsoon,723.46
+Tanker,238382,42940,14.7,11.1,3224,93.8,4,3.11,1.02,Head,Northeast Monsoon,1130.76
+Bulker,129412,19463,15.0,12.3,3876,68.3,3,3.55,1.39,Head,Northeast Monsoon,606.71
+Container,81739,33302,22.2,16.1,800,59.2,7,5.38,2.3,Following,Southwest Monsoon,103.48
+Container,63249,26019,21.9,17.2,1508,65.2,4,2.75,1.26,Following,Northeast Monsoon,168.63
+Tanker,103619,17916,14.6,10.9,732,80.8,3,0.65,0.75,Head,Inter-Monsoon,79.88
+Bulker,148754,22113,14.3,12.0,2250,80.5,1,0.73,0.55,Beam,Inter-Monsoon,378.45
+Bulker,164558,25028,13.3,10.6,1977,78.5,5,3.73,1.07,Following,Northeast Monsoon,429.66
+Tanker,164910,30009,16.8,12.5,1363,68.2,8,5.58,2.25,Beam,Southwest Monsoon,257.73
+Bulker,84906,13278,12.2,7.6,3673,88.3,6,1.61,0.98,Head,Northeast Monsoon,318.1
+Bulker,87371,13699,13.5,12.7,2626,91.0,4,3.5,0.52,Following,Northeast Monsoon,440.89
+Bulker,98403,14094,15.3,13.5,2560,59.5,6,5.65,0.61,Beam,Southwest Monsoon,328.39
+Container,128891,51178,23.3,20.5,1703,76.7,1,1.5,1.0,Following,Inter-Monsoon,468.28
+Bulker,115668,17110,13.9,10.3,2848,68.9,1,1.32,0.37,Beam,Inter-Monsoon,268.04
+Container,83289,33961,23.8,18.1,4903,70.8,4,3.72,1.22,Head,Southwest Monsoon,763.32
+Container,134199,53372,21.7,14.1,4439,66.6,1,0.86,0.78,Head,Inter-Monsoon,719.76
+Tanker,277679,50163,13.4,8.3,3742,68.1,3,2.14,1.05,Following,Northeast Monsoon,830.75
+Tanker,182125,33559,16.6,13.3,2154,68.4,6,3.0,1.84,Following,Southwest Monsoon,428.15
+Container,56516,22679,22.5,17.3,2084,74.5,3,1.04,0.23,Following,Inter-Monsoon,173.88
+Container,66396,26001,18.7,13.7,4815,61.3,5,2.8,0.66,Head,Southwest Monsoon,540.66
+Bulker,150008,22424,14.5,9.8,1926,88.5,5,4.4,1.6,Following,Southwest Monsoon,268.41
+Tanker,136578,24609,13.7,11.2,1087,65.9,5,2.4,0.83,Beam,Northeast Monsoon,223.97
+Container,130192,52653,22.3,18.0,4499,95.3,3,0.61,0.51,Following,Inter-Monsoon,1199.03
+Container,63330,24801,21.0,14.2,2655,87.6,3,0.89,0.98,Beam,Inter-Monsoon,245.47
+Tanker,123964,22163,15.8,13.8,4534,75.4,1,1.57,0.65,Head,Inter-Monsoon,799.98
+Bulker,142424,21090,12.5,9.9,2196,87.6,3,1.31,0.52,Following,Inter-Monsoon,407.87
+Container,65663,26354,21.0,17.8,4716,50.4,1,1.22,0.58,Following,Inter-Monsoon,539.13
+Container,41906,16502,22.4,14.2,2928,76.7,7,4.21,2.39,Beam,Southwest Monsoon,177.93
+Tanker,126879,22411,15.6,11.9,1846,61.6,1,1.38,0.73,Head,Inter-Monsoon,223.14
+Bulker,191756,28915,15.9,13.1,3244,84.9,8,3.01,0.84,Beam,Southwest Monsoon,771.01
+Bulker,92583,14320,12.8,10.2,3864,88.6,2,1.51,0.31,Head,Inter-Monsoon,494.93
+Container,51442,21138,20.4,13.2,2452,98.4,5,5.76,1.01,Beam,Southwest Monsoon,239.36
+Tanker,185286,33628,13.7,10.9,3363,57.3,2,1.45,0.48,Head,Inter-Monsoon,755.12
+Container,73128,29175,20.2,15.0,4041,98.0,3,2.78,1.05,Head,Northeast Monsoon,674.63
+Container,140027,56134,18.0,15.7,3233,70.5,3,0.8,0.17,Following,Inter-Monsoon,1144.25
+Tanker,167169,30263,13.7,11.1,1608,51.8,3,1.5,0.41,Following,Inter-Monsoon,300.3
+Container,53741,22461,18.6,14.3,756,66.4,2,1.49,0.78,Head,Inter-Monsoon,86.64
+Bulker,195363,29257,13.0,12.0,1915,53.3,3,0.93,0.57,Following,Inter-Monsoon,438.73
+Tanker,257312,46310,16.2,15.1,3733,72.3,1,0.91,0.12,Head,Inter-Monsoon,1472.53
+Container,47221,19133,21.5,16.2,4394,56.0,4,2.77,1.31,Head,Northeast Monsoon,321.45
+Container,123666,49461,22.3,18.1,1309,58.5,4,1.59,1.09,Following,Northeast Monsoon,260.61
+Tanker,72658,12644,16.9,15.4,1594,72.8,5,1.66,1.4,Head,Northeast Monsoon,163.49
+Tanker,196094,35457,16.7,14.8,2337,87.0,5,4.41,2.19,Head,Southwest Monsoon,883.47
+Container,49801,20843,21.0,15.8,1676,98.4,4,4.44,1.26,Following,Southwest Monsoon,190.22
+Tanker,67696,12176,14.0,12.0,593,76.5,1,1.18,0.83,Head,Inter-Monsoon,64.42
+Tanker,225198,40405,16.0,12.8,3858,65.9,8,5.56,1.36,Head,Southwest Monsoon,1319.8
+Container,145736,58347,18.7,12.2,2168,74.3,3,0.8,0.13,Beam,Inter-Monsoon,448.73
+Bulker,179862,26325,15.3,11.1,3836,56.6,3,0.97,0.27,Beam,Inter-Monsoon,461.03
+Bulker,152959,23002,13.9,9.0,4431,98.3,1,1.51,0.43,Beam,Inter-Monsoon,582.58
+Tanker,258226,46234,15.7,11.3,4463,76.7,6,3.14,1.24,Head,Northeast Monsoon,1373.2
+Container,71104,28082,23.2,20.3,1698,95.4,6,3.98,0.63,Following,Southwest Monsoon,357.48
+Container,36581,13757,22.8,17.0,3110,70.3,1,1.24,0.93,Head,Inter-Monsoon,166.71
+Container,92342,36261,20.1,17.7,2921,76.1,6,2.81,1.87,Head,Southwest Monsoon,771.12
+Bulker,124887,18435,15.8,11.6,2405,96.2,4,3.63,1.56,Following,Southwest Monsoon,297.97
+Bulker,157699,23747,12.5,10.4,1594,69.4,3,2.63,1.04,Following,Northeast Monsoon,324.49
+Bulker,72904,10269,14.2,12.6,3078,75.1,5,5.82,1.88,Following,Southwest Monsoon,331.41
+Container,81761,32307,20.8,17.7,3184,72.5,5,3.87,1.49,Head,Southwest Monsoon,697.86
+Bulker,143274,21410,14.5,12.7,771,93.3,1,1.25,0.72,Following,Inter-Monsoon,159.68
+Container,28254,11459,23.1,14.8,4418,54.8,2,1.68,0.41,Beam,Inter-Monsoon,114.83
+Tanker,274647,49545,15.3,12.7,3427,53.4,4,3.23,1.34,Following,Southwest Monsoon,1051.65
+Tanker,218334,38991,13.8,12.7,4083,87.0,5,4.9,0.75,Head,Southwest Monsoon,2190.76
+Container,61355,24188,23.6,21.4,4846,56.6,1,0.81,0.44,Following,Inter-Monsoon,507.76
+Bulker,195263,29820,15.0,11.6,2815,56.7,2,1.13,0.14,Beam,Inter-Monsoon,445.62
+Tanker,59695,10714,13.8,12.3,4837,55.5,3,1.29,0.81,Following,Inter-Monsoon,375.46
+Bulker,125192,18572,14.2,10.8,2361,84.0,3,1.99,0.34,Head,Inter-Monsoon,328.33
+Container,109288,43685,22.8,21.4,685,88.2,2,0.87,0.77,Following,Inter-Monsoon,202.62
+Container,46435,18797,22.4,18.3,3148,51.0,4,5.85,1.32,Head,Southwest Monsoon,262.11
+Bulker,95771,14727,13.7,11.0,3092,95.5,8,3.86,1.54,Following,Southwest Monsoon,474.62
+Container,139114,55621,22.6,16.5,2701,72.3,6,3.78,1.34,Following,Northeast Monsoon,644.46
+Container,42352,16354,19.0,11.5,2475,78.9,3,1.97,0.18,Beam,Inter-Monsoon,122.42
+Tanker,208640,37662,13.3,11.6,3796,56.3,5,2.01,1.47,Following,Northeast Monsoon,1116.25
+Container,73601,30245,22.9,17.3,4361,97.0,3,1.13,0.48,Head,Inter-Monsoon,605.33
+Tanker,209537,37301,15.1,11.3,3884,85.0,2,1.52,0.49,Beam,Inter-Monsoon,955.31
+Container,31743,12026,21.7,16.0,1153,95.8,6,5.71,1.21,Head,Southwest Monsoon,83.38
+Bulker,191647,28536,15.4,12.4,1469,93.4,2,1.6,0.54,Beam,Inter-Monsoon,342.29
+Tanker,203921,36454,16.1,13.3,1446,78.5,4,2.12,0.66,Following,Northeast Monsoon,383.41
+Tanker,279368,50182,13.1,11.1,1147,75.8,4,3.45,0.55,Head,Northeast Monsoon,604.93
+Bulker,39122,5994,14.4,11.7,1964,55.0,4,2.57,0.6,Beam,Northeast Monsoon,73.17
+Container,32325,13842,19.1,12.2,1613,72.0,5,1.99,0.86,Following,Northeast Monsoon,73.25
+Tanker,77682,14470,14.2,9.8,4517,85.7,6,3.34,1.9,Following,Southwest Monsoon,406.08
+Tanker,122850,22777,15.0,12.4,992,62.2,2,0.76,0.82,Following,Inter-Monsoon,146.98
+Bulker,192660,29503,15.0,13.8,1579,63.2,1,1.36,0.28,Beam,Inter-Monsoon,359.87
+Bulker,95383,14965,13.4,9.7,961,85.6,5,4.61,2.22,Beam,Southwest Monsoon,120.23
+Tanker,191247,33874,14.2,8.7,4494,60.4,6,3.64,0.81,Following,Northeast Monsoon,558.67
+Bulker,89554,14123,14.9,10.8,522,77.0,5,1.53,1.47,Beam,Northeast Monsoon,44.05
+Tanker,262255,47517,16.2,13.6,2947,68.2,6,3.41,1.45,Following,Northeast Monsoon,948.92
+Bulker,149029,22308,13.2,9.6,2066,87.5,3,2.03,1.03,Beam,Northeast Monsoon,319.84
+Bulker,75157,11392,14.4,9.6,1585,83.5,1,1.65,0.61,Head,Inter-Monsoon,95.17
+Bulker,197620,28797,12.6,10.8,1099,66.2,5,1.61,1.04,Head,Northeast Monsoon,260.05
+Bulker,45715,7356,14.4,8.8,1797,74.1,6,4.93,1.37,Beam,Southwest Monsoon,65.36
+Container,132079,52795,19.4,12.3,3002,72.0,7,3.96,1.85,Head,Southwest Monsoon,659.97
+Tanker,240865,43223,13.9,12.9,2306,54.1,3,1.56,0.83,Beam,Inter-Monsoon,835.93
+Tanker,105338,18984,15.2,10.0,1451,82.9,3,0.93,0.36,Beam,Inter-Monsoon,127.41
+Tanker,179643,32422,13.6,10.4,3279,90.9,3,1.24,0.34,Beam,Inter-Monsoon,812.79
+Tanker,269435,47629,13.9,9.4,1579,90.3,3,1.6,0.42,Head,Inter-Monsoon,442.85
+Bulker,147562,22049,13.1,11.9,4622,76.1,3,0.88,0.93,Beam,Inter-Monsoon,985.52
+Bulker,74191,12170,14.4,12.4,545,73.0,3,1.34,0.13,Head,Inter-Monsoon,52.84
+Container,72867,28604,20.6,16.0,4437,90.1,5,4.53,2.47,Head,Southwest Monsoon,826.25
+Tanker,53776,10312,15.9,10.8,2575,89.7,3,1.31,0.53,Beam,Inter-Monsoon,134.63
+Bulker,175981,26693,13.3,11.7,2417,72.4,3,0.79,0.99,Head,Inter-Monsoon,579.26
+Container,135496,55593,18.2,17.0,2761,89.2,1,0.95,0.6,Head,Inter-Monsoon,1352.42
+Tanker,76609,14295,14.4,8.7,1386,90.3,6,4.16,1.1,Following,Southwest Monsoon,101.37
+Tanker,242461,43630,16.4,11.2,4011,56.5,5,1.55,1.41,Head,Northeast Monsoon,741.68
+Bulker,56630,8471,12.3,11.6,763,59.4,6,2.96,0.61,Head,Northeast Monsoon,71.6
+Tanker,80412,14120,14.1,9.2,2718,93.2,1,0.98,0.52,Head,Inter-Monsoon,221.14
+Tanker,232696,41728,16.6,13.2,3387,54.2,6,4.96,1.8,Beam,Southwest Monsoon,851.24
+Tanker,133450,24554,16.0,10.3,1850,98.2,3,2.14,0.78,Following,Northeast Monsoon,227.07
+Bulker,110274,15755,15.4,11.3,1529,59.4,4,4.9,1.81,Head,Southwest Monsoon,153.01
+Tanker,149014,26746,13.6,12.3,1541,59.4,5,3.86,0.97,Head,Northeast Monsoon,393.81
+Container,44860,17205,18.4,12.3,4848,53.8,4,4.0,1.25,Following,Northeast Monsoon,279.47
+Bulker,69646,10790,13.8,8.4,2448,93.3,4,2.53,1.22,Beam,Southwest Monsoon,139.5
+Bulker,84833,12912,13.2,10.6,4897,90.1,6,1.57,1.27,Beam,Northeast Monsoon,567.53
+Container,142132,57009,23.7,18.6,1742,89.2,8,5.07,1.9,Beam,Southwest Monsoon,604.7
+Tanker,218905,39582,15.7,14.3,2357,86.3,2,0.52,0.32,Following,Inter-Monsoon,869.77
+Container,137516,55042,20.0,13.2,2422,94.0,6,3.54,1.43,Following,Northeast Monsoon,609.56
+Tanker,131061,23552,16.0,12.6,2741,60.8,1,1.22,0.11,Head,Inter-Monsoon,337.55
+Bulker,46164,6401,14.5,12.8,3067,71.2,3,1.17,0.3,Beam,Inter-Monsoon,161.42
+Tanker,64834,11057,13.7,12.0,2917,97.3,3,2.51,1.39,Beam,Northeast Monsoon,360.09
+Container,33658,12852,20.5,19.1,1074,87.9,2,1.02,0.23,Beam,Inter-Monsoon,98.59
+Container,129965,51321,18.8,12.6,2059,73.7,8,3.3,1.24,Head,Southwest Monsoon,483.34
+Container,95170,38188,19.3,12.3,3886,82.1,4,5.44,2.22,Beam,Southwest Monsoon,650.67
+Container,123552,49844,21.1,14.3,2498,53.9,4,4.16,1.31,Beam,Southwest Monsoon,392.17
+Container,20838,7965,20.8,16.6,1811,91.3,3,2.7,1.0,Following,Northeast Monsoon,84.96
+Tanker,111615,20200,13.1,11.6,2137,75.1,1,1.55,0.81,Following,Inter-Monsoon,410.93
+Bulker,191844,28369,13.6,9.5,2708,96.0,5,2.46,1.48,Following,Northeast Monsoon,564.35
+Container,67515,27194,20.7,17.1,2043,81.2,6,3.31,1.0,Following,Northeast Monsoon,370.28
+Tanker,107680,19606,13.7,9.5,2035,56.1,5,3.69,0.85,Following,Northeast Monsoon,211.35
+Tanker,169322,30417,15.3,14.5,4623,92.4,2,1.2,0.97,Head,Inter-Monsoon,1627.75
+Tanker,253219,46542,13.8,10.0,3277,55.7,5,3.2,1.33,Head,Northeast Monsoon,890.84
+Container,23856,9210,21.1,14.2,1631,96.0,6,5.43,1.05,Following,Southwest Monsoon,76.89
+Tanker,294036,52686,14.7,10.6,3422,57.1,3,1.92,0.79,Beam,Inter-Monsoon,826.23
+Bulker,191988,28695,12.6,7.7,2451,84.7,3,3.68,0.8,Head,Northeast Monsoon,390.5
+Tanker,232355,42236,13.8,11.9,2093,89.6,2,1.58,0.44,Beam,Inter-Monsoon,884.81
+Tanker,148439,26740,15.7,14.7,4637,95.2,5,4.48,2.44,Head,Southwest Monsoon,1581.88
+Container,93257,37542,23.2,16.8,4455,71.9,4,2.89,1.17,Beam,Northeast Monsoon,652.71
+Tanker,122702,22352,16.7,12.3,4093,50.7,2,0.62,0.57,Beam,Inter-Monsoon,349.43
+Container,58980,23838,18.9,14.6,3100,84.9,6,3.57,1.48,Beam,Northeast Monsoon,521.44
+Container,138306,55518,20.4,14.2,993,73.5,6,1.98,0.73,Following,Northeast Monsoon,219.48
+Container,57352,22774,20.5,17.3,3394,91.9,3,1.16,0.35,Head,Inter-Monsoon,462.82
+Container,134205,53351,18.0,15.1,1767,63.8,5,2.06,1.23,Beam,Northeast Monsoon,560.66
+Bulker,165198,24962,13.1,8.4,4534,55.7,3,0.65,0.22,Beam,Inter-Monsoon,430.81
+Tanker,299370,53217,14.7,10.4,2192,99.4,3,1.74,0.11,Beam,Inter-Monsoon,779.71
+Tanker,213055,38771,15.5,10.8,3864,64.2,5,1.98,1.46,Head,Northeast Monsoon,731.09
+Tanker,173274,30891,15.1,14.4,2939,52.4,6,4.81,0.96,Following,Southwest Monsoon,812.87
+Bulker,175764,26292,13.9,13.2,4310,53.1,2,1.28,0.36,Head,Inter-Monsoon,891.03
+Tanker,121044,22062,15.4,12.9,993,59.9,1,0.8,0.88,Beam,Inter-Monsoon,133.38
+Container,62463,25632,18.5,16.4,4874,76.9,4,1.87,1.26,Beam,Northeast Monsoon,907.22
+Container,91260,36117,21.0,19.7,3153,79.6,6,2.26,0.54,Head,Northeast Monsoon,861.59
+Tanker,59494,10764,16.4,14.0,2504,66.6,3,1.9,0.43,Following,Inter-Monsoon,177.29
+Bulker,155839,24693,12.5,8.6,3933,84.3,6,2.53,1.39,Beam,Southwest Monsoon,686.72
+Container,59257,23538,20.0,13.4,4140,53.9,1,1.14,0.71,Beam,Inter-Monsoon,276.6
+Bulker,149982,22186,14.0,12.6,4249,66.6,5,3.96,2.14,Beam,Southwest Monsoon,882.06
+Bulker,155582,23190,15.6,14.4,610,65.9,3,1.48,0.2,Following,Inter-Monsoon,114.31
+Bulker,170137,25854,12.9,12.0,4658,98.2,1,0.81,0.89,Following,Inter-Monsoon,1441.09
+Bulker,86178,13266,12.9,10.5,1377,82.6,6,5.84,1.45,Beam,Southwest Monsoon,202.42
+Container,147743,58435,19.0,15.5,1943,72.8,7,3.11,0.87,Beam,Southwest Monsoon,682.34
+Container,84809,34176,20.6,14.7,3569,87.0,2,0.95,0.37,Following,Inter-Monsoon,506.17
+Tanker,84178,14762,13.1,9.1,4497,62.1,8,4.84,1.59,Following,Southwest Monsoon,440.61
+Tanker,151576,27494,16.5,12.1,985,72.1,2,1.41,0.43,Beam,Inter-Monsoon,137.78
+Container,27636,11242,19.9,13.8,2947,52.5,3,1.72,1.07,Beam,Northeast Monsoon,109.08
+Container,117563,46921,18.8,17.9,4752,95.8,2,0.83,0.53,Beam,Inter-Monsoon,1931.99
+Tanker,58342,11259,13.7,12.8,838,96.5,4,3.56,1.03,Following,Southwest Monsoon,121.43
+Bulker,56019,8368,15.6,13.5,1366,93.8,3,1.61,0.8,Head,Northeast Monsoon,100.23
+Bulker,197349,29969,15.5,10.0,1456,87.1,5,2.77,2.15,Beam,Southwest Monsoon,236.25
+Tanker,110182,19565,15.9,11.5,4694,77.2,7,4.17,2.0,Following,Southwest Monsoon,584.21
+Tanker,89146,16015,13.8,10.5,2046,83.8,5,5.19,2.0,Head,Southwest Monsoon,303.78
+Tanker,282655,50525,15.5,10.8,3350,95.3,7,5.72,1.61,Following,Southwest Monsoon,1344.5
+Bulker,153921,23440,14.8,9.0,778,69.0,2,1.86,0.99,Following,Inter-Monsoon,67.24
+Tanker,134520,24171,15.2,13.0,3407,82.1,3,1.65,0.77,Head,Inter-Monsoon,703.26
+Container,87461,35191,20.4,17.2,3437,68.2,1,1.32,0.43,Following,Inter-Monsoon,581.97
+Bulker,190667,28983,13.4,10.8,1934,84.3,2,1.17,0.67,Head,Inter-Monsoon,485.29
+Tanker,109650,19513,16.1,13.0,4143,67.4,2,0.77,0.93,Following,Inter-Monsoon,445.99
+Bulker,189188,28227,12.5,11.2,4636,62.4,4,4.72,1.41,Following,Southwest Monsoon,1420.31
+Tanker,89126,16125,16.9,15.7,937,68.0,1,1.21,0.98,Head,Inter-Monsoon,120.35
+Container,127055,51094,22.2,20.5,3643,83.3,7,2.96,1.82,Following,Southwest Monsoon,1326.03
+Bulker,181284,27422,13.8,10.4,4398,75.2,3,1.79,0.48,Head,Inter-Monsoon,845.31
+Container,122024,47594,18.3,15.2,4299,53.7,1,1.5,0.16,Following,Inter-Monsoon,953.85
+Bulker,56714,9515,14.4,12.6,3637,100.0,3,1.53,0.33,Beam,Inter-Monsoon,329.76
+Bulker,39714,6074,12.5,8.4,3411,81.0,7,3.18,1.62,Following,Southwest Monsoon,145.54
+Container,123645,50117,23.6,19.8,3214,93.1,1,1.21,0.91,Head,Inter-Monsoon,941.98
+Bulker,36134,5824,13.8,8.4,2461,99.4,6,5.17,0.86,Head,Southwest Monsoon,97.42
+Container,101700,40332,19.7,17.1,2038,67.9,5,2.83,0.72,Head,Southwest Monsoon,530.83
+Container,58449,23335,23.5,14.2,2142,77.6,6,2.88,1.73,Head,Southwest Monsoon,144.62
+Container,86104,33527,22.7,17.4,4554,59.2,3,1.84,0.83,Beam,Inter-Monsoon,565.27
+Tanker,145379,26338,14.0,11.7,3260,92.7,4,1.86,1.43,Beam,Northeast Monsoon,826.67
+Tanker,82235,15042,14.6,11.2,1752,89.8,6,2.74,0.78,Head,Northeast Monsoon,210.33
+Container,53676,22348,23.0,18.9,613,99.6,6,2.38,1.18,Following,Northeast Monsoon,90.58
+Tanker,294538,51970,14.4,10.5,2235,75.4,6,3.77,1.07,Beam,Northeast Monsoon,764.02
+Container,91811,36446,23.7,16.9,2418,94.9,3,1.33,0.72,Beam,Inter-Monsoon,328.32
+Tanker,139784,25002,15.8,10.4,4452,57.3,1,1.57,0.72,Following,Inter-Monsoon,436.5
+Bulker,160055,23134,13.3,11.5,1340,50.1,3,1.99,0.5,Beam,Inter-Monsoon,225.48
+Container,81475,32801,23.6,18.7,1616,61.1,1,1.44,0.4,Beam,Inter-Monsoon,186.8
+Bulker,182799,28246,14.5,13.7,1756,53.6,1,0.85,0.91,Following,Inter-Monsoon,368.49
+Bulker,85605,12791,12.2,7.8,3252,98.9,8,3.91,1.63,Head,Southwest Monsoon,345.59
+Bulker,137940,20182,13.6,10.0,4417,56.1,1,1.61,0.59,Head,Inter-Monsoon,500.23
+Bulker,93997,14510,12.1,7.5,1510,77.5,7,5.07,2.1,Following,Southwest Monsoon,137.31
+Container,93668,37952,21.0,18.9,4361,61.8,4,5.99,1.45,Beam,Southwest Monsoon,1077.91
+Tanker,207178,37445,15.8,12.7,2875,84.3,7,2.85,0.55,Beam,Southwest Monsoon,943.62
+Tanker,168825,30620,13.3,9.3,4505,57.4,3,1.29,0.19,Following,Inter-Monsoon,651.34
+Tanker,256649,46273,16.0,11.3,4264,79.1,7,4.86,2.25,Following,Southwest Monsoon,1193.55
+Tanker,118524,21229,13.1,8.9,3217,93.1,1,1.71,0.28,Following,Inter-Monsoon,417.62
+Bulker,174086,26055,15.1,10.2,782,64.4,2,1.57,0.38,Beam,Inter-Monsoon,96.24
+Bulker,166747,25449,14.2,9.6,3381,75.6,8,4.41,1.68,Beam,Southwest Monsoon,541.78
+Container,45586,17531,18.3,16.9,3819,61.0,5,5.65,1.15,Head,Southwest Monsoon,546.95
+Bulker,190098,28468,13.2,9.0,896,68.8,7,4.12,1.36,Following,Southwest Monsoon,166.69
+Container,57004,23525,21.5,20.0,2297,53.9,2,0.96,0.16,Following,Inter-Monsoon,263.29
+Tanker,236330,43177,15.0,9.8,852,80.4,7,5.37,1.91,Following,Southwest Monsoon,204.77
+Tanker,125501,22838,14.3,9.3,3817,80.9,3,1.95,0.33,Head,Inter-Monsoon,408.34
+Container,33364,13280,22.5,14.2,1400,80.4,6,3.54,2.06,Head,Southwest Monsoon,71.5
+Container,75469,30548,22.8,20.4,1600,99.3,8,3.24,1.56,Beam,Southwest Monsoon,374.51
+Container,100457,39663,18.6,15.4,3096,72.0,3,3.23,0.67,Beam,Northeast Monsoon,739.49
+Tanker,95359,17901,15.5,11.7,2793,86.7,1,0.65,0.8,Head,Inter-Monsoon,309.5
+Tanker,272824,48791,16.7,15.2,4453,91.1,2,1.3,0.98,Following,Inter-Monsoon,1819.7
+Tanker,148633,27377,15.7,14.0,1957,79.4,3,3.71,0.92,Head,Northeast Monsoon,476.6
+Tanker,76441,14534,15.5,12.2,1089,64.1,7,5.84,0.51,Following,Southwest Monsoon,119.44
+Bulker,40529,5789,13.7,12.2,2761,75.9,5,2.02,0.96,Head,Northeast Monsoon,164.55
+Bulker,98405,15849,13.5,8.9,4765,87.5,3,1.91,0.81,Beam,Inter-Monsoon,435.4
+Container,64233,25267,18.9,13.4,1346,71.3,3,0.59,0.89,Head,Inter-Monsoon,146.5
+Tanker,136277,23913,13.1,12.0,701,79.8,5,2.72,0.99,Head,Northeast Monsoon,198.91
+Bulker,41540,6052,13.0,10.8,2749,59.8,7,5.27,2.1,Head,Southwest Monsoon,166.29
+Container,112006,44531,21.1,14.6,2796,79.5,3,1.72,0.72,Following,Inter-Monsoon,463.74
+Container,127579,50734,20.7,12.9,1193,100.0,2,0.71,0.31,Following,Inter-Monsoon,194.0
+Bulker,70035,10142,15.8,14.1,1941,51.3,2,1.69,0.66,Following,Inter-Monsoon,124.08
+Bulker,45314,6658,15.4,12.8,4777,88.6,1,1.76,0.11,Beam,Inter-Monsoon,261.19
+Container,108760,42847,23.9,14.8,4102,64.0,1,0.56,0.91,Following,Inter-Monsoon,387.97
+Bulker,183290,26846,15.8,14.0,1444,88.7,3,1.58,0.73,Head,Inter-Monsoon,349.24
+Container,76260,30350,22.2,15.4,3695,53.2,6,5.23,0.56,Following,Southwest Monsoon,366.33
+Tanker,53362,9277,16.6,15.3,3644,57.4,1,1.07,0.63,Beam,Inter-Monsoon,235.94
+Bulker,130148,18996,12.7,8.3,4666,69.0,8,5.53,1.7,Beam,Southwest Monsoon,626.28
+Container,57837,23603,19.4,14.3,4549,68.3,3,0.68,0.69,Following,Inter-Monsoon,412.59
+Bulker,67591,9838,12.4,8.8,1349,84.2,6,3.32,1.57,Head,Southwest Monsoon,112.0
+Bulker,168233,24851,12.5,10.1,3311,92.8,6,2.72,0.6,Following,Northeast Monsoon,830.78
+Bulker,124329,18550,12.2,9.0,4364,51.1,4,2.12,0.63,Head,Northeast Monsoon,481.88
+Container,139958,56586,19.7,12.9,765,61.1,3,1.84,1.29,Head,Northeast Monsoon,142.53
+Container,147025,59662,23.6,18.1,902,95.6,6,4.84,1.1,Beam,Southwest Monsoon,279.18
+Tanker,103150,18552,14.1,9.8,3194,76.0,4,5.17,1.69,Beam,Southwest Monsoon,384.88
+Container,72200,29034,20.9,17.5,1896,55.9,2,1.75,0.77,Head,Inter-Monsoon,259.56
+Container,80623,31475,22.4,20.7,2999,64.1,4,2.27,1.25,Head,Northeast Monsoon,560.54
+Container,110117,44874,18.0,16.2,1540,90.6,5,4.62,1.93,Beam,Southwest Monsoon,622.91
+Container,60351,24987,18.5,15.8,2241,94.7,6,1.63,1.32,Head,Northeast Monsoon,499.83
+Tanker,222900,40928,15.9,10.4,1845,74.5,8,5.15,2.47,Head,Southwest Monsoon,458.03
+Tanker,142158,24908,16.6,11.3,4411,85.0,3,3.35,1.19,Beam,Northeast Monsoon,578.16
+Tanker,118058,22050,13.7,12.9,3483,74.6,1,1.13,0.2,Beam,Inter-Monsoon,800.61
+Bulker,195987,28585,14.0,11.8,1401,93.5,4,3.37,0.72,Beam,Northeast Monsoon,390.47
+Container,69872,27477,21.0,18.6,3159,77.6,1,1.91,0.34,Beam,Inter-Monsoon,544.72
+Bulker,197578,28716,13.4,10.9,4374,55.7,5,4.83,0.77,Beam,Southwest Monsoon,995.79
+Bulker,132843,19854,15.1,13.6,1122,55.3,4,3.15,2.48,Head,Southwest Monsoon,186.36
+Container,53478,20907,18.7,16.6,888,66.6,3,1.55,0.55,Following,Inter-Monsoon,112.64
+Tanker,280658,50542,13.9,8.6,2998,80.5,4,5.7,1.09,Head,Southwest Monsoon,914.65
+Bulker,111039,16175,15.3,9.4,3316,77.1,2,1.08,0.25,Beam,Inter-Monsoon,217.13
+Tanker,224882,39851,13.2,9.8,2066,59.6,7,5.95,0.67,Beam,Southwest Monsoon,635.47
+Bulker,105630,15637,13.5,8.5,1738,52.9,4,3.12,2.3,Following,Southwest Monsoon,109.2
+Bulker,62381,9281,15.1,13.5,2935,92.9,6,5.92,1.69,Head,Southwest Monsoon,361.18
+Bulker,81697,11991,15.9,9.9,1753,82.1,3,1.78,0.56,Beam,Inter-Monsoon,91.62
+Tanker,299305,54005,13.9,10.1,3601,53.4,8,4.64,2.18,Head,Southwest Monsoon,1181.45
+Bulker,73331,10028,15.7,9.9,958,87.9,5,3.05,1.34,Beam,Northeast Monsoon,50.18
+Bulker,143608,21866,15.7,13.6,1133,64.8,8,4.44,1.53,Beam,Southwest Monsoon,218.94
+Tanker,153006,27463,16.8,10.2,4741,81.0,3,1.58,0.87,Following,Inter-Monsoon,493.75
+Container,57003,23201,23.8,20.5,2690,83.4,3,3.56,0.86,Beam,Northeast Monsoon,340.4
+Bulker,153714,23123,13.3,10.9,1594,99.3,8,2.92,1.74,Beam,Southwest Monsoon,437.89
+Container,47390,19871,22.0,14.1,2974,98.7,1,1.4,0.34,Head,Inter-Monsoon,218.96
+Container,28011,11089,20.5,13.0,920,80.1,1,0.82,0.72,Head,Inter-Monsoon,33.89
+Bulker,119732,17784,15.0,11.7,2552,70.6,1,1.05,0.98,Beam,Inter-Monsoon,262.98
+Tanker,133263,24480,16.8,12.9,1201,92.6,5,3.67,2.14,Following,Southwest Monsoon,203.73
+Tanker,77284,14104,16.7,12.1,2229,76.2,7,3.59,1.34,Head,Southwest Monsoon,203.2
+Bulker,179019,26656,15.1,9.2,4160,95.4,3,3.53,0.77,Following,Northeast Monsoon,544.17
+Container,83230,32947,18.1,11.0,4935,62.7,5,3.94,1.19,Head,Northeast Monsoon,601.62
+Container,54778,22159,18.6,17.0,538,57.8,5,2.71,0.73,Following,Southwest Monsoon,79.08
+Bulker,157095,23692,12.3,8.7,4767,51.8,5,3.16,1.0,Head,Northeast Monsoon,647.73
+Bulker,173478,26210,12.0,9.5,2685,62.6,5,3.65,1.4,Head,Northeast Monsoon,612.2
+Tanker,292935,51957,15.8,10.4,993,83.5,1,1.94,0.82,Beam,Inter-Monsoon,247.77
+Tanker,120533,22284,13.4,12.3,3348,72.7,3,3.11,1.31,Head,Northeast Monsoon,794.73
+Container,118791,47902,23.2,19.6,672,89.3,3,1.61,0.32,Following,Inter-Monsoon,176.43
+Bulker,92147,14140,12.2,8.9,4609,76.4,3,2.8,1.24,Following,Northeast Monsoon,443.55
+Tanker,178541,31515,16.3,13.9,2677,85.4,5,3.75,0.53,Beam,Southwest Monsoon,824.24
+Bulker,45085,7067,15.1,14.2,3544,84.2,1,0.83,0.63,Head,Inter-Monsoon,244.95
+Bulker,145144,22633,12.5,10.1,1802,95.6,1,0.94,0.57,Head,Inter-Monsoon,420.69
+Tanker,248586,45757,17.0,14.9,664,69.3,3,1.67,0.55,Following,Inter-Monsoon,213.08
+Tanker,256301,45574,15.0,11.1,4684,80.5,7,3.05,1.01,Head,Southwest Monsoon,1551.1
+Bulker,137499,20598,12.9,10.6,3047,69.6,6,3.55,1.04,Beam,Northeast Monsoon,600.23
+Bulker,35503,4199,12.5,8.2,1510,84.7,5,5.67,1.45,Beam,Southwest Monsoon,46.73
+Bulker,176069,25956,14.9,8.9,4599,55.6,2,0.74,0.68,Beam,Inter-Monsoon,340.81
+Bulker,191403,28885,14.5,12.0,688,66.4,1,0.82,0.31,Head,Inter-Monsoon,142.46
+Tanker,113550,20628,14.7,11.4,2438,98.7,6,4.55,1.19,Following,Southwest Monsoon,449.09
+Tanker,130001,23213,16.6,10.4,4826,77.2,5,4.59,1.75,Beam,Southwest Monsoon,497.05
+Container,116427,46819,21.6,14.4,3967,54.3,6,4.9,1.17,Head,Southwest Monsoon,611.93
+Tanker,162118,29230,15.7,13.6,3020,51.7,3,1.49,0.84,Head,Inter-Monsoon,555.47
+Container,52383,21391,21.8,16.3,2944,97.3,4,4.66,2.45,Beam,Southwest Monsoon,336.17
+Container,49745,19586,21.5,14.0,2998,61.3,5,2.44,1.19,Head,Northeast Monsoon,175.23
+Bulker,30686,3960,15.2,11.0,1643,69.0,7,3.6,1.15,Following,Southwest Monsoon,37.38
+Bulker,162994,24188,14.8,13.3,2403,63.8,2,0.53,0.32,Following,Inter-Monsoon,423.04
+Tanker,69171,12740,16.3,13.4,1866,61.4,1,0.95,0.88,Head,Inter-Monsoon,140.78
+Tanker,247377,44476,14.6,11.7,2033,87.1,5,2.66,1.06,Following,Southwest Monsoon,728.22
+Bulker,185462,27783,12.4,9.3,1018,57.6,3,2.58,1.44,Beam,Northeast Monsoon,192.73
+Bulker,191865,27370,12.4,9.5,3020,67.4,2,1.27,0.2,Beam,Inter-Monsoon,573.9
+Bulker,30650,4964,12.2,8.3,1924,75.2,4,3.85,1.18,Beam,Southwest Monsoon,69.7
+Tanker,120582,20895,15.1,11.6,3632,81.9,5,2.94,1.15,Beam,Northeast Monsoon,527.53
+Container,45770,18559,21.3,13.5,1300,96.3,7,4.41,1.85,Following,Southwest Monsoon,99.29
+Bulker,110339,16683,14.9,11.5,548,88.3,1,0.86,0.57,Head,Inter-Monsoon,61.73
+Tanker,274280,49158,16.2,13.4,4910,61.3,5,5.22,1.82,Following,Southwest Monsoon,1684.91
+Bulker,162186,24079,13.5,10.0,1988,74.4,4,2.84,1.49,Beam,Southwest Monsoon,333.67
+Bulker,122157,18730,15.4,12.2,3349,81.8,3,1.62,1.47,Following,Northeast Monsoon,417.97
+Tanker,161558,28436,16.1,9.9,1341,92.7,6,3.89,1.43,Beam,Northeast Monsoon,188.38
+Container,126726,49919,20.4,15.8,838,65.5,6,1.87,0.9,Beam,Northeast Monsoon,185.77
+Tanker,198646,36154,16.0,10.3,2199,85.9,4,2.51,1.18,Following,Northeast Monsoon,367.6
+Container,23742,9129,18.6,16.1,1247,64.4,6,2.98,1.9,Following,Southwest Monsoon,75.07
+Tanker,114017,21426,16.6,10.2,4071,80.7,4,3.76,0.81,Following,Southwest Monsoon,341.47
+Container,43717,17745,23.6,20.6,1317,76.3,2,0.53,0.53,Beam,Inter-Monsoon,118.83
+Bulker,56429,8729,14.3,13.3,643,54.2,3,0.84,0.62,Head,Inter-Monsoon,41.03
+Bulker,84605,12494,13.7,8.9,1019,74.8,2,1.94,0.99,Head,Inter-Monsoon,66.66
+Bulker,59038,8817,12.5,8.8,3772,60.8,1,0.88,0.97,Beam,Inter-Monsoon,179.61
+Bulker,171755,26180,15.8,9.5,1005,55.8,1,1.24,0.31,Head,Inter-Monsoon,81.26
+Tanker,146833,25948,16.8,15.6,1375,66.9,5,2.65,1.14,Following,Northeast Monsoon,309.65
+Tanker,245724,44581,16.5,13.5,3323,50.2,3,0.82,0.42,Beam,Inter-Monsoon,691.59
+Bulker,40267,6272,15.8,14.5,3986,84.0,5,2.57,1.12,Following,Northeast Monsoon,253.49
+Bulker,73321,11739,15.7,11.4,1735,74.2,6,5.32,1.22,Head,Southwest Monsoon,141.91
+Bulker,171739,24954,14.1,8.8,2294,79.3,2,1.37,0.26,Head,Inter-Monsoon,271.63
+Bulker,64305,9764,15.0,10.2,2378,53.9,3,1.31,0.53,Head,Inter-Monsoon,99.51
+Container,73266,28785,18.6,14.5,4195,81.1,1,1.49,0.84,Head,Inter-Monsoon,670.1
+Container,36116,14298,21.4,14.6,3900,73.7,6,5.63,1.46,Head,Southwest Monsoon,246.22
+Tanker,191655,34704,15.0,14.1,3133,85.4,1,1.36,0.83,Beam,Inter-Monsoon,1171.62
+Bulker,177846,26402,14.3,13.0,2736,96.4,8,5.81,1.12,Beam,Southwest Monsoon,1065.99
+Container,118281,47830,21.2,18.9,880,56.3,6,2.44,0.88,Following,Northeast Monsoon,218.5
+Tanker,260794,46758,14.5,11.7,2125,60.5,4,4.39,1.7,Beam,Southwest Monsoon,657.02
+Tanker,221483,39931,13.9,10.6,1672,61.4,4,3.3,1.26,Head,Northeast Monsoon,462.62
+Container,22341,7558,19.1,15.8,2702,71.6,6,3.58,2.39,Head,Southwest Monsoon,130.92
+Container,59706,24508,19.7,13.9,677,71.7,1,1.23,0.53,Head,Inter-Monsoon,64.01
+Bulker,73751,11873,12.8,7.9,1470,86.3,6,3.24,0.89,Beam,Northeast Monsoon,105.21
+Container,70598,28386,23.9,17.0,4280,79.0,1,1.11,0.98,Head,Inter-Monsoon,447.0
+Bulker,157345,24138,14.6,10.6,701,82.3,3,1.05,0.16,Head,Inter-Monsoon,106.28
+Container,122575,49924,18.1,16.8,4484,90.7,1,1.93,0.13,Beam,Inter-Monsoon,1969.18
+Bulker,111799,17274,13.7,9.8,3520,61.8,5,3.95,1.47,Beam,Northeast Monsoon,381.47
+Container,34104,13099,21.9,14.3,2865,56.9,2,1.91,0.78,Head,Inter-Monsoon,104.06
+Bulker,54601,7844,12.4,10.9,4304,63.1,5,2.94,1.36,Head,Northeast Monsoon,362.06
+Tanker,190239,34706,15.0,14.2,2973,98.2,2,1.6,0.13,Beam,Inter-Monsoon,1242.31
+Bulker,36501,5143,15.8,10.0,3793,82.1,1,1.36,0.43,Beam,Inter-Monsoon,85.32
+Container,67050,26908,22.7,20.9,872,81.1,5,2.11,0.95,Beam,Northeast Monsoon,153.63
+Container,75415,30231,20.5,16.4,4485,67.4,4,2.73,1.13,Beam,Northeast Monsoon,660.51
+Tanker,181302,31954,16.9,12.4,2582,97.7,6,5.08,1.66,Following,Southwest Monsoon,620.01
+Tanker,127121,23559,14.5,10.3,3703,60.5,1,1.03,0.61,Head,Inter-Monsoon,426.56
+Bulker,157570,24033,15.3,13.4,1224,91.0,4,1.8,0.94,Head,Northeast Monsoon,248.44
+Container,109983,43854,21.9,17.0,4074,61.7,4,4.59,2.15,Head,Southwest Monsoon,914.79
+Container,55694,22656,21.3,17.2,2610,61.1,6,1.52,0.72,Beam,Northeast Monsoon,267.13
+Tanker,54145,9611,13.5,11.1,874,98.2,5,2.76,1.44,Head,Northeast Monsoon,88.98
+Tanker,155516,27025,15.2,14.2,3048,68.8,6,5.57,1.6,Beam,Southwest Monsoon,897.83
+Tanker,296876,53730,13.8,9.5,2195,69.8,6,3.01,1.17,Following,Northeast Monsoon,765.67
+Tanker,221988,39609,15.7,10.8,3272,93.8,7,3.6,2.21,Head,Southwest Monsoon,988.26
+Bulker,30483,3247,14.9,10.2,1540,98.9,4,2.91,0.54,Following,Northeast Monsoon,28.42
+Container,107737,42326,23.0,17.5,3159,73.1,3,0.87,0.43,Following,Inter-Monsoon,494.37
+Container,45593,18900,21.9,19.5,701,90.9,4,4.24,0.77,Head,Southwest Monsoon,100.11
+Container,126796,50577,19.2,14.0,2545,66.1,3,1.5,0.37,Head,Inter-Monsoon,574.25
+Bulker,58320,8308,15.1,10.8,4065,87.2,4,2.91,0.84,Following,Northeast Monsoon,205.62
+Tanker,242345,43301,15.8,12.0,1035,58.9,6,1.66,1.43,Following,Northeast Monsoon,212.93
+Bulker,163325,25087,12.7,8.4,2915,66.8,3,1.58,0.68,Head,Inter-Monsoon,410.37
+Container,112850,45242,20.0,12.3,3354,63.6,2,1.63,0.14,Head,Inter-Monsoon,412.27
+Container,45260,17622,19.8,18.3,1317,55.0,2,1.16,0.2,Head,Inter-Monsoon,134.56
+Bulker,61249,9257,13.1,10.6,4648,86.5,2,1.35,0.42,Following,Inter-Monsoon,399.15
+Container,116000,46683,22.9,14.8,1186,54.2,3,0.9,0.4,Beam,Inter-Monsoon,125.93
+Container,75820,30463,20.1,18.5,4544,63.9,6,2.57,1.12,Beam,Northeast Monsoon,866.37
+Tanker,268033,47718,13.4,11.4,4905,93.6,5,3.4,0.9,Head,Northeast Monsoon,2755.91
+Tanker,180252,33046,15.4,14.3,2133,96.9,5,3.19,1.02,Following,Northeast Monsoon,808.4
+Tanker,213091,38533,13.9,12.9,1232,99.9,3,3.49,1.48,Following,Northeast Monsoon,588.19
+Bulker,143175,22058,13.9,11.6,4811,62.2,5,5.91,1.58,Head,Southwest Monsoon,930.16
+Bulker,93560,13553,13.6,11.0,4923,96.0,4,3.8,0.73,Beam,Northeast Monsoon,674.72
+Tanker,224333,40042,15.0,11.2,2791,67.8,5,4.17,1.36,Beam,Southwest Monsoon,689.53
+Container,24617,9807,18.5,16.5,4023,80.8,1,1.64,0.65,Beam,Inter-Monsoon,290.28
+Tanker,247660,44773,14.5,10.4,3707,82.7,2,0.89,0.67,Beam,Inter-Monsoon,932.61
+Container,108706,43560,19.7,14.0,4819,75.8,5,3.0,1.21,Beam,Northeast Monsoon,950.38
+Bulker,118011,17648,13.2,10.3,1052,66.0,7,3.42,1.57,Head,Southwest Monsoon,152.15
+Container,39463,16967,23.3,14.2,3557,69.9,6,3.94,0.84,Beam,Northeast Monsoon,180.19
+Bulker,53756,8854,15.8,10.2,1327,62.0,2,1.85,0.74,Head,Inter-Monsoon,45.25
+Bulker,40978,6156,14.3,9.4,2129,80.9,3,2.54,0.8,Beam,Northeast Monsoon,69.3
+Tanker,101938,18199,14.4,10.2,3649,75.2,3,2.66,0.51,Beam,Northeast Monsoon,399.28
+Bulker,180948,27621,15.3,12.7,1230,96.1,3,1.78,0.97,Beam,Inter-Monsoon,305.88
+Bulker,148507,21879,15.8,13.7,3703,51.9,3,1.16,0.26,Beam,Inter-Monsoon,452.24
+Tanker,80064,13966,16.5,13.8,2137,79.6,5,2.88,1.6,Beam,Southwest Monsoon,228.07
+Container,146933,59013,23.1,18.4,888,80.2,5,3.4,0.97,Head,Northeast Monsoon,276.49
+Bulker,137706,21337,12.2,10.0,972,95.0,3,0.76,0.28,Beam,Inter-Monsoon,199.23
+Tanker,181704,33758,14.2,13.2,1792,99.3,2,0.66,0.45,Following,Inter-Monsoon,706.55
+Container,86976,34791,19.5,12.3,834,98.8,1,0.76,0.42,Beam,Inter-Monsoon,111.08
+Container,116084,46913,23.4,17.0,3769,63.7,4,3.66,1.15,Head,Northeast Monsoon,684.62
+Bulker,77527,13102,14.0,12.7,2540,90.9,3,2.49,0.75,Beam,Northeast Monsoon,394.3
+Tanker,231800,40757,16.1,14.5,4761,77.1,1,1.31,0.83,Beam,Inter-Monsoon,1651.04
+Bulker,89766,12645,14.4,12.4,3965,68.8,6,3.98,1.16,Head,Northeast Monsoon,492.53
+Container,32531,12738,21.9,17.3,545,91.7,5,2.75,1.41,Beam,Northeast Monsoon,39.65
+Tanker,116807,21410,13.2,10.1,4011,96.6,3,2.76,0.61,Following,Northeast Monsoon,777.6
+Tanker,156285,28222,15.6,12.2,967,93.1,6,3.97,0.71,Following,Northeast Monsoon,236.75
+Bulker,62168,8932,13.4,8.7,572,71.7,5,2.17,0.63,Beam,Northeast Monsoon,28.18
+Container,77659,31777,19.1,14.2,4535,96.3,1,0.57,0.59,Beam,Inter-Monsoon,809.25
+Container,88904,35647,23.8,22.5,1955,93.3,3,1.24,0.6,Beam,Inter-Monsoon,459.81
+Bulker,60124,8350,14.0,11.2,1735,67.6,2,0.6,0.7,Head,Inter-Monsoon,98.45
+Bulker,116048,16721,14.1,10.2,4951,94.4,2,1.22,0.29,Head,Inter-Monsoon,612.85
+Tanker,76821,13676,15.2,12.9,4930,60.9,3,3.93,0.63,Following,Northeast Monsoon,477.76
+Bulker,174492,26805,15.0,14.2,1052,77.5,3,3.66,0.86,Following,Northeast Monsoon,313.51
+Tanker,282056,50580,15.3,12.7,1681,84.2,7,4.96,1.97,Head,Southwest Monsoon,897.23
+Tanker,64113,11981,16.0,13.6,2196,99.6,4,1.87,1.49,Head,Northeast Monsoon,231.7
+Bulker,37506,5195,13.0,10.5,733,70.1,1,1.43,0.2,Beam,Inter-Monsoon,28.35
+Bulker,52959,8263,14.9,12.5,3463,83.3,4,2.17,0.91,Following,Northeast Monsoon,234.24
+Container,148346,58946,18.1,11.6,3297,88.7,8,3.87,1.96,Beam,Southwest Monsoon,881.23
+Tanker,171656,30671,16.2,14.5,1280,66.6,7,3.6,1.5,Head,Southwest Monsoon,396.43
+Tanker,208260,37472,14.6,12.9,2865,99.7,2,0.57,0.87,Head,Inter-Monsoon,1087.01
+Tanker,120645,21301,13.2,11.4,1189,85.3,1,1.26,0.64,Beam,Inter-Monsoon,242.38
+Bulker,167889,24351,13.2,12.2,2753,90.3,4,3.6,2.1,Beam,Southwest Monsoon,857.64
+Container,127804,51402,21.1,13.1,1596,72.6,5,5.93,2.45,Following,Southwest Monsoon,298.36
+Tanker,276902,49356,16.0,10.9,3025,58.8,7,3.42,1.22,Following,Southwest Monsoon,650.21
+Container,140939,56291,18.1,15.4,1365,98.7,3,1.79,0.33,Beam,Inter-Monsoon,596.09
+Bulker,114641,17000,13.1,11.2,1561,82.3,2,1.78,0.32,Beam,Inter-Monsoon,263.82
+Tanker,255181,45868,16.2,13.7,4837,89.4,6,3.34,1.21,Following,Southwest Monsoon,1950.91
+Container,32220,14138,22.7,20.0,679,86.9,1,1.29,0.23,Head,Inter-Monsoon,57.81
+Tanker,171794,32016,15.0,10.6,500,81.8,1,0.92,0.27,Head,Inter-Monsoon,85.73
+Container,66543,26081,22.3,16.6,1378,72.5,3,1.05,0.91,Head,Inter-Monsoon,140.48
+Bulker,116323,16946,12.8,10.2,3778,71.3,5,4.04,1.54,Following,Southwest Monsoon,514.06
+Container,63147,25080,22.6,15.3,2510,83.1,1,0.77,0.13,Beam,Inter-Monsoon,236.28
+Tanker,153441,27627,15.3,10.9,2170,99.4,2,1.91,0.49,Beam,Inter-Monsoon,391.83
+Tanker,291119,53220,16.8,11.4,788,93.9,5,1.61,1.08,Following,Northeast Monsoon,225.55
+Tanker,130818,23628,16.6,12.7,3264,52.9,4,3.67,0.8,Following,Southwest Monsoon,411.38
+Bulker,92621,13390,12.8,8.3,3232,53.9,8,3.05,0.64,Following,Southwest Monsoon,208.7
+Bulker,174145,26255,15.8,12.8,4812,67.8,3,1.6,0.41,Beam,Inter-Monsoon,801.78
+Tanker,245582,45001,15.5,11.3,1353,55.0,3,1.05,0.83,Beam,Inter-Monsoon,271.78
+Bulker,191433,28995,14.5,12.9,1896,88.1,5,3.38,0.59,Head,Northeast Monsoon,590.48
+Container,140785,56497,21.4,20.1,1802,68.2,4,3.14,0.84,Head,Northeast Monsoon,669.16
+Tanker,51200,9126,13.9,10.9,4361,97.8,7,3.49,1.4,Beam,Southwest Monsoon,400.33
+Container,87000,34265,18.2,12.4,3261,70.2,3,1.49,0.86,Following,Inter-Monsoon,448.78
+Container,81763,32884,20.7,12.9,3473,55.0,2,1.61,0.11,Head,Inter-Monsoon,276.37
+Container,122850,49102,23.1,21.9,4995,94.5,4,3.86,1.75,Beam,Southwest Monsoon,1868.3
+Container,24246,10850,22.2,18.5,3860,71.8,3,0.77,0.3,Head,Inter-Monsoon,207.92
+Tanker,236471,42995,17.0,15.9,4508,82.8,2,1.7,0.86,Head,Inter-Monsoon,1804.17
+Container,79623,31438,22.6,18.8,1442,86.4,8,3.87,1.47,Following,Southwest Monsoon,286.16
+Tanker,210640,37898,13.9,11.9,519,90.0,7,2.78,1.6,Beam,Southwest Monsoon,217.03
+Container,146600,58868,23.2,18.0,4965,85.2,4,2.21,1.29,Beam,Northeast Monsoon,1345.85
+Tanker,243340,43397,14.8,11.8,1404,83.5,6,2.76,0.64,Head,Northeast Monsoon,521.88
+Bulker,166336,24814,15.5,13.2,3179,68.7,3,1.7,0.74,Following,Inter-Monsoon,573.43
+Container,71260,29038,20.0,14.3,3687,58.9,6,3.78,0.76,Following,Northeast Monsoon,444.36
+Container,134112,52056,22.5,17.3,507,64.0,1,1.63,0.65,Beam,Inter-Monsoon,100.07
+Container,99855,40103,21.5,15.9,607,66.3,3,0.91,0.37,Head,Inter-Monsoon,95.3
+Tanker,83231,15559,14.7,9.1,1388,85.8,7,2.63,1.53,Following,Southwest Monsoon,111.43
+Tanker,145747,26641,15.2,10.9,2444,86.5,5,3.69,0.53,Following,Northeast Monsoon,429.13
+Tanker,172787,31517,15.2,10.2,2370,89.4,6,3.99,0.9,Head,Northeast Monsoon,445.43
+Tanker,183119,33220,15.5,10.8,3943,84.1,7,3.64,0.75,Head,Southwest Monsoon,823.72
+Tanker,78933,14363,14.1,11.3,2610,81.5,6,2.81,1.11,Following,Northeast Monsoon,327.31
+Container,115599,46538,21.2,16.7,2915,67.5,4,4.78,0.82,Head,Southwest Monsoon,677.04
+Container,145082,58764,23.5,17.9,1079,87.8,3,1.86,0.82,Head,Inter-Monsoon,314.05
+Bulker,179516,27026,15.5,11.1,4237,83.7,2,1.37,0.57,Head,Inter-Monsoon,677.31
+Bulker,163100,23418,13.7,8.8,1981,65.5,3,3.05,1.43,Following,Northeast Monsoon,216.97
+Tanker,240555,43626,15.3,11.2,4944,53.4,1,1.79,0.59,Following,Inter-Monsoon,983.17
+Container,87982,36008,23.5,14.9,4555,80.3,4,3.77,0.74,Beam,Southwest Monsoon,539.52
+Bulker,50096,7343,15.4,13.1,684,73.3,5,5.65,2.37,Beam,Southwest Monsoon,44.96
+Tanker,127719,21719,14.2,13.2,4256,97.8,3,0.68,0.21,Beam,Inter-Monsoon,981.35
+Container,113069,45857,23.8,21.0,1932,85.1,8,3.9,2.31,Beam,Southwest Monsoon,588.83
+Tanker,251804,43875,13.4,10.6,1321,71.2,1,1.51,0.67,Beam,Inter-Monsoon,425.75
+Container,91326,35868,20.9,13.0,3665,70.2,2,0.77,0.28,Head,Inter-Monsoon,361.49
+Container,44020,18070,19.2,16.8,1011,66.9,6,2.46,0.51,Following,Northeast Monsoon,120.67
+Bulker,42799,6713,15.2,12.1,541,73.5,5,3.1,1.25,Following,Northeast Monsoon,27.19
+Tanker,224777,40946,14.4,11.4,4826,92.4,5,2.7,0.92,Beam,Northeast Monsoon,1700.94
+Tanker,245241,43520,16.7,15.4,2010,98.4,7,4.41,2.0,Beam,Southwest Monsoon,1068.62
+Tanker,69921,12758,15.7,12.3,834,54.4,1,0.96,0.92,Following,Inter-Monsoon,51.88
+Container,93525,37253,19.5,13.6,4355,70.0,8,2.76,2.22,Following,Southwest Monsoon,655.36
+Tanker,92664,16526,14.5,13.2,815,72.5,3,0.67,0.93,Following,Inter-Monsoon,105.93
+Container,116979,46965,19.8,17.3,2080,67.0,6,3.12,0.55,Head,Southwest Monsoon,664.93
+Container,28973,12260,21.9,13.6,4547,62.2,7,5.43,1.15,Beam,Southwest Monsoon,169.78
+Tanker,271387,48873,14.5,10.4,4022,69.0,5,3.58,2.25,Head,Southwest Monsoon,1339.64
+Container,123615,49768,23.7,19.4,3461,68.0,4,3.91,1.19,Head,Northeast Monsoon,893.52
+Tanker,110131,19331,16.6,13.0,4700,76.1,2,1.44,0.73,Beam,Inter-Monsoon,523.83
+Container,93279,37083,21.4,15.6,2741,73.0,4,5.36,2.26,Following,Southwest Monsoon,429.47
+Container,57728,23874,19.1,14.5,2161,83.7,4,1.7,0.98,Head,Northeast Monsoon,291.66
+Container,40856,16406,22.4,15.6,3540,70.1,3,1.34,0.58,Beam,Inter-Monsoon,194.27
+Tanker,299025,53969,14.9,10.1,4124,53.0,5,5.91,1.12,Beam,Southwest Monsoon,1137.41
+Tanker,290855,52474,13.5,11.2,2745,96.3,6,2.39,1.02,Head,Northeast Monsoon,1668.38
+Tanker,85040,14936,16.4,11.8,4472,85.2,1,1.55,0.9,Following,Inter-Monsoon,356.31
+Container,71270,27891,19.5,18.1,1774,91.1,1,0.93,0.63,Beam,Inter-Monsoon,370.7
+Tanker,263024,48009,15.0,9.8,2572,82.4,3,1.23,0.65,Beam,Inter-Monsoon,618.28
+Bulker,150000,22743,13.8,10.9,3575,51.1,3,1.8,0.68,Head,Inter-Monsoon,485.7
+Container,74747,30395,22.3,20.9,3266,83.3,2,1.51,0.48,Following,Inter-Monsoon,702.9
+Container,60260,23576,19.0,17.6,3089,82.5,2,0.66,0.36,Head,Inter-Monsoon,567.01
+Bulker,140718,20783,12.2,8.0,3376,95.6,2,1.35,0.24,Following,Inter-Monsoon,465.53
+Tanker,112113,19911,16.6,13.0,1684,52.6,3,0.66,0.44,Following,Inter-Monsoon,156.72
+Bulker,146808,21428,13.3,12.0,2805,70.9,3,0.93,0.52,Following,Inter-Monsoon,572.3
+Container,86830,33694,23.5,21.2,897,54.9,3,2.03,0.54,Head,Northeast Monsoon,145.83
+Bulker,92309,14067,15.2,14.0,2101,51.5,2,1.49,0.45,Beam,Inter-Monsoon,205.69
+Bulker,190222,29285,12.5,11.4,3253,78.2,4,1.56,1.14,Following,Northeast Monsoon,1029.61
+Tanker,137341,25743,15.0,10.2,1851,59.1,4,3.46,1.25,Following,Northeast Monsoon,210.8
+Tanker,291425,52686,15.3,9.7,3526,50.8,5,2.88,0.57,Beam,Southwest Monsoon,626.88
+Tanker,137069,24931,16.7,13.9,3108,82.3,7,3.43,1.13,Head,Southwest Monsoon,657.27
+Container,81816,32909,22.5,21.4,2767,84.5,7,2.54,2.03,Beam,Southwest Monsoon,728.74
+Container,38932,15579,23.0,16.3,3296,58.1,3,0.82,0.16,Head,Inter-Monsoon,151.2
+Bulker,133216,18954,13.0,9.3,2757,51.8,3,0.64,0.39,Beam,Inter-Monsoon,246.24
+Tanker,80956,14518,13.7,10.0,4995,91.7,1,1.47,0.48,Head,Inter-Monsoon,516.47
+Container,97534,39827,22.9,17.9,2763,90.1,2,1.16,0.72,Following,Inter-Monsoon,528.91
+Tanker,85456,14774,14.6,12.3,2763,67.9,2,1.22,0.58,Head,Inter-Monsoon,288.86
+Bulker,192336,27488,14.2,11.2,2923,67.7,1,0.58,0.21,Beam,Inter-Monsoon,503.34
+Tanker,214141,37834,15.0,9.8,790,64.1,6,6.0,1.3,Following,Southwest Monsoon,149.96
+Bulker,163274,24475,14.8,12.9,2109,76.1,4,2.75,1.47,Head,Southwest Monsoon,452.97
+Tanker,165742,29687,16.9,15.6,4146,94.0,4,2.5,0.6,Beam,Northeast Monsoon,1209.03
+Container,100588,40827,22.5,19.0,1677,94.2,4,3.47,2.24,Following,Southwest Monsoon,411.8
+Bulker,153620,22823,12.1,8.8,4864,92.9,1,1.0,0.44,Following,Inter-Monsoon,886.11
+Container,87095,35635,22.0,19.4,2687,71.2,1,1.99,0.57,Following,Inter-Monsoon,528.68
+Bulker,192618,28834,14.1,8.6,2676,99.8,8,5.74,2.43,Following,Southwest Monsoon,541.47
+Tanker,176983,31811,13.3,8.8,2852,55.5,6,2.51,1.11,Beam,Northeast Monsoon,416.81
+Bulker,199155,29394,14.0,9.6,2920,86.9,5,3.58,1.17,Head,Southwest Monsoon,575.78
+Container,84522,33335,19.1,11.5,1252,55.0,8,4.98,1.26,Following,Southwest Monsoon,127.31
+Container,130344,52731,22.2,19.4,3077,51.0,6,5.73,0.52,Following,Southwest Monsoon,843.43
+Container,109327,44247,23.8,19.7,2478,60.7,7,5.68,0.63,Following,Southwest Monsoon,560.5
+Bulker,185748,27242,15.9,13.2,3986,69.6,4,5.79,2.49,Head,Southwest Monsoon,895.01
+Bulker,139275,21020,13.1,9.1,2777,55.9,7,5.22,1.63,Beam,Southwest Monsoon,354.47
+Tanker,111639,20803,16.0,12.7,2301,97.9,2,0.98,0.79,Beam,Inter-Monsoon,342.96
+Container,34186,13284,21.9,18.0,2280,93.4,2,1.82,0.16,Beam,Inter-Monsoon,166.42
+Bulker,195241,28998,15.6,11.4,4965,58.0,8,2.79,1.65,Head,Southwest Monsoon,789.35
+Bulker,163318,24697,12.8,10.0,4648,73.7,8,2.98,1.44,Beam,Southwest Monsoon,1034.07
+Tanker,230324,41018,15.5,9.4,1055,59.3,3,2.84,0.8,Following,Northeast Monsoon,145.6
+Tanker,217965,39690,15.6,11.2,4692,98.9,3,1.89,0.64,Beam,Inter-Monsoon,1241.38
+Tanker,216358,39117,14.6,12.5,3764,78.0,3,1.2,0.19,Following,Inter-Monsoon,1151.28
+Bulker,113502,16548,13.7,11.1,3224,91.2,3,0.94,0.27,Beam,Inter-Monsoon,455.12
+Bulker,169295,26018,14.7,13.8,3285,66.0,1,0.96,0.71,Beam,Inter-Monsoon,723.35
+Container,123944,49144,23.9,18.5,1998,93.3,4,3.86,0.72,Head,Northeast Monsoon,504.24
+Container,82111,33076,21.6,16.0,4153,97.9,2,0.94,0.97,Following,Inter-Monsoon,615.32
+Bulker,97474,14181,14.0,13.0,4676,55.8,1,1.4,0.61,Head,Inter-Monsoon,539.57
+Bulker,192286,29318,13.9,10.5,646,81.3,4,3.67,2.45,Head,Southwest Monsoon,159.19
+Container,34985,14726,23.1,17.3,1860,91.9,1,0.75,0.58,Following,Inter-Monsoon,110.77
+Tanker,225370,40502,14.3,8.7,1215,77.1,6,2.66,1.38,Head,Southwest Monsoon,232.35
+Tanker,291307,52815,14.0,13.1,2558,80.2,6,4.33,0.9,Beam,Southwest Monsoon,1733.04
+Tanker,258861,47374,15.1,10.5,4026,80.3,8,5.26,1.37,Head,Southwest Monsoon,1301.47
+Tanker,71933,12973,16.9,14.3,3764,91.4,3,2.61,1.23,Head,Northeast Monsoon,420.67
+Tanker,229249,41964,13.1,11.3,544,99.7,5,3.99,0.98,Head,Northeast Monsoon,299.81
+Container,24484,10354,21.3,18.7,2809,93.1,3,1.98,0.54,Beam,Inter-Monsoon,188.4
+Bulker,60392,9668,12.9,10.7,4357,76.0,1,1.58,0.66,Head,Inter-Monsoon,384.01
+Bulker,34967,5720,15.5,14.8,2345,83.2,1,0.54,0.42,Head,Inter-Monsoon,133.46
+Tanker,265812,47803,15.4,11.4,892,94.4,5,3.09,1.45,Beam,Northeast Monsoon,306.68
+Container,115538,46359,20.9,17.9,3808,62.2,2,1.6,0.45,Beam,Inter-Monsoon,913.64
+Tanker,126617,23016,16.4,12.1,1548,84.0,3,1.76,0.92,Head,Inter-Monsoon,203.82
+Container,91799,36615,23.7,15.5,4430,98.6,3,0.71,0.32,Head,Inter-Monsoon,585.84
+Container,131405,51798,19.3,16.7,4036,64.8,3,2.81,0.51,Head,Northeast Monsoon,1153.59
+Container,36346,14056,21.3,14.5,2482,56.8,6,3.76,0.74,Following,Northeast Monsoon,116.9
+Tanker,177562,32600,17.0,14.0,4878,99.0,5,5.57,0.92,Head,Southwest Monsoon,1540.18
+Bulker,41132,6252,15.1,9.9,4830,96.5,1,0.96,0.45,Beam,Inter-Monsoon,158.5
+Container,25814,9596,20.4,13.0,2328,82.0,4,4.98,2.07,Beam,Southwest Monsoon,92.83
+Bulker,58605,8706,13.0,10.3,3698,77.4,5,2.76,0.65,Beam,Southwest Monsoon,301.93
+Tanker,274517,48447,14.3,9.7,3478,60.2,2,1.14,0.48,Head,Inter-Monsoon,791.03
+Bulker,48389,6377,15.9,14.6,565,69.6,3,1.97,1.05,Beam,Northeast Monsoon,29.08
+Bulker,191703,28832,15.1,10.5,3363,96.3,4,3.53,1.48,Following,Northeast Monsoon,623.35
+Tanker,141060,25172,13.7,11.2,3859,73.6,5,5.25,2.45,Beam,Southwest Monsoon,883.34
+Container,106667,43405,18.4,11.9,2213,69.6,5,2.11,0.51,Following,Northeast Monsoon,339.49
+Tanker,60945,10975,16.4,13.4,4241,58.8,8,5.55,1.71,Beam,Southwest Monsoon,332.05
+Container,25791,10769,22.7,16.2,4019,86.9,4,4.9,1.34,Head,Southwest Monsoon,204.05
+Container,21157,8298,23.9,21.4,3662,91.4,5,3.5,0.92,Following,Northeast Monsoon,210.41
+Bulker,46377,7331,15.0,10.4,1661,53.4,3,1.05,0.1,Following,Inter-Monsoon,47.64
+Bulker,91933,14219,13.0,8.1,4047,61.9,3,3.79,1.01,Following,Northeast Monsoon,258.71
+Tanker,211862,37093,15.1,11.1,4652,95.5,6,3.03,1.41,Following,Southwest Monsoon,1338.56
+Container,112959,44969,18.2,13.2,1188,65.8,7,4.91,1.68,Following,Southwest Monsoon,274.67
+Bulker,76973,12581,13.6,8.8,4835,55.4,4,3.89,0.64,Head,Southwest Monsoon,281.43
+Bulker,65688,10745,12.1,10.1,3715,88.5,5,4.0,0.92,Beam,Southwest Monsoon,442.16
+Container,85342,34180,21.5,20.4,3948,88.5,4,4.6,1.02,Beam,Southwest Monsoon,1174.73
+Tanker,189998,34385,13.6,10.7,3975,75.4,1,1.66,0.58,Following,Inter-Monsoon,1042.93
+Bulker,108349,15642,14.0,10.8,1688,52.0,1,1.91,0.15,Following,Inter-Monsoon,142.24
+Container,36586,14821,23.6,15.8,3198,63.0,6,2.0,0.8,Beam,Northeast Monsoon,144.89
+Container,114559,46531,18.6,13.6,1665,55.0,6,5.48,0.56,Head,Southwest Monsoon,352.03
+Container,65154,25551,22.6,20.7,2311,99.7,2,0.99,0.56,Following,Inter-Monsoon,394.09
+Bulker,81602,11373,12.4,10.3,906,82.8,5,2.79,0.8,Beam,Southwest Monsoon,112.78
+Tanker,171781,30725,13.7,11.8,4737,84.1,2,1.16,0.92,Beam,Inter-Monsoon,1417.78
+Tanker,254892,45650,14.0,11.8,4691,84.8,7,5.99,2.0,Following,Southwest Monsoon,2379.5
+Bulker,109049,16628,12.6,11.8,1169,52.4,5,4.08,1.72,Head,Southwest Monsoon,202.3
+Container,35751,14240,22.7,17.2,3777,90.3,6,5.88,1.19,Head,Southwest Monsoon,325.45
+Bulker,188184,27746,13.0,9.1,2035,93.2,2,0.84,0.12,Beam,Inter-Monsoon,371.92
+Bulker,174804,26699,15.6,11.6,4669,79.9,1,1.23,0.26,Head,Inter-Monsoon,712.03
+Tanker,199895,36092,13.2,12.2,1289,56.8,8,5.54,1.1,Following,Southwest Monsoon,493.03
+Bulker,176459,26270,14.9,13.0,4687,65.8,3,1.32,0.54,Following,Inter-Monsoon,885.9
+Container,71486,29712,20.2,14.7,1675,65.9,1,1.02,0.76,Beam,Inter-Monsoon,180.01
+Container,58936,22843,22.0,16.5,1365,82.7,1,0.51,0.88,Head,Inter-Monsoon,128.5
+Container,31817,12603,20.6,19.2,2714,66.5,2,1.67,0.75,Following,Inter-Monsoon,211.92
+Container,94360,36977,19.4,15.7,4659,83.9,4,2.28,0.88,Head,Northeast Monsoon,1159.79
+Bulker,39617,6540,12.9,11.2,3772,93.0,3,2.39,1.36,Beam,Northeast Monsoon,267.73
+Tanker,285717,51418,15.0,14.3,2495,96.4,2,1.06,0.63,Head,Inter-Monsoon,1450.85
+Tanker,197993,35857,17.0,11.5,1187,93.9,2,1.63,0.52,Beam,Inter-Monsoon,221.83
+Container,131392,51961,20.1,13.7,1467,56.7,6,5.18,2.45,Following,Southwest Monsoon,293.25
+Tanker,253721,45165,15.8,13.5,3010,63.5,7,2.76,0.74,Beam,Southwest Monsoon,986.83
+Bulker,195336,29594,13.4,9.2,3056,56.1,4,5.46,1.82,Beam,Southwest Monsoon,495.12
+Container,24246,9895,22.3,15.3,929,87.7,3,1.98,1.36,Beam,Northeast Monsoon,35.42
+Container,34033,13705,20.7,12.7,3255,88.0,2,2.0,0.18,Following,Inter-Monsoon,139.29
+Tanker,79959,14566,16.4,11.6,2354,98.6,5,5.47,1.18,Beam,Southwest Monsoon,226.22
+Container,140246,56321,23.6,14.6,4394,70.6,6,3.41,1.38,Beam,Southwest Monsoon,761.58
+Container,70864,28153,22.2,14.2,2977,69.1,2,1.61,0.48,Head,Inter-Monsoon,236.06
+Tanker,281521,51045,13.2,10.1,541,92.0,3,0.55,0.48,Following,Inter-Monsoon,208.63
+Bulker,91564,14706,12.9,10.8,4848,60.4,2,1.98,0.53,Head,Inter-Monsoon,585.88
+Container,51228,20947,23.5,22.0,3071,61.2,3,0.73,0.4,Following,Inter-Monsoon,336.86
+Container,47762,19119,21.7,20.5,2496,84.1,4,2.26,0.58,Following,Northeast Monsoon,351.14
+Container,59987,24235,23.8,22.5,2442,98.7,2,1.59,0.56,Beam,Inter-Monsoon,455.07
+Container,66508,26679,23.3,16.4,963,59.5,3,1.81,0.74,Head,Inter-Monsoon,73.09
+Bulker,196438,29510,14.7,13.0,2660,59.6,4,5.1,0.9,Head,Southwest Monsoon,687.31
+Tanker,191469,34527,13.6,11.1,857,63.6,2,0.79,0.41,Head,Inter-Monsoon,199.13
+Container,97377,38240,22.9,20.1,3183,69.0,4,3.35,1.85,Beam,Southwest Monsoon,735.95
+Bulker,61353,10127,14.0,10.6,1662,82.9,6,3.96,0.56,Following,Northeast Monsoon,148.52
+Container,74921,29669,22.8,16.3,3962,63.2,3,0.57,0.87,Beam,Inter-Monsoon,383.8
+Bulker,166780,24829,15.0,11.7,2552,85.5,3,1.38,0.53,Head,Inter-Monsoon,470.47
+Bulker,117578,18184,12.3,9.7,743,83.5,1,1.31,0.67,Following,Inter-Monsoon,116.24
+Tanker,251719,45922,17.0,12.4,3788,84.9,4,2.83,1.99,Beam,Southwest Monsoon,1102.73
+Container,143237,56721,18.2,11.3,728,61.3,3,1.01,0.76,Beam,Inter-Monsoon,113.35
+Container,50005,19658,21.0,17.4,3084,82.0,2,1.42,0.69,Following,Inter-Monsoon,331.43
+Container,33639,13418,18.4,15.8,3287,81.1,3,1.49,0.26,Head,Inter-Monsoon,306.8
+Bulker,115923,17087,14.7,11.7,1006,60.5,3,1.46,0.17,Beam,Inter-Monsoon,105.99
+Container,132607,53002,19.9,14.8,3243,69.5,4,2.51,1.41,Head,Northeast Monsoon,774.88
+Container,108424,43819,23.6,22.4,939,90.2,4,3.48,1.2,Head,Southwest Monsoon,303.58
+Tanker,69651,13013,14.5,9.8,818,61.5,4,2.83,1.49,Head,Northeast Monsoon,55.43
+Bulker,57938,8381,12.2,9.9,1286,54.6,2,1.12,0.89,Head,Inter-Monsoon,82.84
+Bulker,146379,22526,12.2,7.4,562,91.5,2,1.01,0.53,Head,Inter-Monsoon,67.5
+Tanker,127036,22663,15.9,9.7,742,75.4,4,3.46,0.97,Following,Southwest Monsoon,69.31
+Container,102356,41473,19.6,14.6,3035,96.3,6,4.72,2.04,Following,Southwest Monsoon,788.72
+Bulker,161906,24148,12.4,8.8,2710,85.2,6,3.97,0.99,Head,Northeast Monsoon,546.78
+Bulker,91515,13961,14.6,9.4,2831,59.4,2,0.55,0.65,Following,Inter-Monsoon,150.08
+Tanker,257871,46326,16.5,11.1,4760,92.3,6,2.68,1.47,Following,Northeast Monsoon,1246.83
+Bulker,90381,12589,13.9,11.3,4099,80.3,3,1.32,0.15,Beam,Inter-Monsoon,412.15
+Bulker,190224,28586,13.6,10.7,908,59.3,7,4.74,1.81,Beam,Southwest Monsoon,196.6
+Tanker,184693,33550,13.7,11.8,4387,82.2,1,1.02,0.86,Head,Inter-Monsoon,1363.87
+Container,126367,50258,18.7,16.4,1522,54.8,1,1.69,0.68,Following,Inter-Monsoon,389.45
+Tanker,236068,42274,13.4,12.4,3267,91.4,4,2.59,0.54,Head,Southwest Monsoon,1679.83
+Bulker,96967,14684,15.6,12.7,3622,97.5,3,0.89,0.31,Following,Inter-Monsoon,396.99
+Container,40244,16353,22.4,13.5,3655,92.1,5,5.03,1.56,Beam,Southwest Monsoon,203.07
+Container,92885,36912,21.4,13.5,2549,69.6,6,3.96,2.36,Following,Southwest Monsoon,313.96
+Tanker,196871,35240,15.3,13.5,3011,65.1,1,1.8,0.18,Beam,Inter-Monsoon,787.11
+Bulker,129414,19166,13.4,10.3,1220,82.3,2,0.86,0.85,Beam,Inter-Monsoon,162.3
+Bulker,77050,10755,12.4,10.6,3010,64.1,7,4.4,2.22,Following,Southwest Monsoon,337.88
+Container,92405,37110,20.1,17.0,2485,50.8,1,1.62,0.59,Beam,Inter-Monsoon,419.26
+Tanker,279272,50472,16.2,13.8,4820,64.0,5,1.67,0.74,Head,Northeast Monsoon,1685.66
+Bulker,34028,5201,13.1,9.5,1469,97.2,4,2.18,0.65,Following,Northeast Monsoon,62.85
+Tanker,83324,15105,13.5,9.6,503,81.4,8,3.3,1.28,Beam,Southwest Monsoon,57.92
+Bulker,167492,25284,15.2,11.6,1403,52.1,2,1.41,0.52,Beam,Inter-Monsoon,162.7
+Tanker,133957,24497,14.8,13.2,4417,56.5,5,5.92,2.5,Beam,Southwest Monsoon,916.58
+Container,49687,19830,23.2,16.9,717,72.4,4,3.44,1.18,Head,Northeast Monsoon,53.53
+Tanker,197778,34972,14.7,13.0,2885,72.1,3,3.54,1.26,Beam,Northeast Monsoon,842.64
+Tanker,159409,28121,16.4,10.7,4453,57.4,8,5.78,2.39,Head,Southwest Monsoon,603.93
+Container,95152,37241,20.8,15.3,1609,83.2,6,3.17,1.3,Following,Northeast Monsoon,308.83
+Bulker,152742,22829,15.6,13.4,865,52.2,5,2.77,0.9,Head,Southwest Monsoon,134.61
+Container,55962,22381,20.8,12.6,1432,65.6,5,3.48,1.53,Beam,Southwest Monsoon,89.87
+Bulker,89625,13806,12.3,11.6,3931,54.5,1,1.83,0.34,Following,Inter-Monsoon,545.77
+Bulker,43942,7658,13.9,10.4,4858,64.2,3,0.54,0.12,Head,Inter-Monsoon,209.07
+Container,20736,7938,22.8,15.8,4060,99.6,3,2.2,1.4,Beam,Northeast Monsoon,135.02
+Bulker,93698,14817,12.7,11.7,3268,89.1,2,1.04,0.63,Following,Inter-Monsoon,605.67
+Container,112454,45346,24.0,17.0,4735,66.3,3,1.07,0.67,Head,Inter-Monsoon,643.02
+Container,80764,32705,21.2,16.3,540,97.1,1,0.52,0.5,Following,Inter-Monsoon,89.72
+Bulker,39506,5575,12.2,8.0,1672,89.1,5,3.98,0.83,Beam,Southwest Monsoon,64.62
+Tanker,233988,42890,15.2,9.2,4650,89.4,8,2.62,1.22,Head,Southwest Monsoon,1026.06
+Tanker,265958,47965,15.4,11.0,742,55.2,4,1.69,1.28,Head,Northeast Monsoon,170.28
+Bulker,134841,20019,13.3,8.8,1556,86.6,7,5.83,0.68,Following,Southwest Monsoon,246.81
+Tanker,283651,51064,14.4,9.9,2744,57.6,6,2.3,1.2,Beam,Northeast Monsoon,693.31
+Tanker,115572,20287,14.5,11.8,2021,60.3,1,0.63,0.69,Head,Inter-Monsoon,260.28
+Bulker,135704,21598,12.1,10.5,4317,69.7,5,4.92,1.73,Beam,Southwest Monsoon,1065.47
+Bulker,153542,22638,14.8,11.9,2093,98.4,6,3.05,1.21,Beam,Southwest Monsoon,432.21
+Container,69164,27136,18.5,17.0,2007,68.6,4,2.72,0.77,Head,Southwest Monsoon,417.48
+Tanker,259155,46732,14.7,10.6,4705,66.4,6,3.37,1.36,Following,Northeast Monsoon,1195.55
+Container,98693,39159,20.8,16.7,2708,51.8,4,2.53,0.88,Head,Northeast Monsoon,428.25
+Tanker,156164,28235,16.8,13.3,2126,78.2,4,3.86,0.85,Head,Southwest Monsoon,436.91
+Tanker,272103,49587,13.2,10.4,966,71.2,3,0.78,0.89,Beam,Inter-Monsoon,347.83
+Bulker,119349,17811,15.1,9.2,3382,66.3,3,1.99,0.59,Head,Inter-Monsoon,218.23
+Tanker,279613,50811,16.5,15.1,4409,87.8,3,1.74,0.71,Beam,Northeast Monsoon,2051.01
+Bulker,98921,15291,13.9,12.6,3681,93.8,5,3.68,0.99,Head,Northeast Monsoon,756.55
+Tanker,154616,27546,16.2,15.3,3339,78.7,1,0.57,0.19,Following,Inter-Monsoon,848.29
+Tanker,281296,51223,15.5,10.0,1745,50.6,2,1.83,0.28,Head,Inter-Monsoon,296.4
+Tanker,140028,25273,15.8,10.1,4589,59.7,2,0.87,0.31,Following,Inter-Monsoon,369.49
+Container,26639,10824,21.5,16.1,2477,59.4,4,4.68,0.54,Following,Southwest Monsoon,103.63
+Container,26986,10610,20.3,18.4,3114,71.5,1,0.87,0.74,Beam,Inter-Monsoon,196.39
+Bulker,140063,20806,15.0,10.0,822,84.5,6,2.6,1.05,Beam,Southwest Monsoon,98.54
+Container,106074,42941,24.0,16.9,4055,88.4,3,1.66,0.88,Following,Inter-Monsoon,633.05
+Tanker,159676,28697,13.4,10.1,2700,62.5,3,1.72,0.58,Beam,Inter-Monsoon,458.88
+Tanker,154772,27216,15.3,12.8,3795,62.3,3,1.73,0.27,Head,Inter-Monsoon,654.39
+Container,83915,33132,18.1,11.7,1938,93.6,5,4.72,1.12,Head,Southwest Monsoon,335.64
+Container,102955,41484,20.3,17.0,1018,67.4,8,5.82,1.78,Head,Southwest Monsoon,287.85
+Bulker,108158,16016,13.2,11.1,4376,86.2,4,4.6,0.88,Head,Southwest Monsoon,755.56
+Bulker,178054,24890,15.9,12.4,2353,54.3,7,3.44,1.31,Beam,Southwest Monsoon,322.66
+Tanker,246396,44413,15.7,11.9,885,52.4,2,0.79,0.54,Head,Inter-Monsoon,176.66
+Bulker,36613,5305,14.0,10.2,2001,89.4,6,2.41,1.08,Beam,Northeast Monsoon,82.76
+Tanker,214902,39194,13.4,10.3,1937,91.5,2,0.62,0.13,Beam,Inter-Monsoon,563.54
+Tanker,151435,28310,16.2,12.2,3198,86.6,7,5.22,2.16,Beam,Southwest Monsoon,681.72
+Bulker,133239,20670,15.5,14.5,4914,77.7,1,0.79,0.62,Head,Inter-Monsoon,934.96
+Container,146038,58099,20.5,13.7,1221,66.3,4,2.59,0.93,Following,Northeast Monsoon,248.97
+Tanker,103009,17892,13.9,11.4,3149,60.8,1,0.62,0.94,Beam,Inter-Monsoon,372.22
+Tanker,292260,53429,13.9,9.4,546,97.1,8,5.24,1.22,Head,Southwest Monsoon,236.03
+Tanker,106722,19945,13.7,9.0,2177,93.3,4,3.6,1.11,Following,Northeast Monsoon,283.08
+Tanker,185260,33534,14.5,11.1,3808,94.0,4,3.42,0.75,Head,Southwest Monsoon,1030.47
+Container,137640,55708,23.3,20.0,4896,53.7,1,1.44,0.32,Following,Inter-Monsoon,1083.62
+Tanker,134705,23760,15.1,10.1,2282,74.7,6,1.92,0.91,Following,Northeast Monsoon,289.06
+Tanker,86955,15228,15.4,12.5,2041,91.0,6,5.26,2.47,Head,Southwest Monsoon,317.66
+Bulker,143442,21321,12.3,7.9,2064,61.4,1,0.78,0.26,Beam,Inter-Monsoon,196.87
+Container,23558,9441,19.2,15.9,3619,94.0,5,2.26,1.24,Head,Northeast Monsoon,260.94
+Bulker,42152,5974,14.7,9.9,2447,97.5,1,1.85,0.98,Following,Inter-Monsoon,88.59
+Tanker,120946,22332,13.1,10.8,4025,95.3,3,1.35,0.24,Beam,Inter-Monsoon,842.54
+Bulker,161294,23826,12.3,8.9,4508,79.8,3,3.82,0.6,Beam,Northeast Monsoon,860.61
+Container,117947,47350,21.4,18.2,1793,89.6,5,2.45,0.76,Beam,Northeast Monsoon,524.62
+Container,50978,20428,21.1,14.7,998,56.6,3,1.95,0.77,Beam,Inter-Monsoon,67.68
+Bulker,41373,6529,13.1,11.5,3318,93.5,1,0.83,0.28,Following,Inter-Monsoon,226.78
+Tanker,104128,19320,15.6,10.5,2688,79.9,6,3.45,0.96,Head,Southwest Monsoon,305.62
+Tanker,225657,41461,14.6,13.8,3358,89.3,5,5.93,0.92,Head,Southwest Monsoon,1858.92
+Bulker,161779,24287,14.1,11.8,827,71.9,7,3.49,1.48,Beam,Southwest Monsoon,184.09
+Container,85387,33457,22.2,18.1,1423,69.3,4,3.16,1.52,Following,Southwest Monsoon,227.83
+Bulker,183156,27059,14.4,11.8,1704,72.2,2,0.75,0.96,Beam,Inter-Monsoon,321.4
+Tanker,251917,46224,14.7,10.1,2496,60.8,1,0.88,0.25,Following,Inter-Monsoon,505.53
+Tanker,77846,13589,13.9,13.2,4629,67.4,4,3.91,1.26,Beam,Northeast Monsoon,706.75
+Container,60384,24399,19.7,17.8,3584,97.9,2,1.06,0.66,Following,Inter-Monsoon,664.42
+Container,73864,29957,21.4,16.8,3183,77.0,3,0.8,0.85,Beam,Inter-Monsoon,416.52
+Container,23959,9158,22.6,16.1,1672,88.4,6,3.6,1.07,Beam,Northeast Monsoon,68.75
+Tanker,93770,16983,13.3,10.4,3414,97.1,3,1.55,0.89,Following,Inter-Monsoon,499.47
+Container,109716,43463,19.0,17.6,3974,73.1,2,1.32,0.97,Head,Inter-Monsoon,1208.9
+Tanker,292087,52101,14.3,11.2,2841,57.6,2,1.48,0.35,Following,Inter-Monsoon,833.99
+Bulker,64109,9141,14.4,9.9,1196,68.0,3,1.34,0.63,Following,Inter-Monsoon,52.53
+Container,41088,16796,19.3,15.0,4543,60.6,2,1.43,0.12,Beam,Inter-Monsoon,356.05
+Bulker,159207,24006,15.3,10.5,1711,90.3,2,1.42,0.26,Following,Inter-Monsoon,217.4
+Tanker,148061,26475,16.5,12.3,1948,51.9,2,0.99,0.76,Beam,Inter-Monsoon,203.4
+Bulker,150532,21565,13.0,9.1,3372,89.3,3,0.85,0.23,Following,Inter-Monsoon,469.06
+Tanker,226380,40496,13.6,12.4,4920,67.1,2,0.61,0.54,Following,Inter-Monsoon,1692.84
+Tanker,280145,50131,16.8,15.0,2576,60.3,3,2.5,1.29,Following,Northeast Monsoon,838.35
+Bulker,171980,25895,13.2,12.4,2519,54.5,5,2.01,1.11,Following,Northeast Monsoon,561.4
+Container,134560,54063,21.8,19.2,1451,94.2,6,5.22,1.72,Head,Southwest Monsoon,678.95
+Bulker,46588,7048,14.3,11.2,1680,60.6,6,5.87,0.5,Beam,Southwest Monsoon,87.58
+Tanker,172356,30915,16.3,13.7,1755,80.3,3,0.78,0.72,Following,Inter-Monsoon,364.68
+Tanker,103760,18832,14.7,10.2,4774,93.9,1,1.08,0.53,Beam,Inter-Monsoon,545.06
+Container,94254,37655,22.2,13.7,1979,65.4,1,1.86,0.83,Head,Inter-Monsoon,200.05
+Bulker,40371,6381,14.3,9.0,4347,58.9,1,0.93,0.98,Head,Inter-Monsoon,111.26
+Tanker,172626,31009,16.3,13.6,2543,76.6,7,2.53,0.9,Head,Southwest Monsoon,657.08
+Bulker,100883,15579,15.9,13.2,3160,83.1,3,3.15,0.65,Following,Northeast Monsoon,374.83
+Tanker,208965,37717,14.1,13.4,4217,70.2,6,5.16,2.23,Beam,Southwest Monsoon,1882.3
+Container,50856,20409,21.7,16.2,1939,88.6,3,1.7,0.27,Beam,Inter-Monsoon,188.3
+Container,135310,53775,18.2,14.9,4874,82.4,6,2.7,0.9,Head,Northeast Monsoon,1883.27
+Bulker,60241,10055,13.9,10.9,2511,77.2,1,0.83,0.98,Following,Inter-Monsoon,180.17
+Tanker,247114,44895,16.3,12.0,4849,85.6,1,0.59,0.58,Head,Inter-Monsoon,1233.5
+Tanker,158771,29020,16.9,13.5,4533,79.0,5,2.31,1.42,Following,Northeast Monsoon,860.84
+Tanker,217525,39661,15.3,9.4,3533,78.9,7,4.58,1.8,Head,Southwest Monsoon,794.89
+Tanker,258668,46044,13.6,9.8,1195,52.5,2,0.52,0.68,Head,Inter-Monsoon,277.78
+Container,44506,17844,20.9,13.5,1979,96.8,3,0.72,0.56,Beam,Inter-Monsoon,134.15
+Bulker,138639,20657,16.0,13.5,4459,68.3,4,5.54,0.78,Beam,Southwest Monsoon,715.83
+Bulker,105326,16025,13.0,9.0,3304,84.8,1,1.22,0.23,Head,Inter-Monsoon,354.13
+Bulker,179879,27313,12.7,11.4,4936,56.9,5,3.44,2.03,Beam,Southwest Monsoon,1269.11
+Container,73130,29624,21.8,15.2,3512,64.9,2,1.1,0.62,Beam,Inter-Monsoon,341.43
+Tanker,134810,23923,15.9,9.6,2414,81.1,3,1.58,0.93,Head,Inter-Monsoon,239.59
+Tanker,127574,23150,16.8,15.9,2983,52.7,7,4.25,0.91,Beam,Southwest Monsoon,577.49
+Bulker,86806,12549,12.6,9.8,2883,92.4,8,3.12,2.26,Head,Southwest Monsoon,412.3
+Bulker,146962,21795,14.3,10.0,3106,72.7,8,5.85,1.83,Head,Southwest Monsoon,483.72
+Bulker,79328,12205,15.9,12.9,1454,61.2,5,2.41,1.05,Following,Northeast Monsoon,111.39
+Tanker,50565,9724,13.3,12.3,3441,76.6,2,0.61,0.23,Head,Inter-Monsoon,321.25
+Container,43820,17444,19.0,16.5,768,57.3,5,3.94,0.77,Beam,Southwest Monsoon,81.72
+Bulker,59326,8632,14.6,12.2,2724,86.3,3,0.72,0.29,Head,Inter-Monsoon,183.4
+Bulker,64035,10140,14.1,11.1,3036,66.7,2,1.65,0.26,Head,Inter-Monsoon,205.13
+Bulker,92785,13973,12.7,10.2,2749,59.2,7,5.48,2.32,Following,Southwest Monsoon,321.4
+Tanker,197685,35996,14.3,11.1,3187,98.5,4,3.83,0.95,Following,Southwest Monsoon,1054.25
+Tanker,258948,45209,13.5,8.3,1358,64.1,1,0.94,0.83,Head,Inter-Monsoon,237.39
+Container,49304,20281,18.3,15.4,2644,60.7,3,0.77,0.95,Head,Inter-Monsoon,287.8
+Tanker,293007,52545,15.9,13.9,4212,74.9,7,2.91,1.76,Following,Southwest Monsoon,2016.42
+Tanker,156729,27901,16.3,10.0,4276,92.1,4,2.81,0.8,Following,Southwest Monsoon,507.45
+Tanker,265533,47803,15.0,13.7,4072,85.0,6,1.6,1.29,Head,Northeast Monsoon,2215.46
+Tanker,276847,50791,14.6,9.5,1742,62.0,6,1.77,0.59,Beam,Northeast Monsoon,357.46
+Container,130452,51486,19.4,18.0,4234,93.3,1,0.69,0.26,Head,Inter-Monsoon,1699.2
+Tanker,196691,36001,14.3,11.0,3950,73.8,8,3.24,1.52,Following,Southwest Monsoon,1096.18
+Bulker,143892,21185,14.9,12.9,1775,93.7,4,3.5,0.6,Head,Northeast Monsoon,357.65
+Tanker,178926,31113,15.9,11.6,2689,95.8,3,0.51,0.6,Head,Inter-Monsoon,511.33
+Tanker,121196,21573,13.2,10.5,3184,69.6,3,1.8,0.71,Head,Northeast Monsoon,564.71
+Tanker,215579,39376,16.8,11.9,631,99.9,6,1.96,0.54,Beam,Northeast Monsoon,164.58
+Bulker,193919,29196,15.8,13.8,4888,80.8,1,0.86,0.66,Following,Inter-Monsoon,1177.38
+Bulker,181972,27686,15.4,14.6,2771,80.6,1,0.9,0.96,Following,Inter-Monsoon,705.51
+Bulker,80534,11925,13.6,10.0,1485,95.1,5,2.92,0.56,Following,Northeast Monsoon,130.4
+Container,45497,18688,22.8,19.4,3465,70.8,2,1.49,0.16,Head,Inter-Monsoon,339.17
+Container,140357,55567,18.4,15.7,4581,71.9,5,3.23,1.0,Following,Northeast Monsoon,1667.49
+Container,35713,14256,20.5,17.6,4142,72.0,7,4.48,1.12,Head,Southwest Monsoon,407.63
+Container,87366,34747,19.0,16.0,2364,82.9,6,3.83,0.98,Following,Northeast Monsoon,591.7
+Bulker,191615,28509,14.5,9.8,1560,94.8,1,1.71,0.22,Following,Inter-Monsoon,267.95
+Container,81650,32095,23.3,21.6,4285,81.0,2,1.64,0.82,Beam,Inter-Monsoon,838.55
+Tanker,224563,40062,16.2,13.2,4367,65.9,8,5.27,1.02,Beam,Southwest Monsoon,1278.9
+Bulker,45639,6907,12.3,11.4,3726,93.9,3,1.44,0.39,Following,Inter-Monsoon,322.24
+Container,93476,36922,22.0,18.0,3822,64.3,2,1.42,0.93,Beam,Inter-Monsoon,655.57
+Container,75760,30112,21.4,17.6,572,58.7,5,3.06,0.71,Following,Northeast Monsoon,81.95
+Bulker,197764,29342,15.8,13.2,869,99.0,2,1.75,0.28,Following,Inter-Monsoon,211.02
+Container,74217,29363,18.1,12.4,2470,91.5,7,5.94,1.17,Head,Southwest Monsoon,477.56
+Tanker,178228,32327,16.4,11.4,4207,90.4,6,1.87,1.49,Head,Northeast Monsoon,780.65
+Tanker,194885,34485,14.4,11.1,4881,83.1,6,2.99,0.88,Head,Northeast Monsoon,1442.3
+Bulker,38297,5149,14.6,12.8,1317,75.2,3,1.48,0.16,Beam,Inter-Monsoon,60.86
+Tanker,185419,34069,16.5,13.3,4112,56.3,2,1.2,0.81,Head,Inter-Monsoon,760.87
+Container,54366,22016,20.0,15.4,1317,94.9,5,3.62,0.97,Head,Northeast Monsoon,186.99
+Tanker,125705,23049,15.2,10.6,2875,69.6,1,1.38,0.32,Following,Inter-Monsoon,317.89
+Container,53928,22338,18.1,11.5,1008,68.4,6,5.05,0.85,Following,Southwest Monsoon,92.48
+Container,38525,15254,23.7,19.6,657,68.8,2,1.22,0.96,Following,Inter-Monsoon,42.09
+Container,132771,52806,24.0,18.6,1381,57.2,7,2.5,2.04,Beam,Southwest Monsoon,290.25
+Bulker,167960,25078,15.1,11.1,852,80.8,6,4.4,0.58,Beam,Southwest Monsoon,146.68
+Bulker,192450,28299,14.8,10.0,1751,68.2,4,5.79,1.12,Head,Southwest Monsoon,280.87
+Container,109247,43730,19.8,16.5,1190,65.8,3,3.16,1.3,Head,Northeast Monsoon,282.68
+Tanker,81852,14196,13.6,12.7,1783,68.5,2,0.79,0.72,Head,Inter-Monsoon,264.83
+Container,119073,47369,19.0,12.2,3468,97.5,3,1.51,0.66,Head,Northeast Monsoon,703.5
+Container,125268,49799,18.4,11.2,4580,83.1,2,1.89,0.42,Head,Inter-Monsoon,752.53
+Tanker,249050,45655,16.0,14.6,1125,63.0,7,2.7,1.54,Beam,Southwest Monsoon,438.19
+Bulker,131339,19799,12.9,8.3,2102,62.9,2,0.55,0.59,Beam,Inter-Monsoon,183.96
+Container,47977,18190,21.9,16.4,2860,78.9,6,3.35,0.85,Head,Southwest Monsoon,244.85
+Tanker,126390,22519,13.8,11.8,3283,93.6,1,0.83,0.45,Head,Inter-Monsoon,732.54
+Bulker,68265,10683,12.3,8.0,1906,91.3,2,1.65,0.64,Head,Inter-Monsoon,140.92
+Container,78601,31770,21.0,12.8,4233,64.4,7,5.13,1.55,Following,Southwest Monsoon,450.54
+Tanker,80422,14193,15.2,12.1,2319,72.8,5,5.71,1.71,Following,Southwest Monsoon,255.28
+Bulker,42593,6724,14.0,9.6,3026,80.4,8,4.03,0.56,Following,Southwest Monsoon,137.45
+Bulker,67831,9954,13.2,11.2,3846,85.3,1,1.39,0.7,Beam,Inter-Monsoon,341.93
+Tanker,179576,32913,13.9,10.5,1119,79.9,3,2.7,1.49,Beam,Northeast Monsoon,272.08
+Tanker,173156,31890,16.3,14.1,3771,91.6,6,4.45,1.04,Beam,Southwest Monsoon,1276.97
+Tanker,240364,43145,14.5,12.0,4376,72.1,8,4.61,1.57,Following,Southwest Monsoon,1720.2
+Tanker,166550,30801,13.4,10.8,4732,84.1,5,3.3,1.26,Beam,Southwest Monsoon,1269.78
+Bulker,192964,29824,12.2,7.5,3463,66.4,2,0.96,0.96,Head,Inter-Monsoon,465.37
+Container,59542,23685,23.6,18.0,4402,99.5,7,3.38,2.17,Following,Southwest Monsoon,543.16
+Bulker,196593,29765,12.0,7.4,2369,54.8,6,2.75,2.12,Head,Southwest Monsoon,330.86
+Tanker,287738,52865,15.7,12.6,1894,94.4,3,0.94,0.11,Following,Inter-Monsoon,738.08
+Container,105427,41155,19.3,15.7,1487,87.8,1,0.67,0.88,Head,Inter-Monsoon,379.59
+Tanker,68939,12372,16.5,10.1,3939,63.0,5,2.29,1.41,Head,Northeast Monsoon,178.19
+Container,107566,42871,18.7,15.4,717,59.8,4,2.64,0.71,Beam,Northeast Monsoon,162.11
+Tanker,293782,53605,15.4,12.7,1387,51.3,3,0.67,0.17,Following,Inter-Monsoon,428.87
+Bulker,51496,7443,14.3,9.6,3632,58.5,2,1.9,0.23,Head,Inter-Monsoon,118.65
+Bulker,196921,30644,14.6,10.9,2422,80.0,4,2.93,2.01,Following,Southwest Monsoon,487.08
+Bulker,156096,23778,14.1,11.4,2660,68.1,7,4.18,0.66,Beam,Southwest Monsoon,509.16
+Tanker,118233,21872,15.7,14.2,1380,77.3,1,0.63,0.54,Head,Inter-Monsoon,274.77
+Container,114988,45923,21.5,18.5,3657,79.0,7,3.71,0.7,Head,Southwest Monsoon,1148.58
+Bulker,112375,17120,13.6,9.3,2531,51.6,1,0.71,0.17,Head,Inter-Monsoon,178.18
+Bulker,177615,26626,13.0,8.2,2745,89.8,8,5.29,0.67,Beam,Southwest Monsoon,523.67
+Bulker,191549,28627,12.1,9.2,3260,71.1,3,1.74,0.96,Following,Inter-Monsoon,708.71
+Tanker,130890,22957,14.3,12.2,2481,86.3,7,4.64,2.4,Head,Southwest Monsoon,678.72
+Container,130736,50882,18.1,11.4,4016,99.4,2,1.54,0.97,Following,Inter-Monsoon,839.76
+Bulker,87213,13116,15.7,12.0,1954,82.6,5,1.88,1.22,Head,Northeast Monsoon,170.01
+Bulker,37316,5567,15.1,9.7,3426,59.0,1,1.96,0.47,Following,Inter-Monsoon,74.43
+Bulker,41641,6489,16.0,14.1,4478,53.4,7,4.17,0.76,Following,Southwest Monsoon,206.68
+Bulker,40804,6393,14.2,12.0,3514,79.8,8,2.78,2.21,Head,Southwest Monsoon,240.89
+Tanker,69527,12460,15.7,9.5,2286,53.5,3,1.92,0.16,Beam,Inter-Monsoon,79.86
+Container,27900,11660,23.9,15.7,4648,88.8,7,2.57,1.62,Following,Southwest Monsoon,206.12
+Tanker,252765,45591,13.0,8.7,1315,80.7,3,1.42,0.63,Beam,Inter-Monsoon,328.82
+Tanker,140625,24546,16.8,13.4,4115,82.5,1,1.91,0.52,Beam,Inter-Monsoon,688.91
+Container,70176,28221,21.5,13.2,1536,74.7,3,0.62,0.74,Beam,Inter-Monsoon,119.65
+Bulker,167835,24606,13.1,12.3,1719,85.7,2,0.89,0.78,Head,Inter-Monsoon,473.71
+Container,133062,53852,19.2,11.6,1702,75.6,8,4.56,0.61,Following,Southwest Monsoon,367.79
+Tanker,113257,21672,13.0,10.5,4576,68.8,4,2.03,1.32,Head,Northeast Monsoon,822.97
+Bulker,157387,23101,15.2,13.1,1097,55.3,5,2.92,1.16,Head,Southwest Monsoon,188.37
+Bulker,73356,10653,12.9,9.8,1225,54.1,5,3.29,0.79,Following,Northeast Monsoon,82.07
+Container,86155,35216,20.0,12.8,1063,73.9,1,1.46,0.64,Beam,Inter-Monsoon,122.67
+Container,79333,32813,19.2,15.6,3952,82.8,5,1.99,0.59,Head,Northeast Monsoon,772.37
+Bulker,140057,21276,16.0,13.8,2948,66.6,4,3.64,1.85,Following,Southwest Monsoon,461.73
+Tanker,64537,11499,16.2,11.6,1283,81.6,6,3.71,1.06,Following,Southwest Monsoon,83.65
+Container,79023,32044,20.5,17.3,3027,90.2,1,0.76,0.86,Head,Inter-Monsoon,550.42
+Tanker,117325,21221,14.0,10.5,691,65.2,6,3.53,0.88,Following,Northeast Monsoon,94.03
+Tanker,267214,46868,14.4,12.3,3697,60.4,2,1.53,0.61,Following,Inter-Monsoon,1205.39
+Container,31595,12877,18.2,11.4,4963,93.3,6,3.15,1.44,Head,Southwest Monsoon,308.48
+Bulker,82899,13262,14.9,11.6,3153,62.6,1,0.66,0.24,Following,Inter-Monsoon,237.0
+Container,48919,19672,22.7,16.0,4702,77.2,7,4.48,1.44,Head,Southwest Monsoon,427.81
+Tanker,281121,50588,14.6,10.9,4439,84.9,8,5.18,1.87,Beam,Southwest Monsoon,2001.09
+Bulker,134772,20091,12.6,10.5,2904,61.3,3,1.9,1.39,Beam,Northeast Monsoon,454.49
+Bulker,137980,20121,12.5,11.4,1498,78.2,5,4.08,1.77,Beam,Southwest Monsoon,338.85
+Bulker,52245,7908,13.6,11.6,1197,81.5,3,1.69,0.87,Beam,Inter-Monsoon,86.74
+Bulker,38090,5865,13.3,10.6,3093,55.7,4,4.77,2.29,Beam,Southwest Monsoon,125.96
+Container,60715,23750,23.6,14.5,4574,87.7,5,2.57,1.21,Beam,Northeast Monsoon,318.28
+Tanker,165305,28998,15.1,13.0,2710,90.9,6,5.03,2.28,Following,Southwest Monsoon,833.26
+Bulker,122731,17954,12.7,8.5,3644,81.2,3,1.26,0.51,Following,Inter-Monsoon,384.13
+Tanker,126904,23799,16.5,11.3,2989,59.2,2,1.18,0.52,Following,Inter-Monsoon,264.2
+Tanker,243997,44234,15.6,12.3,1094,54.4,1,0.55,0.68,Beam,Inter-Monsoon,223.18
+Tanker,72351,11897,14.7,11.8,1313,80.9,5,3.23,2.16,Head,Southwest Monsoon,131.09
+Tanker,189548,34159,14.1,10.6,2917,69.8,4,4.73,0.84,Following,Southwest Monsoon,672.02
+Bulker,169168,25791,14.6,9.6,2149,93.3,7,4.61,1.59,Following,Southwest Monsoon,366.28
+Tanker,228860,40369,14.6,11.5,898,55.0,7,5.71,1.64,Head,Southwest Monsoon,273.41
+Bulker,161836,24588,15.8,13.5,1386,79.1,7,3.71,1.87,Beam,Southwest Monsoon,292.42
+Bulker,125758,18641,14.1,12.2,2884,50.2,5,3.4,0.61,Following,Northeast Monsoon,408.07
+Tanker,278462,49400,16.5,14.8,2189,65.6,4,2.29,1.49,Head,Northeast Monsoon,861.6
+Container,116542,46790,18.7,16.3,1069,73.9,2,1.78,0.52,Following,Inter-Monsoon,315.53
+Container,67443,26045,21.4,16.8,3284,60.0,3,2.22,0.64,Head,Northeast Monsoon,351.11
+Container,129202,52056,19.2,13.1,4216,87.7,8,3.62,2.32,Following,Southwest Monsoon,1162.24
+Container,48802,19570,20.6,15.3,2595,72.4,6,5.28,1.23,Beam,Southwest Monsoon,256.96
+Tanker,67482,12217,14.7,11.5,2947,55.8,3,1.93,0.99,Head,Northeast Monsoon,194.84
+Tanker,217498,39446,14.1,9.2,4484,76.4,7,5.75,2.4,Following,Southwest Monsoon,1115.15
+Bulker,51431,7688,15.0,10.3,1349,55.4,6,3.44,1.86,Head,Southwest Monsoon,51.67
+Container,94002,37201,19.2,12.8,4156,88.8,3,0.55,0.97,Following,Inter-Monsoon,627.86
+Tanker,194612,35958,13.6,11.0,689,54.3,6,3.74,2.15,Following,Southwest Monsoon,180.42
+Container,103027,41807,20.7,19.2,1384,92.6,6,5.53,0.97,Beam,Southwest Monsoon,547.04
+Container,46217,19302,21.6,17.8,3443,81.2,2,0.97,0.26,Beam,Inter-Monsoon,327.65
+Container,128780,51558,18.1,17.1,2975,89.2,8,3.54,2.03,Following,Southwest Monsoon,1580.32
+Container,37374,15126,23.7,22.0,3583,62.7,8,2.75,0.71,Beam,Southwest Monsoon,326.82
+Container,25853,10208,23.5,14.5,2032,80.2,3,0.68,0.29,Head,Inter-Monsoon,51.69
+Tanker,110897,20486,16.7,12.0,1507,51.2,3,0.65,0.85,Following,Inter-Monsoon,113.52
+Container,113881,45696,20.7,18.5,4162,69.1,1,0.54,0.43,Following,Inter-Monsoon,1071.71
+Bulker,177509,27121,15.1,11.7,4751,60.9,4,3.84,1.19,Beam,Northeast Monsoon,756.29
+Container,136460,54901,22.9,16.1,3105,67.2,3,2.93,1.32,Beam,Northeast Monsoon,611.88
+Bulker,48597,7049,14.5,12.8,4848,62.3,4,1.75,0.86,Beam,Northeast Monsoon,273.05
+Container,135284,54023,23.3,16.4,3559,91.6,5,4.78,1.47,Following,Southwest Monsoon,839.5
+Tanker,166012,30501,15.6,12.7,986,94.1,5,3.56,1.46,Head,Northeast Monsoon,264.35
+Container,57239,23142,23.1,17.9,1254,79.0,5,3.23,0.71,Following,Northeast Monsoon,135.47
+Container,131860,52688,18.0,17.0,1256,51.1,2,1.89,0.33,Following,Inter-Monsoon,387.28
+Container,23891,9400,19.7,12.3,2406,71.5,3,0.8,0.8,Head,Inter-Monsoon,71.35
+Tanker,113960,21170,14.3,13.1,4071,88.6,2,1.13,0.49,Beam,Inter-Monsoon,877.29
+Bulker,178817,26322,14.4,12.5,4965,67.2,3,1.13,0.6,Head,Inter-Monsoon,1077.54
+Bulker,139290,20693,15.5,14.7,4238,79.3,5,2.64,0.53,Beam,Northeast Monsoon,961.41
+Container,117539,47321,20.4,13.2,2339,58.6,2,1.02,0.77,Head,Inter-Monsoon,318.49
+Tanker,204101,36156,15.6,9.7,1936,80.3,6,2.08,0.58,Beam,Northeast Monsoon,343.16
+Bulker,138175,19796,14.6,10.4,2265,98.4,5,3.54,1.39,Head,Northeast Monsoon,346.2
+Bulker,161979,24184,13.7,9.6,3882,100.0,8,4.59,1.45,Head,Southwest Monsoon,851.27
+Container,74949,29073,20.8,18.7,2417,50.2,1,1.73,0.4,Following,Inter-Monsoon,322.06
+Bulker,60039,9780,15.6,10.5,2786,70.0,3,2.54,1.06,Beam,Northeast Monsoon,135.54
+Tanker,252862,45563,17.0,14.3,691,67.3,4,5.46,2.31,Head,Southwest Monsoon,242.25
+Container,148530,59229,18.0,13.8,1747,80.6,3,0.91,0.73,Head,Inter-Monsoon,566.41
+Tanker,126020,21953,15.5,12.6,3352,83.9,5,4.04,1.27,Beam,Southwest Monsoon,591.13
+Bulker,104361,15009,12.2,8.7,1172,84.0,8,3.79,1.79,Following,Southwest Monsoon,145.32
+Tanker,76066,13177,15.7,12.0,4890,94.8,5,1.61,1.3,Beam,Northeast Monsoon,445.66
+Bulker,73658,10307,14.9,11.6,4097,60.9,5,2.92,1.22,Beam,Northeast Monsoon,266.48
+Container,22767,9841,20.7,13.1,3123,52.4,8,3.37,2.12,Head,Southwest Monsoon,92.82
+Container,133202,53346,21.3,15.2,2695,53.4,2,1.78,0.79,Head,Inter-Monsoon,483.72
+Bulker,105271,15865,13.5,9.0,3928,51.4,8,4.52,1.4,Head,Southwest Monsoon,328.27
+Container,143806,58059,19.1,13.6,3644,82.8,4,2.28,1.17,Following,Northeast Monsoon,918.97
+Bulker,185152,27605,14.1,8.9,3690,61.6,6,1.63,0.97,Following,Northeast Monsoon,400.43
+Tanker,256594,46302,15.3,13.5,3339,56.3,2,1.28,0.84,Beam,Inter-Monsoon,1081.94
+Bulker,194063,29119,13.3,11.3,3331,89.3,6,2.79,1.39,Beam,Northeast Monsoon,977.32
+Container,37809,14679,22.6,21.3,2759,71.0,5,1.98,0.73,Following,Northeast Monsoon,250.24
+Bulker,49272,7469,14.0,9.7,3616,54.9,2,0.52,0.92,Beam,Inter-Monsoon,119.24
+Container,133489,52960,20.5,17.2,1261,84.8,5,1.88,1.0,Following,Northeast Monsoon,398.86
+Container,78616,31806,18.5,16.3,2208,65.1,6,1.94,1.3,Following,Northeast Monsoon,441.26
+Container,143885,57778,22.8,17.4,2305,74.1,7,2.7,1.83,Following,Southwest Monsoon,598.39
+Container,24037,8679,19.2,14.2,3105,78.2,4,4.08,1.73,Beam,Southwest Monsoon,136.04
+Bulker,37053,5388,12.6,11.6,3072,54.4,1,1.26,0.64,Following,Inter-Monsoon,145.22
+Tanker,299649,54892,16.8,12.7,4226,96.5,4,3.14,0.95,Head,Southwest Monsoon,1588.88
+Container,83980,33859,19.9,14.3,1663,57.3,3,1.53,0.24,Head,Inter-Monsoon,196.9
+Bulker,54821,8652,12.5,10.5,2829,68.9,1,1.17,0.61,Following,Inter-Monsoon,202.11
+Bulker,89523,14054,15.5,11.5,4204,78.6,2,1.05,0.25,Head,Inter-Monsoon,368.08
+Container,77266,30375,23.8,15.6,1837,51.5,5,3.28,0.51,Following,Northeast Monsoon,145.22
+Container,130830,51614,23.8,17.4,4660,66.9,3,2.42,1.22,Following,Northeast Monsoon,868.5
+Bulker,152196,22709,12.1,9.5,3174,98.8,6,5.9,1.51,Beam,Southwest Monsoon,858.16
+Tanker,202964,36532,15.6,10.6,3371,78.8,1,1.0,0.8,Head,Inter-Monsoon,618.14
+Bulker,92818,13864,15.4,10.8,3057,78.2,2,1.64,0.3,Head,Inter-Monsoon,237.79
+Container,106995,43072,23.5,14.8,592,85.4,1,1.5,0.11,Following,Inter-Monsoon,72.76
+Bulker,171210,25553,13.8,12.7,1327,76.2,6,3.27,0.96,Following,Northeast Monsoon,360.5
+Container,85459,34694,18.8,14.0,4121,80.3,3,3.59,0.6,Head,Northeast Monsoon,773.6
+Bulker,32419,4419,12.9,9.0,2623,61.7,1,1.25,0.42,Following,Inter-Monsoon,61.2
+Container,97357,38786,22.9,20.4,4857,73.4,2,0.99,0.89,Head,Inter-Monsoon,1109.76
+Tanker,199988,35532,16.1,12.5,4722,53.9,8,4.18,2.23,Head,Southwest Monsoon,993.42
+Container,60505,24020,18.8,12.0,3284,61.6,7,4.23,2.43,Head,Southwest Monsoon,315.05
+Bulker,156515,22734,14.5,12.5,549,83.2,6,3.58,1.79,Following,Southwest Monsoon,120.95
+Tanker,229626,41545,16.4,10.0,4421,86.2,2,1.64,0.35,Head,Inter-Monsoon,757.8
+Bulker,198845,29834,12.2,9.1,1031,68.9,7,3.72,1.18,Beam,Southwest Monsoon,247.68
+Container,28151,11683,21.4,19.9,1431,89.9,5,3.97,1.06,Head,Northeast Monsoon,138.09
+Container,116760,46985,23.4,20.9,894,94.6,2,0.62,0.8,Following,Inter-Monsoon,242.47
+Bulker,58730,8509,13.2,12.4,4000,97.8,3,3.78,0.55,Beam,Northeast Monsoon,441.29
+Container,51693,20794,22.1,13.9,2454,62.1,4,2.42,0.96,Following,Northeast Monsoon,138.02
+Bulker,62934,8868,15.3,12.0,4088,81.8,1,1.82,0.83,Beam,Inter-Monsoon,261.5
+Container,117183,45945,23.7,18.0,4629,72.8,6,5.54,0.54,Head,Southwest Monsoon,1007.81
+Tanker,100509,17875,14.8,13.2,3069,52.7,5,1.97,0.67,Beam,Northeast Monsoon,429.39
+Bulker,88082,13724,12.1,9.5,3153,85.8,3,1.15,0.45,Head,Inter-Monsoon,380.05
+Container,25927,10194,20.5,18.0,4966,91.2,8,5.05,1.96,Head,Southwest Monsoon,486.69
+Container,75254,29854,18.5,16.0,1055,84.3,6,3.27,0.77,Head,Southwest Monsoon,271.29
+Tanker,98342,17350,16.8,15.3,2273,69.4,4,3.66,1.17,Beam,Northeast Monsoon,351.68
+Bulker,174782,26349,14.3,13.3,4313,76.7,6,2.63,2.13,Following,Southwest Monsoon,1218.49
+Container,93586,37994,22.7,16.8,3433,79.8,6,3.97,0.89,Following,Northeast Monsoon,563.74
+Bulker,179297,26769,13.7,9.8,2951,58.6,6,1.93,0.71,Head,Northeast Monsoon,469.59
+Bulker,157284,23371,15.3,13.2,1356,72.1,2,1.89,0.94,Following,Inter-Monsoon,244.4
+Tanker,230396,41675,13.7,12.3,4540,86.6,1,0.6,0.87,Following,Inter-Monsoon,1913.98
+Tanker,218606,39214,16.7,12.0,2601,86.5,4,3.08,2.2,Beam,Southwest Monsoon,562.88
+Tanker,123134,22021,15.5,10.5,1256,90.2,1,1.43,0.51,Following,Inter-Monsoon,142.71
+Bulker,119394,17321,14.8,14.0,2807,61.2,7,3.34,0.67,Beam,Southwest Monsoon,451.52
+Tanker,176067,32453,15.7,13.5,3058,87.9,4,2.65,2.1,Beam,Southwest Monsoon,843.35
+Bulker,198153,29002,12.3,9.5,4127,70.4,6,4.52,1.43,Following,Southwest Monsoon,1025.76
+Container,61281,23782,19.1,17.4,4867,79.2,2,1.92,0.1,Beam,Inter-Monsoon,836.55
+Container,90913,36463,23.7,17.3,1365,60.6,1,0.95,0.79,Head,Inter-Monsoon,150.57
+Container,96631,37914,23.6,16.1,597,97.0,1,0.53,0.6,Head,Inter-Monsoon,84.02
+Tanker,187407,33436,14.3,9.5,4107,53.6,2,1.71,0.5,Head,Inter-Monsoon,513.37
+Container,39010,15260,21.4,19.5,2855,64.2,8,2.55,1.33,Beam,Southwest Monsoon,268.52
+Tanker,145731,26121,14.2,9.8,2227,63.1,8,5.72,0.98,Beam,Southwest Monsoon,359.99
+Container,65556,27108,22.5,15.3,1838,53.7,6,2.5,1.34,Following,Northeast Monsoon,150.38
+Container,53449,21181,23.3,14.5,2112,65.1,2,1.78,0.12,Beam,Inter-Monsoon,109.06
+Bulker,189975,28958,14.9,12.3,3217,89.5,1,1.98,0.24,Head,Inter-Monsoon,797.1
+Container,66111,26227,22.6,15.6,4251,62.5,3,0.5,0.94,Head,Inter-Monsoon,312.61
+Tanker,87641,15981,16.5,10.2,3217,97.0,4,2.58,0.63,Beam,Northeast Monsoon,228.71
+Container,38036,15677,23.7,16.8,514,95.5,2,1.19,0.51,Following,Inter-Monsoon,28.64
+Bulker,130408,19619,12.6,10.0,4284,53.3,1,0.92,0.43,Head,Inter-Monsoon,547.17
+Container,61497,24034,20.0,15.1,3226,89.1,2,0.68,0.87,Head,Inter-Monsoon,402.15
+Container,122027,48390,21.7,13.7,1318,91.3,3,0.87,0.78,Head,Inter-Monsoon,205.93
+Container,48029,19125,19.3,15.0,1528,55.2,3,0.67,0.97,Following,Inter-Monsoon,120.9
+Container,84764,34101,19.0,17.2,1668,95.3,4,2.18,0.89,Following,Northeast Monsoon,446.74
+Bulker,125802,19394,13.4,10.5,3949,62.2,4,3.44,1.91,Beam,Southwest Monsoon,564.06
+Container,80443,30978,21.9,14.4,2631,82.2,6,2.89,0.73,Beam,Southwest Monsoon,295.54
+Container,74438,29662,18.7,15.4,1227,58.9,6,2.81,1.09,Head,Northeast Monsoon,198.97
+Bulker,179297,27701,14.1,11.4,2606,61.9,3,1.98,0.48,Beam,Inter-Monsoon,486.35
+Container,129341,52464,21.4,17.6,2137,65.7,6,4.33,1.13,Head,Southwest Monsoon,627.89
+Bulker,191832,28145,15.1,14.0,1202,66.4,1,0.87,0.68,Beam,Inter-Monsoon,277.73
+Container,140093,56390,18.8,12.9,981,71.3,4,4.5,1.57,Head,Southwest Monsoon,259.16
+Tanker,177872,31455,14.4,11.3,4907,67.5,8,3.14,0.77,Head,Southwest Monsoon,1182.24
+Container,77384,31307,19.8,16.6,2813,94.6,3,0.6,0.13,Beam,Inter-Monsoon,566.85
+Tanker,268378,48506,16.6,12.1,2663,92.4,7,3.46,1.84,Following,Southwest Monsoon,814.49
+Container,136633,54127,21.2,14.7,4520,71.5,1,1.92,0.77,Head,Inter-Monsoon,928.34
+Bulker,181590,27276,13.3,8.8,3997,98.8,4,2.41,1.13,Following,Northeast Monsoon,672.72
+Tanker,259071,46363,15.9,10.1,2597,73.0,3,1.91,1.06,Beam,Northeast Monsoon,507.39
+Bulker,149273,21969,13.3,8.4,1680,66.9,3,1.55,1.06,Beam,Northeast Monsoon,159.88
+Bulker,46954,6942,14.8,9.0,2241,97.8,4,4.67,1.77,Head,Southwest Monsoon,93.27
+Tanker,147646,26411,16.7,10.3,4875,60.9,3,1.38,0.2,Head,Inter-Monsoon,410.2
+Tanker,262049,46406,16.4,14.3,921,64.4,4,2.05,0.61,Beam,Northeast Monsoon,281.62
+Tanker,214845,39364,16.8,12.7,696,90.0,4,3.13,0.57,Following,Southwest Monsoon,186.79
+Tanker,288458,52534,13.2,11.2,2273,85.5,5,5.22,0.65,Head,Southwest Monsoon,1413.18
+Bulker,105845,15458,15.9,10.6,841,89.2,5,3.23,1.32,Beam,Northeast Monsoon,69.08
+Tanker,160196,28409,13.4,12.3,4876,79.4,7,4.47,1.13,Following,Southwest Monsoon,1738.47
+Tanker,144335,26226,13.4,12.4,1936,67.8,3,1.23,0.12,Beam,Inter-Monsoon,466.55
+Container,81681,32721,23.0,17.9,1961,69.3,4,1.86,1.32,Head,Northeast Monsoon,288.85
+Tanker,96932,16705,16.1,13.5,1680,79.1,3,1.09,0.21,Following,Inter-Monsoon,194.14
+Container,142875,57360,22.7,14.8,2759,66.6,1,1.57,0.33,Beam,Inter-Monsoon,444.55
+Bulker,143974,21839,13.7,9.9,1543,93.9,1,0.88,0.41,Head,Inter-Monsoon,244.48
+Container,118342,47499,24.0,18.7,4998,79.0,2,1.21,0.75,Head,Inter-Monsoon,1024.31
+Tanker,252318,45876,16.1,11.7,3942,80.4,6,3.18,0.84,Beam,Northeast Monsoon,1106.02
+Bulker,78666,11876,12.8,11.3,4166,75.5,4,3.35,1.32,Beam,Northeast Monsoon,530.7
+Bulker,155673,24366,14.4,11.9,1277,91.9,3,0.98,0.37,Head,Inter-Monsoon,250.85
+Tanker,86227,16086,16.1,13.8,2262,76.9,3,1.59,0.51,Head,Inter-Monsoon,268.25
+Bulker,146598,22637,14.1,8.7,1493,69.9,5,3.79,2.37,Following,Southwest Monsoon,160.66
+Container,143440,56799,21.8,19.5,1283,80.1,2,1.28,0.64,Head,Inter-Monsoon,439.22
+Tanker,148558,26518,13.8,9.5,3149,99.5,3,2.9,0.7,Beam,Northeast Monsoon,574.88
+Container,33875,12668,20.9,16.6,2272,90.4,1,1.47,0.65,Beam,Inter-Monsoon,151.46
+Container,113670,45333,21.4,18.9,977,77.8,3,1.6,0.28,Beam,Inter-Monsoon,278.23
+Container,21525,8715,22.1,19.6,2952,78.1,7,3.36,0.69,Following,Southwest Monsoon,170.55
+Tanker,190629,34272,15.8,11.6,2342,66.4,2,1.21,0.3,Beam,Inter-Monsoon,422.34
+Tanker,254946,45512,15.7,14.1,3776,90.6,6,3.65,0.9,Head,Northeast Monsoon,2064.93
+Bulker,128921,18876,14.9,9.1,2486,60.0,1,1.82,0.38,Beam,Inter-Monsoon,160.42
+Tanker,60603,10707,15.0,10.2,3058,82.9,1,0.98,0.99,Beam,Inter-Monsoon,167.39
+Bulker,124569,18355,14.8,9.8,3595,80.4,1,1.78,0.37,Following,Inter-Monsoon,334.27
+Container,72847,29398,22.5,19.5,599,71.7,8,5.75,2.06,Beam,Southwest Monsoon,126.73
+Tanker,281744,50903,16.8,11.4,4541,90.8,4,1.95,1.4,Beam,Northeast Monsoon,1157.86
+Bulker,120285,18665,13.4,9.3,4163,99.3,3,1.82,0.86,Following,Inter-Monsoon,535.98
+Container,148810,61138,20.4,12.4,3274,90.4,5,2.08,1.5,Following,Northeast Monsoon,656.69
+Tanker,96380,16978,13.9,10.9,3082,50.7,4,3.95,1.3,Beam,Northeast Monsoon,300.11
+Tanker,98054,17850,14.5,9.0,770,79.1,4,3.67,1.63,Head,Southwest Monsoon,66.94
+Tanker,195470,35106,13.1,12.1,3307,65.5,6,1.99,1.32,Following,Northeast Monsoon,1201.9
+Tanker,267471,48192,15.4,13.4,2434,54.2,7,3.26,2.04,Following,Southwest Monsoon,768.13
+Container,95332,38114,23.4,15.3,3352,64.3,8,3.61,2.21,Head,Southwest Monsoon,428.37
+Bulker,32409,4701,12.6,9.0,1752,82.9,3,0.71,0.45,Head,Inter-Monsoon,57.3
+Tanker,136956,24785,16.9,15.5,760,65.7,2,1.42,0.2,Head,Inter-Monsoon,142.91
+Bulker,120754,18630,14.8,10.8,1012,77.3,7,3.8,2.2,Following,Southwest Monsoon,119.91
+Tanker,98123,17038,14.7,12.6,1767,89.6,6,3.83,1.33,Head,Northeast Monsoon,323.72
+Container,66882,27263,23.1,20.0,1389,61.7,5,3.25,1.31,Beam,Southwest Monsoon,186.05
+Container,91069,36823,21.6,14.4,4359,62.1,7,5.69,1.11,Beam,Southwest Monsoon,634.71
+Bulker,73005,11299,13.4,10.8,1758,67.6,5,2.56,0.82,Head,Northeast Monsoon,163.87
+Tanker,77771,12915,14.9,12.2,4480,79.9,4,4.48,1.29,Head,Southwest Monsoon,492.07
+Bulker,92651,14532,14.1,8.8,3851,57.6,1,0.64,0.88,Beam,Inter-Monsoon,195.22
+Bulker,130915,20104,12.7,11.2,2504,95.8,4,2.84,2.41,Following,Southwest Monsoon,634.94
+Bulker,88721,13843,15.3,12.1,3000,66.0,1,1.92,0.17,Following,Inter-Monsoon,256.21
+Container,42041,16578,22.8,20.2,1667,71.7,1,0.55,0.83,Head,Inter-Monsoon,149.79
+Container,97650,38808,22.5,17.2,1045,57.2,4,2.51,1.42,Beam,Northeast Monsoon,150.25
+Container,90716,36361,23.7,15.9,1543,77.2,1,1.31,0.34,Following,Inter-Monsoon,171.21
+Bulker,108924,16152,15.0,10.5,2160,93.8,5,3.47,1.69,Head,Southwest Monsoon,241.05
+Bulker,95577,14490,15.7,14.8,934,94.4,5,4.09,2.42,Beam,Southwest Monsoon,152.96
+Tanker,96987,17552,15.7,10.8,2742,66.6,1,0.86,0.81,Following,Inter-Monsoon,192.89
+Bulker,195206,28521,14.8,10.8,1194,87.8,3,1.62,0.62,Beam,Inter-Monsoon,224.49
+Container,106972,42965,23.5,19.8,2748,66.9,6,2.96,2.32,Following,Southwest Monsoon,560.61
+Bulker,156600,22792,12.4,8.0,604,61.1,5,2.68,1.6,Following,Southwest Monsoon,65.93
+Container,140117,56767,18.8,15.7,3233,72.7,3,0.54,0.52,Following,Inter-Monsoon,983.06
+Tanker,260710,46667,15.5,11.5,2160,94.1,6,3.72,0.8,Beam,Southwest Monsoon,795.97
+Container,46353,17864,19.3,18.3,1016,80.0,2,0.83,0.94,Beam,Inter-Monsoon,137.42
+Container,144935,58808,21.7,16.8,1601,70.5,5,2.21,0.93,Head,Northeast Monsoon,448.53
+Tanker,192317,34757,16.0,10.3,2948,74.9,6,2.92,1.06,Head,Northeast Monsoon,496.73
+Container,42467,17149,22.7,19.4,4129,64.1,4,2.68,1.41,Following,Northeast Monsoon,326.61
+Tanker,272709,49462,13.6,12.1,861,95.9,2,1.11,0.86,Head,Inter-Monsoon,459.92
+Bulker,111907,17092,13.8,10.8,2090,75.2,1,1.35,0.39,Beam,Inter-Monsoon,253.66
+Tanker,249524,44563,13.5,8.2,1643,73.9,8,3.16,1.36,Beam,Southwest Monsoon,359.67
+Tanker,128972,23131,13.8,13.0,2535,90.4,1,1.58,0.92,Beam,Inter-Monsoon,659.1
+Bulker,112637,15880,14.0,11.6,2759,60.7,1,0.84,0.73,Head,Inter-Monsoon,299.13
+Container,53953,21681,21.5,17.6,1522,56.0,1,0.7,0.69,Head,Inter-Monsoon,129.2
+Container,93355,37863,21.5,16.6,4494,94.3,3,1.73,0.43,Following,Inter-Monsoon,927.78
+Container,121538,48969,23.2,20.0,2417,81.3,2,1.16,0.17,Following,Inter-Monsoon,605.51
+Bulker,102866,15243,12.8,10.8,2099,55.0,3,1.88,0.24,Head,Inter-Monsoon,246.74
+Bulker,175404,26338,15.0,9.0,3683,61.8,2,0.71,0.9,Head,Inter-Monsoon,340.81
+Container,89797,35981,19.9,15.3,561,64.0,8,3.63,2.06,Head,Southwest Monsoon,119.09
+Container,72269,28403,21.7,19.1,1467,57.4,2,1.15,0.87,Following,Inter-Monsoon,188.78
+Bulker,98406,14936,12.8,8.3,579,81.4,5,1.98,1.19,Head,Northeast Monsoon,56.91
+Tanker,124671,21947,14.1,8.7,3073,83.9,2,1.07,0.76,Following,Inter-Monsoon,294.3
+Bulker,84434,11890,14.3,12.8,2094,83.3,6,2.64,1.9,Beam,Southwest Monsoon,251.8
+Bulker,181097,26383,13.3,8.2,2636,74.7,6,2.48,0.86,Head,Northeast Monsoon,355.43
+Bulker,165404,24177,14.5,12.5,2964,98.7,5,2.85,1.61,Head,Southwest Monsoon,855.74
+Container,87746,34394,22.5,15.4,1504,66.6,2,1.23,0.21,Head,Inter-Monsoon,156.42
+Container,115587,46236,18.7,13.0,874,95.2,4,5.21,2.33,Beam,Southwest Monsoon,219.78
+Container,100787,41283,18.8,12.6,2122,65.4,3,1.92,1.48,Head,Northeast Monsoon,325.91
+Tanker,140391,24971,15.1,9.7,2615,89.7,5,1.54,0.94,Beam,Northeast Monsoon,311.14
+Tanker,228992,41746,14.5,10.5,3625,89.1,4,4.81,1.63,Following,Southwest Monsoon,1056.95
+Bulker,102705,15657,12.7,11.2,4384,98.0,5,1.6,0.82,Following,Northeast Monsoon,938.25
+Bulker,179925,26233,13.5,11.1,2804,88.1,5,3.71,0.88,Head,Northeast Monsoon,772.63
+Bulker,104156,15417,15.9,11.9,3269,65.0,6,3.64,2.27,Head,Southwest Monsoon,311.53
+Bulker,154740,23079,13.2,9.4,2150,90.4,3,1.47,0.32,Head,Inter-Monsoon,336.85
+Container,100630,40936,23.8,17.9,2283,84.9,6,2.7,2.39,Following,Southwest Monsoon,393.32
+Tanker,186352,32955,16.8,11.3,2415,53.4,8,4.89,0.63,Head,Southwest Monsoon,363.23
+Container,83836,33106,22.7,21.2,3347,84.6,7,4.7,1.68,Head,Southwest Monsoon,924.14
+Container,133620,53595,19.6,13.9,2465,69.0,2,1.14,0.22,Head,Inter-Monsoon,517.94
+Tanker,109233,19596,14.2,9.6,1490,51.2,6,2.9,1.22,Beam,Northeast Monsoon,139.19
+Tanker,210371,38491,16.4,12.0,1544,58.8,3,1.64,0.63,Following,Inter-Monsoon,255.25
+Container,45504,18280,23.9,17.9,2643,57.5,8,4.67,2.42,Following,Southwest Monsoon,183.99
+Container,145749,57522,23.3,20.5,851,51.5,2,0.59,0.81,Head,Inter-Monsoon,206.55
+Tanker,191952,34828,16.4,10.0,4462,91.0,6,2.43,1.01,Beam,Northeast Monsoon,678.56
+Tanker,139223,26113,14.9,12.5,3289,76.3,2,1.74,0.99,Beam,Inter-Monsoon,656.42
+Container,32880,13825,18.4,16.4,864,77.2,8,3.93,2.11,Head,Southwest Monsoon,111.02
+Tanker,232568,41846,15.9,14.8,2640,64.0,2,0.52,0.77,Beam,Inter-Monsoon,873.51
+Container,33871,13785,19.5,12.8,4170,64.3,5,4.67,0.74,Following,Southwest Monsoon,219.54
+Tanker,140443,25392,14.8,10.1,3605,93.0,2,1.21,0.1,Head,Inter-Monsoon,540.26
+Tanker,171736,30008,16.6,11.1,4924,70.8,4,3.27,1.68,Head,Southwest Monsoon,724.72
+Bulker,61020,9296,15.2,14.2,917,86.5,2,1.03,0.11,Beam,Inter-Monsoon,78.63
+Tanker,103935,18398,15.1,10.7,4868,57.7,2,1.36,0.84,Following,Inter-Monsoon,366.91
+Container,118180,47250,18.4,11.8,1768,96.2,4,2.62,1.3,Following,Northeast Monsoon,373.7
+Container,144151,57724,22.7,18.2,4970,89.4,4,2.55,2.43,Following,Southwest Monsoon,1383.52
+Tanker,228915,41599,14.4,12.1,2262,55.5,6,5.66,1.5,Following,Southwest Monsoon,710.56
+Bulker,56914,8741,12.7,10.3,841,67.0,6,3.35,2.32,Following,Southwest Monsoon,64.58
+Bulker,35761,4247,14.6,9.0,2725,62.9,3,2.34,0.64,Following,Northeast Monsoon,42.96
+Container,146501,58602,18.5,16.5,2709,89.7,4,3.24,1.44,Following,Northeast Monsoon,1324.73
+Container,148137,59501,19.7,17.9,2945,72.7,5,2.51,1.01,Following,Southwest Monsoon,1157.94
+Bulker,61575,9440,14.8,10.8,3128,93.0,3,1.76,0.39,Beam,Inter-Monsoon,188.16
+Tanker,234283,41675,14.6,10.3,727,86.3,8,2.77,1.67,Head,Southwest Monsoon,225.26
+Bulker,84628,12991,14.4,12.0,3764,88.3,5,3.66,0.9,Beam,Northeast Monsoon,465.15
+Container,53663,22143,20.8,14.2,3021,99.8,6,2.64,1.44,Following,Northeast Monsoon,309.18
+Tanker,207732,38124,16.4,13.1,3450,87.5,5,4.67,1.17,Following,Southwest Monsoon,1075.79
+Container,110117,43678,20.0,12.1,3737,50.3,1,1.19,0.67,Beam,Inter-Monsoon,376.61
+Bulker,121983,18150,12.9,11.5,2160,67.7,7,5.03,1.41,Head,Southwest Monsoon,493.06
+Tanker,172214,31481,13.6,10.6,3306,98.7,3,1.55,0.68,Following,Inter-Monsoon,934.38
+Bulker,122314,18161,12.0,9.1,4424,81.7,2,1.4,0.6,Head,Inter-Monsoon,627.58
+Bulker,86983,12250,14.0,10.4,713,80.9,8,5.72,1.59,Head,Southwest Monsoon,78.39
+Tanker,177395,31327,14.3,9.6,3718,75.9,7,5.94,1.53,Beam,Southwest Monsoon,771.48
+Tanker,180802,33325,14.9,12.0,1881,94.2,2,0.9,0.17,Head,Inter-Monsoon,464.09
+Tanker,268835,48483,15.4,12.1,4839,62.1,2,1.49,0.29,Beam,Inter-Monsoon,1273.15
+Bulker,158132,23448,15.7,14.2,4780,53.3,6,3.78,1.39,Following,Northeast Monsoon,820.05
+Tanker,88706,15692,14.3,12.0,3213,98.7,2,1.49,0.69,Head,Inter-Monsoon,482.56
+Tanker,68960,12660,16.1,10.8,559,65.4,1,1.95,0.22,Following,Inter-Monsoon,30.28
+Tanker,64219,11217,13.5,9.6,4921,84.8,8,5.28,2.43,Following,Southwest Monsoon,451.6
+Tanker,228940,40407,13.4,12.0,3142,53.6,6,2.55,1.83,Beam,Southwest Monsoon,1064.09
+Bulker,115936,17519,15.6,13.3,3080,86.0,6,4.88,1.61,Following,Southwest Monsoon,519.81
+Container,26069,10518,18.2,13.8,2164,68.2,6,5.96,1.97,Head,Southwest Monsoon,140.17
+Bulker,81096,11801,12.7,9.5,3997,77.7,5,2.65,1.39,Beam,Southwest Monsoon,346.5
+Bulker,117876,17012,13.1,11.9,4513,91.9,3,1.48,0.65,Head,Inter-Monsoon,944.89
+Tanker,284801,51378,16.9,12.0,2727,53.0,3,3.72,0.59,Beam,Northeast Monsoon,567.06
+Container,148495,59726,21.3,13.3,3166,97.6,2,1.71,0.73,Head,Inter-Monsoon,691.68
+Container,51547,20794,22.4,19.9,3155,51.2,8,3.88,1.52,Beam,Southwest Monsoon,340.84
+Bulker,189769,28920,14.2,8.7,4574,94.3,7,3.05,2.17,Following,Southwest Monsoon,715.09
+Tanker,229193,40930,14.7,11.6,2036,90.3,2,0.86,0.85,Head,Inter-Monsoon,612.79
+Container,68222,28279,18.8,16.3,4738,95.5,3,3.86,1.0,Beam,Northeast Monsoon,1093.2
+Bulker,35898,6421,13.2,11.7,4448,67.3,5,2.58,1.05,Head,Northeast Monsoon,275.3
+Tanker,124691,23597,13.3,8.4,3639,85.0,3,0.83,0.2,Head,Inter-Monsoon,429.89
+Container,46413,17997,22.6,20.7,4031,84.8,7,2.52,2.21,Head,Southwest Monsoon,541.02
+Container,73701,28599,23.5,22.2,4293,55.4,7,4.59,1.91,Beam,Southwest Monsoon,736.65
+Bulker,165426,24590,12.3,11.0,754,51.8,2,0.94,0.24,Beam,Inter-Monsoon,150.75
+Bulker,177945,26314,15.3,9.4,2331,51.9,3,1.39,0.44,Beam,Inter-Monsoon,177.7
+Tanker,83376,15249,14.5,9.6,4995,55.7,8,4.27,1.88,Head,Southwest Monsoon,393.32
+Container,111051,43799,22.9,16.8,954,85.2,3,1.98,0.74,Head,Inter-Monsoon,177.53
+Bulker,39564,5324,12.4,10.6,1488,56.7,4,2.82,1.26,Following,Northeast Monsoon,62.55
+Tanker,230103,41199,15.5,12.2,4862,77.9,5,2.14,1.47,Following,Northeast Monsoon,1216.26
+Bulker,117208,18089,13.8,11.5,4239,57.4,1,0.88,0.81,Following,Inter-Monsoon,523.47
+Container,92631,36735,19.7,18.2,1919,94.9,6,2.79,1.18,Following,Southwest Monsoon,659.16
+Container,41178,17367,18.3,13.0,1381,55.5,1,0.61,0.28,Beam,Inter-Monsoon,81.19
+Container,67694,26559,21.9,13.5,4640,57.6,4,4.24,0.51,Head,Southwest Monsoon,334.64
+Tanker,143850,26197,14.2,9.1,2639,80.6,1,0.71,0.74,Beam,Inter-Monsoon,322.84
+Tanker,109988,20198,14.5,13.2,4512,70.4,3,0.7,0.49,Following,Inter-Monsoon,794.68
+Container,113399,45847,19.1,12.8,4389,59.9,7,5.73,1.65,Head,Southwest Monsoon,840.68
+Container,45334,18457,18.1,14.2,4370,93.0,6,3.72,0.91,Head,Northeast Monsoon,582.39
+Container,142094,56402,19.4,13.9,1701,62.2,8,5.29,1.51,Head,Southwest Monsoon,487.79
+Container,67039,27434,21.7,18.8,1096,92.6,3,3.37,1.29,Beam,Northeast Monsoon,192.78
+Tanker,103417,19084,13.9,8.4,4625,81.0,5,5.4,1.88,Following,Southwest Monsoon,464.82
+Container,126465,49724,23.8,19.3,2410,80.4,4,1.76,1.16,Beam,Northeast Monsoon,554.85
+Container,62954,24744,21.8,19.5,1914,95.3,7,3.72,1.88,Beam,Southwest Monsoon,394.76
+Container,78215,31330,20.3,13.9,3007,86.4,5,5.47,1.6,Head,Southwest Monsoon,461.29
+Container,130521,52032,21.5,13.5,728,54.8,6,3.65,1.08,Beam,Northeast Monsoon,101.52
+Bulker,124485,18190,15.8,11.0,2882,63.0,6,5.12,0.73,Head,Southwest Monsoon,280.17
+Tanker,250305,44788,13.8,12.9,3825,89.7,4,3.08,0.65,Following,Northeast Monsoon,2052.86
+Container,84212,33274,21.5,13.5,2766,88.5,5,5.11,1.82,Head,Southwest Monsoon,390.37
+Container,132260,52292,22.0,16.8,4850,73.9,1,0.5,0.12,Beam,Inter-Monsoon,1006.14
+Container,132520,52481,23.6,17.8,2771,90.9,6,3.71,1.47,Beam,Northeast Monsoon,733.42
+Container,74264,29602,23.6,20.1,3534,58.6,3,1.94,0.57,Beam,Northeast Monsoon,446.19
+Bulker,148451,23052,15.2,10.8,4348,98.1,7,4.58,2.11,Head,Southwest Monsoon,848.72
+Tanker,173641,32219,15.0,10.4,3065,53.2,7,3.09,1.11,Following,Southwest Monsoon,429.39
+Tanker,155123,28260,15.2,10.9,3480,97.2,8,5.85,0.57,Head,Southwest Monsoon,827.75
+Bulker,84913,13012,13.8,12.6,3540,85.8,5,5.24,2.3,Following,Southwest Monsoon,588.19
+Tanker,78876,14123,16.4,12.5,828,76.3,6,5.67,2.03,Beam,Southwest Monsoon,82.72
+Tanker,107575,18878,16.2,9.9,3816,55.2,2,1.93,0.91,Following,Inter-Monsoon,212.72
+Container,73779,30467,20.7,14.3,2226,79.0,2,1.58,0.55,Head,Inter-Monsoon,275.42
+Container,149365,59539,18.9,12.0,4328,91.4,1,0.54,0.41,Following,Inter-Monsoon,963.41
+Container,130935,52754,18.1,12.4,2501,92.8,3,1.67,0.72,Head,Inter-Monsoon,642.89
+Bulker,46824,6579,15.7,10.4,3472,54.2,5,5.1,2.23,Following,Southwest Monsoon,92.03
+Container,90394,36775,18.7,12.1,2297,82.1,7,3.41,1.94,Beam,Southwest Monsoon,404.98
+Tanker,90268,15202,15.8,11.5,858,99.0,8,5.7,1.53,Head,Southwest Monsoon,115.45
+Tanker,193936,34756,13.7,10.3,1550,77.1,3,1.9,0.33,Following,Inter-Monsoon,359.55
+Bulker,199726,29259,14.9,13.9,3710,52.2,3,2.86,1.32,Head,Northeast Monsoon,896.9
+Bulker,155565,23198,14.1,10.8,1803,74.6,4,2.93,0.65,Following,Northeast Monsoon,289.87
+Tanker,165006,29604,16.7,15.3,2234,89.7,1,1.58,0.11,Following,Inter-Monsoon,572.3
+Tanker,178152,32151,15.5,14.0,1095,87.7,3,0.5,0.99,Following,Inter-Monsoon,306.98
+Container,125379,50123,19.1,14.4,717,90.9,2,1.41,0.7,Head,Inter-Monsoon,201.53
+Container,119950,48568,19.8,13.6,1802,86.4,1,1.76,0.31,Beam,Inter-Monsoon,354.23
+Bulker,59887,8983,13.0,9.5,1371,92.2,1,1.86,0.98,Head,Inter-Monsoon,96.95
+Container,103502,41046,21.9,15.4,4170,57.8,2,1.82,0.68,Following,Inter-Monsoon,516.51
+Container,68696,27379,18.4,15.5,2342,83.0,5,2.02,0.83,Following,Northeast Monsoon,442.64
+Container,81634,33463,20.0,16.9,2967,78.1,7,5.79,1.97,Beam,Southwest Monsoon,704.82
+Bulker,164059,24810,12.5,10.8,1278,50.9,7,3.5,1.54,Head,Southwest Monsoon,288.58
+Container,136575,54751,23.5,19.2,3061,57.3,3,3.59,1.38,Beam,Northeast Monsoon,727.04
+Container,25391,11050,21.3,18.9,611,59.1,4,2.03,1.02,Beam,Northeast Monsoon,34.99
+Bulker,71784,10552,15.1,9.9,3578,97.0,1,0.81,0.99,Following,Inter-Monsoon,195.75
+Container,56501,22747,21.1,16.4,4121,60.4,4,3.14,1.33,Head,Southwest Monsoon,436.6
+Tanker,166668,29582,15.3,10.1,3221,71.7,8,5.33,0.76,Following,Southwest Monsoon,524.9
+Container,20480,8167,18.6,13.7,1694,95.1,8,4.25,0.93,Following,Southwest Monsoon,96.4
+Bulker,173357,25007,14.8,13.8,3283,54.1,3,1.47,0.75,Head,Inter-Monsoon,683.69
+Tanker,105401,19241,14.1,9.1,3339,78.4,6,2.05,0.76,Following,Northeast Monsoon,341.91
+Tanker,159648,28128,16.2,15.0,1869,63.1,3,0.76,0.61,Head,Inter-Monsoon,395.56
+Bulker,33340,5323,15.1,13.5,1895,80.9,3,1.72,0.8,Beam,Inter-Monsoon,87.74
+Container,122019,49220,19.7,12.6,4277,92.6,4,2.33,0.68,Head,Northeast Monsoon,890.99
+Container,128688,51278,18.5,16.0,2825,79.5,1,0.96,0.65,Beam,Inter-Monsoon,979.38
+Tanker,189431,33897,13.3,8.0,3918,53.8,2,1.89,0.15,Following,Inter-Monsoon,473.82
+Tanker,208623,37185,14.2,8.9,4176,68.1,5,1.54,0.81,Following,Northeast Monsoon,653.58
+Tanker,267812,48216,15.2,13.1,1260,58.4,3,0.53,0.73,Beam,Inter-Monsoon,396.94
+Bulker,152699,22832,13.6,11.4,2863,67.0,2,1.34,0.7,Following,Inter-Monsoon,483.26
+Bulker,122275,18717,13.6,8.5,801,97.1,1,1.28,0.78,Beam,Inter-Monsoon,77.53
+Tanker,164130,30105,15.2,13.9,3195,54.1,7,5.48,1.69,Beam,Southwest Monsoon,836.21
+Container,106224,42643,20.1,18.8,3460,51.8,4,2.48,0.92,Head,Northeast Monsoon,878.36
+Container,23041,8908,20.8,13.3,4769,74.8,5,4.39,1.95,Following,Southwest Monsoon,150.25
+Bulker,76002,11033,13.7,10.9,4499,79.7,3,0.97,0.59,Following,Inter-Monsoon,355.99
+Tanker,89883,15197,14.8,11.6,3199,72.1,3,1.37,0.21,Following,Inter-Monsoon,316.08
+Container,99177,39211,19.3,13.8,4241,84.7,1,1.05,0.66,Beam,Inter-Monsoon,737.47
+Container,75142,30096,19.5,15.9,2508,67.2,4,5.02,1.32,Head,Southwest Monsoon,512.3
+Tanker,74246,13836,15.8,11.9,2134,50.6,3,0.75,0.32,Head,Inter-Monsoon,130.5
+Tanker,184910,33595,14.9,14.1,2867,57.9,7,2.58,0.92,Following,Southwest Monsoon,879.19
+Bulker,88610,13755,15.1,9.5,616,94.6,3,3.88,1.18,Head,Northeast Monsoon,48.04
+Container,97552,38596,21.2,14.1,2696,58.5,1,0.58,0.68,Following,Inter-Monsoon,295.28
+Bulker,73561,11679,12.4,9.4,4389,83.4,7,2.95,1.84,Following,Southwest Monsoon,437.5
+Tanker,124555,21628,16.6,13.3,4910,73.3,4,3.22,1.5,Beam,Southwest Monsoon,701.04
+Container,121243,48134,19.2,15.2,1131,66.6,7,3.26,2.39,Head,Southwest Monsoon,339.65
+Bulker,164255,25022,15.5,11.8,4779,88.8,3,1.83,0.3,Head,Inter-Monsoon,782.03
+Container,36840,14600,21.8,17.5,4146,75.1,7,5.89,1.73,Head,Southwest Monsoon,382.81
+Container,57835,22893,22.1,15.0,1375,55.7,1,1.71,0.83,Head,Inter-Monsoon,82.36
+Tanker,68569,11995,13.2,12.4,2476,87.0,6,4.42,1.67,Head,Southwest Monsoon,437.52
+Bulker,37017,5779,14.7,12.1,1710,58.3,1,1.05,0.14,Head,Inter-Monsoon,59.94
+Bulker,94478,13524,15.3,14.3,809,92.2,5,2.82,1.23,Head,Northeast Monsoon,126.84
+Bulker,38669,5515,15.5,12.5,1921,65.2,6,5.89,2.4,Following,Southwest Monsoon,73.61
+Tanker,81661,14479,13.7,9.6,3198,69.8,3,2.36,0.66,Following,Northeast Monsoon,262.32
+Bulker,136763,21624,15.1,10.3,2528,71.7,7,3.15,2.06,Beam,Southwest Monsoon,300.48
+Tanker,84935,15320,13.3,9.6,818,57.7,1,1.02,0.31,Beam,Inter-Monsoon,66.69
+Container,135651,54170,24.0,16.2,1128,50.2,7,2.7,0.91,Head,Southwest Monsoon,156.83
+Container,98025,38992,22.3,20.8,2955,89.3,7,4.08,1.79,Head,Southwest Monsoon,1064.06
+Container,138280,55747,19.3,16.2,1876,85.6,8,2.9,2.38,Beam,Southwest Monsoon,809.01
+Bulker,36683,5364,13.1,8.8,2637,80.9,5,5.05,2.02,Head,Southwest Monsoon,97.74
+Bulker,147890,21971,14.4,13.2,3987,63.7,2,1.45,0.52,Following,Inter-Monsoon,688.46
+Bulker,174230,26491,14.7,10.0,1804,71.1,5,2.75,0.65,Head,Northeast Monsoon,253.51
+Bulker,99775,14620,12.9,9.0,2804,96.3,6,1.75,0.63,Beam,Northeast Monsoon,321.13
+Container,87515,35608,19.6,13.1,2571,61.2,2,1.48,0.76,Beam,Inter-Monsoon,283.99
+Tanker,281830,50360,15.5,10.0,1087,52.1,6,2.77,2.17,Beam,Southwest Monsoon,199.99
+Container,104408,42048,23.4,20.5,674,64.6,6,2.72,0.88,Beam,Northeast Monsoon,156.21
+Tanker,242931,43678,14.6,13.2,4245,56.3,4,2.16,0.57,Following,Northeast Monsoon,1385.4
+Container,33249,12802,22.2,13.4,1814,77.9,4,5.34,2.13,Head,Southwest Monsoon,79.02
+Bulker,164344,24826,14.8,9.6,2476,65.0,3,0.64,0.39,Head,Inter-Monsoon,247.69
+Bulker,84930,12298,15.8,10.8,3779,87.6,4,3.17,0.55,Beam,Southwest Monsoon,271.61
+Container,57817,22571,23.8,17.9,583,71.0,7,5.02,1.31,Beam,Southwest Monsoon,59.39
+Tanker,213610,38620,15.2,12.4,2579,52.0,4,4.56,2.32,Beam,Southwest Monsoon,601.13
+Bulker,45730,6762,15.6,12.5,2684,97.8,8,2.86,1.88,Head,Southwest Monsoon,179.57
+Bulker,150154,21796,12.1,9.1,1662,76.9,3,1.25,0.86,Head,Inter-Monsoon,271.94
+Tanker,237886,43345,13.3,11.8,716,98.9,5,3.96,0.78,Beam,Northeast Monsoon,391.23
+Tanker,233670,42015,13.1,9.5,757,55.7,2,0.55,0.92,Head,Inter-Monsoon,167.82
+Bulker,75500,12381,13.8,13.1,1228,79.1,3,1.97,0.89,Following,Northeast Monsoon,152.15
+Bulker,190859,28443,12.1,10.2,2766,58.0,7,4.54,1.97,Following,Southwest Monsoon,744.61
+Tanker,100225,17883,15.1,13.2,4504,63.4,5,4.89,2.43,Beam,Southwest Monsoon,673.67
+Container,63301,25089,19.8,18.6,3696,96.6,2,1.37,0.37,Head,Inter-Monsoon,768.55
+Tanker,158674,28645,13.1,9.7,3577,91.3,4,3.68,0.88,Beam,Northeast Monsoon,870.39
+Tanker,145627,26068,13.1,9.4,2905,90.5,7,3.08,2.02,Beam,Southwest Monsoon,625.29
+Container,43608,17096,19.2,13.3,4809,63.2,8,3.21,0.54,Head,Southwest Monsoon,337.39
+Tanker,146510,26573,16.9,10.3,2371,99.9,5,5.62,2.12,Beam,Southwest Monsoon,336.06
+Container,108713,43923,20.7,16.4,646,57.9,3,0.66,0.61,Beam,Inter-Monsoon,111.12
+Bulker,169510,25950,12.1,10.4,1996,98.3,1,1.78,0.62,Head,Inter-Monsoon,620.83
+Tanker,212932,38447,15.7,9.8,2014,95.0,3,0.75,0.33,Following,Inter-Monsoon,325.49
+Tanker,148240,25955,15.3,14.1,4333,54.9,5,1.67,0.82,Head,Northeast Monsoon,907.0
+Bulker,54765,7838,14.7,11.5,3061,89.2,5,3.56,1.23,Following,Southwest Monsoon,186.93
+Container,24351,9410,19.1,16.9,903,68.1,3,0.78,0.88,Head,Inter-Monsoon,55.26
+Container,113390,45974,18.3,15.1,2504,71.8,5,5.5,1.16,Head,Southwest Monsoon,819.72
+Tanker,281661,50547,14.2,11.3,1140,73.1,2,1.65,0.58,Head,Inter-Monsoon,403.73
+Bulker,48031,6845,14.9,13.1,4257,63.8,3,1.31,0.11,Following,Inter-Monsoon,223.9
+Bulker,111545,16028,15.7,12.0,2582,71.8,3,0.6,0.74,Following,Inter-Monsoon,219.53
+Container,82733,32384,23.6,20.1,4619,79.2,5,3.49,1.1,Following,Northeast Monsoon,830.62
+Container,90491,36329,20.6,13.0,1964,71.9,1,1.08,0.6,Following,Inter-Monsoon,209.17
+Tanker,259809,47014,16.7,15.2,4679,61.6,1,1.63,0.71,Beam,Inter-Monsoon,1630.13
+Container,71588,29041,20.5,13.8,542,88.7,1,0.72,0.92,Beam,Inter-Monsoon,57.61
+Bulker,165438,24612,15.3,13.4,1334,91.6,3,3.13,1.22,Following,Northeast Monsoon,337.19
+Tanker,125213,22920,16.9,12.3,743,50.8,6,2.57,1.78,Following,Southwest Monsoon,70.53
+Container,106484,43429,21.0,16.3,2143,70.1,8,4.91,1.2,Beam,Southwest Monsoon,525.94
+Tanker,98706,17966,13.6,11.4,919,54.2,5,3.39,1.41,Beam,Northeast Monsoon,124.73
+Bulker,123078,18899,15.5,12.8,1042,60.4,7,5.75,0.64,Head,Southwest Monsoon,163.34
+Container,137019,55125,20.1,13.0,3248,74.0,4,2.62,1.28,Head,Northeast Monsoon,692.6
+Bulker,91278,13935,14.0,9.1,4088,75.7,8,4.27,1.27,Beam,Southwest Monsoon,327.8
+Bulker,109374,16941,14.3,12.1,2869,87.9,4,2.8,1.15,Following,Northeast Monsoon,444.99
+Bulker,198403,29741,16.0,14.4,1642,90.5,6,3.53,1.18,Head,Northeast Monsoon,518.6
+Container,42023,16960,18.3,12.0,4947,60.8,3,0.59,0.94,Beam,Inter-Monsoon,256.39
+Tanker,210235,37433,15.6,14.0,727,79.8,5,4.98,0.6,Following,Southwest Monsoon,277.89
+Tanker,100198,18634,14.2,11.8,1382,84.7,3,3.29,0.72,Head,Northeast Monsoon,247.14
+Bulker,161019,24588,12.3,7.8,4564,52.3,2,1.19,0.43,Head,Inter-Monsoon,489.27
+Tanker,142375,25217,14.8,9.8,3499,80.7,8,5.81,1.72,Beam,Southwest Monsoon,585.46
+Container,65528,25957,18.4,11.9,1477,84.3,6,1.52,1.2,Following,Northeast Monsoon,156.28
+Bulker,145028,21876,15.9,11.2,4508,51.8,6,2.06,1.15,Head,Northeast Monsoon,444.85
+Bulker,195923,29367,14.3,12.7,3564,75.7,3,0.5,0.32,Head,Inter-Monsoon,928.07
+Tanker,88708,15250,14.9,12.9,1814,78.8,1,1.33,0.11,Head,Inter-Monsoon,228.26
+Tanker,105389,18483,16.5,10.8,1270,97.5,4,2.98,0.93,Beam,Northeast Monsoon,132.07
+Tanker,129934,23409,15.4,10.8,1561,77.9,4,4.49,0.76,Beam,Southwest Monsoon,224.6
+Container,72141,28762,18.7,15.6,3245,99.4,4,2.91,1.04,Head,Northeast Monsoon,732.62
+Container,86592,34500,23.4,16.5,4181,67.8,4,5.47,1.85,Beam,Southwest Monsoon,533.6
+Bulker,85616,13433,15.9,14.1,1071,59.6,5,4.17,1.12,Following,Southwest Monsoon,113.25
+Bulker,145705,21304,14.2,11.2,4199,96.0,2,0.5,0.71,Beam,Inter-Monsoon,708.17
+Container,134537,53537,20.8,13.5,3365,61.9,7,3.44,1.16,Head,Southwest Monsoon,634.5
+Container,56551,21538,22.0,16.0,3371,95.1,2,1.98,0.64,Beam,Inter-Monsoon,350.96
+Container,30342,11839,23.9,19.3,3323,74.1,7,3.14,2.38,Beam,Southwest Monsoon,197.67
+Bulker,161689,24052,15.1,11.1,1869,57.2,6,5.6,1.33,Following,Southwest Monsoon,241.08
+Bulker,105942,15730,15.3,14.2,2878,88.5,3,1.06,0.49,Following,Inter-Monsoon,478.56
+Container,136206,54547,22.1,19.0,748,62.9,7,5.79,2.21,Beam,Southwest Monsoon,235.5
+Container,140081,56328,19.1,15.0,2675,86.9,2,0.68,0.25,Beam,Inter-Monsoon,818.87
+Bulker,70544,11152,13.5,9.2,3576,93.6,7,5.32,1.09,Following,Southwest Monsoon,295.86
+Tanker,114399,21715,13.3,10.5,4024,66.0,5,5.78,1.85,Head,Southwest Monsoon,754.32
+Container,58633,23664,21.2,17.1,1420,70.7,3,3.08,1.19,Head,Northeast Monsoon,181.68
+Bulker,90983,13879,15.0,10.4,4180,62.0,6,2.91,1.84,Head,Southwest Monsoon,319.04
+Tanker,101580,18005,13.5,8.1,3487,60.4,8,2.79,1.45,Head,Southwest Monsoon,296.48
+Bulker,98306,14891,14.9,14.0,1508,83.9,6,3.54,1.01,Head,Northeast Monsoon,257.6
+Bulker,71966,10638,12.9,10.8,1691,98.5,4,4.68,0.76,Beam,Southwest Monsoon,224.7
+Bulker,72663,10208,14.7,9.0,2817,70.8,3,3.83,0.99,Beam,Northeast Monsoon,120.34
+Bulker,192894,29000,15.5,10.8,4348,97.3,3,1.99,0.6,Following,Inter-Monsoon,780.71
+Bulker,133975,19472,15.1,11.4,2285,84.3,4,2.06,0.9,Beam,Northeast Monsoon,296.81
+Container,36320,14648,18.7,13.7,3460,97.8,3,1.4,0.65,Head,Inter-Monsoon,281.42
+Tanker,94002,16340,16.8,14.6,2906,94.5,5,2.96,2.09,Following,Southwest Monsoon,418.66
+Container,121517,48331,21.7,20.4,3067,86.0,3,0.99,0.37,Head,Inter-Monsoon,1087.73
+Tanker,109000,20385,14.8,12.1,2582,82.1,6,5.7,1.08,Following,Southwest Monsoon,514.77
+Bulker,183361,27784,14.3,10.9,3209,79.4,4,2.44,0.64,Following,Northeast Monsoon,635.77
+Tanker,203875,35792,14.5,13.5,2609,79.5,4,2.61,1.48,Beam,Northeast Monsoon,1002.35
