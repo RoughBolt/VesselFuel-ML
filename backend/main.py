@@ -18,18 +18,38 @@ app.add_middleware(
 
 # Input Schema
 class VoyageInput(BaseModel):
+    # 1. Vessel
     Ship_Type: str
     DWT: float
-    Engine_Power_kW: float
+    GT: float
+    LOA: float
+    Beam: float
     Design_Speed: float
-    Avg_Speed_Knots: float
-    Distance_NM: float
     Draft_Percentage: float
+    Hull_Fouling: str
+
+    # 2. Propulsion
+    Main_Engine_Type: str
+    Engine_Power_kW: float
+    SFOC_g_kWh: float
+    Propeller_Type: str
+
+    # 3. Voyage
+    Distance_NM: float
+    Avg_Speed_Knots: float
+    Speed_Profile: str
+
+    # 4. Environment
+    Season: str
     Wind_Beaufort: int
+    Wind_Direction: str
     Wave_Height_m: float
     Current_Speed_Knots: float
     Current_Direction: str
-    Season: str
+
+    # 5. Fuel & Ops
+    Fuel_Type: str
+    Weather_Routing_Efficiency: float
 
 # Global Service
 explainer = None
@@ -60,5 +80,5 @@ def predict_fuel(data: VoyageInput):
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
 
-if __name__ == "__main__":
+    # Force reload trigger (Attempt 2)
     uvicorn.run(app, host="0.0.0.0", port=8000)

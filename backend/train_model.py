@@ -15,12 +15,20 @@ def train_model():
     X = df.drop('Fuel_Consumption_Tons', axis=1)
     y = df['Fuel_Consumption_Tons']
     
-    # Identify Categorical and Numerical columns
-    categorical_cols = ['Ship_Type', 'Current_Direction', 'Season']
-    numerical_cols = [col for col in X.columns if col not in categorical_cols]
+    # Identify Categorical and Numerical columns (V2 Advanced Model)
+    categorical_cols = [
+        'Ship_Type', 'Hull_Fouling', 'Main_Engine_Type', 'Propeller_Type', 
+        'Speed_Profile', 'Season', 'Wind_Direction', 'Current_Direction', 'Fuel_Type'
+    ]
     
-    print(f"Numerical features: {numerical_cols}")
-    print(f"Categorical features: {categorical_cols}")
+    numerical_cols = [
+        'DWT', 'GT', 'LOA', 'Beam', 'Design_Speed', 'Draft_Percentage', 
+        'Engine_Power_kW', 'SFOC_g_kWh', 'Distance_NM', 'Avg_Speed_Knots', 
+        'Wind_Beaufort', 'Wave_Height_m', 'Current_Speed_Knots', 'Weather_Routing_Efficiency'
+    ]
+    
+    print(f"Numerical features ({len(numerical_cols)}): {numerical_cols}")
+    print(f"Categorical features ({len(categorical_cols)}): {categorical_cols}")
     
     # Preprocessing Pipeline
     numerical_transformer = StandardScaler()
@@ -35,6 +43,11 @@ def train_model():
     
     # Fit the preprocessor
     X_processed = preprocessor.fit_transform(X)
+    
+    print(f"DEBUG: Processed Feature Shape: {X_processed.shape}")
+    feature_names = preprocessor.get_feature_names_out()
+    print(f"DEBUG: Total Features: {len(feature_names)}")
+    # print(f"DEBUG: Feature Names: {feature_names}")
     
     # Split data
     X_train, X_test, y_train, y_test = train_test_split(X_processed, y, test_size=0.2, random_state=42)
