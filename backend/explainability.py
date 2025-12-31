@@ -5,7 +5,7 @@ import shap
 import os
 
 class ExplainerService:
-    def __init__(self, model_path='backend/maritime_model.pkl', preprocessor_path='backend/preprocessor.pkl', features_col_path='backend/feature_names.pkl'):
+    def __init__(self, model_path='maritime_model.pkl', preprocessor_path='preprocessor.pkl', features_col_path='feature_names.pkl'):
         print("Initializing ExplainerService...")
         self.model_path = model_path
         self.preprocessor_path = preprocessor_path
