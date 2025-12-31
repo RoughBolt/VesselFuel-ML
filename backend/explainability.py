@@ -28,11 +28,16 @@ class ExplainerService:
         transformers = self.preprocessor.named_transformers_
         cat_transformer = transformers['cat']
         
-        encoded_cats = cat_transformer.get_feature_names_out(['Ship_Type', 'Current_Direction', 'Season'])
+        encoded_cats = cat_transformer.get_feature_names_out([
+            'Ship_Type', 'Hull_Fouling', 'Main_Engine_Type', 'Propeller_Type', 
+            'Speed_Profile', 'Season', 'Wind_Direction', 'Current_Direction', 'Fuel_Type'
+        ])
         
-        numerics = ['DWT', 'Engine_Power_kW', 'Design_Speed', 'Avg_Speed_Knots', 
-                   'Distance_NM', 'Draft_Percentage', 'Wind_Beaufort', 
-                   'Wave_Height_m', 'Current_Speed_Knots']
+        numerics = [
+            'DWT', 'GT', 'LOA', 'Beam', 'Design_Speed', 'Draft_Percentage', 
+            'Engine_Power_kW', 'SFOC_g_kWh', 'Distance_NM', 'Avg_Speed_Knots', 
+            'Wind_Beaufort', 'Wave_Height_m', 'Current_Speed_Knots', 'Weather_Routing_Efficiency'
+        ]
         
         return list(numerics) + list(encoded_cats)
 
@@ -51,23 +56,57 @@ class ExplainerService:
         fuel_estimate = float(prediction[0])
         
         # 4. SHAP Explanation
+        # 4. SHAP Explanation
         if self.explainer is None:
-             feature_count = processed_input.shape[1]
-             # Zero background
-             background = np.zeros((1, feature_count))
-             # For sklearn, we can pass the predict function
-             self.explainer = shap.KernelExplainer(self.model.predict, background)
+             # Generate a small background dataset for SHAP to use as reference
+             # This is much more stable than a single zero vector
+             from backend.data_generator import generate_synthetic_data
+             
+             print("Generating SHAP background data...")
+             background_df = generate_synthetic_data(num_samples=50)
+             # We must drop the target if it's in there, but generator returns it.
+             # The preprocessor expects the columns.
+             if 'Fuel_Consumption_Tons' in background_df.columns:
+                 background_df = background_df.drop('Fuel_Consumption_Tons', axis=1)
+                 
+             self.background_data = self.preprocessor.transform(background_df)
+             
+             print(f"DEBUG: Background Data Shape: {self.background_data.shape}")
+             
+             # Use simple sampling instead of kmeans to avoid indexing bugs
+             # Just take first 20 samples. Synthetic data is random anyway.
+             self.background_summary = self.background_data[:20]
+             print(f"DEBUG: Background Summary Shape: {self.background_summary.shape}")
+             
+             self.explainer = shap.KernelExplainer(self.model.predict, self.background_summary)
         
-        shap_values = self.explainer.shap_values(processed_input)
-        
-        # Check shape - KernelExplainer returns array for single output
-        if isinstance(shap_values, list):
-            vals = shap_values[0][0]
-        else:
-            vals = shap_values[0]
+        try:
+            # Run SHAP
+            shap_values = self.explainer.shap_values(processed_input)
             
-        feature_names = self._get_feature_names_after_encoding()
-        
+            # Debug Shapes
+            sh_shape = "N/A"
+            if isinstance(shap_values, list):
+                sh_shape = f"List[{len(shap_values)}] x {shap_values[0].shape}"
+                vals = shap_values[0][0]
+            else:
+                sh_shape = str(shap_values.shape)
+                vals = shap_values[0]
+
+            feature_names = self._get_feature_names_after_encoding()
+            
+            # Sanity Check
+            if len(vals) != len(feature_names):
+                raise ValueError(f"Shape Mismatch: SHAP vals {len(vals)} vs Names {len(feature_names)}")
+
+        except Exception as e:
+            import traceback
+            tb = traceback.format_exc()
+            debug_info = f"Error: {str(e)} | SHAP Shape: {sh_shape if 'sh_shape' in locals() else 'Unknown'} | Input Shape: {processed_input.shape}"
+            print(debug_info)
+            print(tb)
+            raise ValueError(debug_info)   
+
         contributions = {}
         for name, val in zip(feature_names, vals):
             contributions[name] = float(val)

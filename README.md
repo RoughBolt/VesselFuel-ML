@@ -19,13 +19,9 @@ By modeling complex interactions between vessel characteristics (Container, Bulk
 
 Watch our system in action!
 
-<https://github.com/user-attachments/assets/prototype.mp4>
+> **Note:** GitHub READMEs may not auto-play local video files. You can view the prototype using the link below.
 
-<video src="prototype.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
-
-> **Note:** If the video above does not play, you can open [prototype.mp4](./prototype.mp4) directly in your media player.
+[**▶️ Watch Prototype Demo (prototype.mp4)**](./prototype.mp4)
 
 ---
 
